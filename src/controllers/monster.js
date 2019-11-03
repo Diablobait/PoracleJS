@@ -248,7 +248,7 @@ class Monster extends Controller {
 								lat: data.latitude.toString().substring(0, 8),
 								lon: data.longitude.toString().substring(0, 8),
 								sticker: data.sticker.toLowerCase(),
-								message: caresCache === config.discord.limitamount + 1 ? { content: `You have reached the limit of ${config.discord.limitamount} messages over ${config.discord.limitsec} seconds` } : message,
+								message: caresCache === config.discord.limitamount + 1 ? { content: `Has superado el limite de ${config.discord.limitamount} mensajes cada ${config.discord.limitsec} segundos` } : message,
 								target: cares.id,
 								name: cares.name,
 								emoji: caresCache === config.discord.limitamount + 1 ? [] : data.emoji,
