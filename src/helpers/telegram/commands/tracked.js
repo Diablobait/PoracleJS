@@ -116,13 +116,13 @@ module.exports = (ctx) => {
 						let genderText = ''
 						let typeText = ''
 						if (invasion.gender === 1) {
-							genderText = 'Gender: male, '
+							genderText = 'Gender: Macho, '
 						}
 						else if (invasion.gender === 2) {
-							genderText = 'Gender: female, '
+							genderText = 'Gender: Hembra, '
 						}
 						if (!invasion.gruntType || invasion.gruntType === '') {
-							typeText = 'Any'
+							typeText = 'Cualquiera'
 						}
 						else {
 							typeText = invasion.gruntType
