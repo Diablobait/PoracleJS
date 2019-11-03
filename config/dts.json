@@ -322,11 +322,10 @@
     },
     "3": {
       "embed": {
-        "title": "Team Rocket [{{name}}]({{{mapurl}}})",
-        "description": "[Google Maps]({{{mapurl}}}) [Apple Maps]({{{applemap}}})",
-        "author": {
-          "name": "Acaba: {{time}} {{tthm}}m {{tths}}s",
-          "icon_url": "{{{imgurl}}}"
+        "title": "Team Rocket [{{name}}]({{{mapurl}}}) {{flagemoji}} {{addr}}",
+        "description": "{{gruntName}} {{genderName}}\nTipo: {{gruntType}} {{gruntTypeEmoji}}\nPosibles recompensas: {{gruntRewards}}",
+        "image": {
+          "url": "{{{imgurl}}}"
         }
       }
     },
