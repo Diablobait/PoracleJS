@@ -67,8 +67,8 @@ module.exports = (ctx) => {
 					monsters.forEach((monster) => {
 						const monsterName = monsterData[monster.pokemon_id].name
 						let miniv = monster.min_iv
-						let formName = formData[monster.pokemon_id] ? formData[monster.pokemon_id][monster.form] : 'none'
-						if (formName === undefined) formName = 'none'
+						let formName = formData[monster.pokemon_id] ? formData[monster.pokemon_id][monster.form] : 'ninguna'
+						if (formName === undefined) formName = 'ninguna'
 						if (miniv === -1) miniv = 0
 						message = message.concat(`\n*${monsterName}* forma: ${formName} distancia: ${monster.distance}m IV: ${miniv}%-${monster.max_iv}% PC: ${monster.min_cp}-${monster.max_cp} Nivel: ${monster.min_level}-${monster.max_level} Estadisticas: ${monster.atk}/${monster.def}/${monster.sta} - ${monster.maxAtk}/${monster.maxDef}/${monster.maxSta}, Genero:${genderData[monster.gender]}`)
 					})
@@ -79,8 +79,8 @@ module.exports = (ctx) => {
 					raids.forEach((raid) => {
 						const monsterName = monsterData[raid.pokemon_id].name
 						const raidTeam = teamData[raid.team].name
-						let formName = formData[raid.pokemon_id] ? formData[raid.pokemon_id][raid.form] : 'none'
-						if (formName === undefined) formName = 'none'
+						let formName = formData[raid.pokemon_id] ? formData[raid.pokemon_id][raid.form] : 'ninguna'
+						if (formName === undefined) formName = 'ninguna'
 
 						if (parseInt(raid.pokemon_id, 10) === 721) {
 							message = message.concat(`\n*Nivel:${raid.level} * Distancia: ${raid.distance}m controlado por ${raidTeam} , EX: ${raid.park}`)
