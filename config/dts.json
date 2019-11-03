@@ -323,7 +323,7 @@
     "3": {
       "embed": {
         "title": "Team Rocket [{{name}}]({{{mapurl}}}) {{flagemoji}} {{addr}}",
-        "description": "{{gruntName}} {{genderName}}\nTipo: {{gruntType}} {{gruntTypeEmoji}}\nPosibles recompensas: {{gruntRewards}}",
+        "description": "{{gruntName}} {{genderName}}\nTipo: {{gruntType}} {{gruntTypeEmoji}}\nPosibles recompensas:\n{{gruntRewards}}",
         "image": {
           "url": "{{{imgurl}}}"
         }
