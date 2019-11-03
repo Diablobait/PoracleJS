@@ -333,13 +333,9 @@
     "4": {
       "embed": {
         "title": "Team Rocket [{{name}}]({{{mapurl}}}) {{flagemoji}} {{addr}}",
-        "description": "[Google Maps]({{{mapurl}}}) [Apple Maps]({{{applemap}}})",
+        "description": "{{gruntName}} {{genderName}}\nTipo: {{gruntType}} {{gruntTypeEmoji}}\nPosibles recompensas: {{gruntRewards}}",
         "image": {
           "url": "{{{imgurl}}}"
-        },
-        "author": {
-          "name": "Acaba: {{time}}, {{tthm}}m {{tths}}s",
-          "icon_url": "{{{imgurl}}}"
         }
       }
     },
