@@ -1,42 +1,42 @@
 {
   "Grass": {
     "id": 12,
-    "emoji": "🌿",
+    "emoji": "\uD83C\uDF43",
     "color": 7915600
   },
   "Poison": {
     "id": 4,
-    "emoji": "☠",
+    "emoji": "☠️",
     "color": 10502304
   },
   "Fire": {
     "id": 10,
-    "emoji": "🔥",
+    "emoji": "\uD83D\uDD25",
     "color": 15761456
   },
   "Flying": {
     "id": 3,
-    "emoji": "🐦",
+    "emoji": "\uD83D\uDC26",
     "color": 11047152
   },
   "Water": {
     "id": 11,
-    "emoji": "💧",
+    "emoji": "\uD83D\uDCA7",
     "color": 6852848
   },
   "Bug": {
     "id": 7,
-    "emoji": "🐛",
+    "emoji": "\uD83D\uDC1B",
     "color": 11057184
   },
   "Normal": {
     "id": 1,
-    "emoji": "⭕",
+    "emoji": "\u2B55",
     "color": 9079385
   },
   "Dark": {
     "id": 17,
-    "emoji": "🌑",
+    "emoji": "\uD83C\uDF11",
     "color": 7368816
   },
   "Electric": {
@@ -46,42 +46,42 @@
   },
   "Rock": {
     "id": 6,
-    "emoji": "🗿",
+    "emoji": "\uD83D\uDC8E",
     "color": 12099640
   },
   "Ground": {
     "id": 5,
-    "emoji": "🗿",
+    "emoji": "⛰",
     "color": 14729320
   },
   "Fairy": {
     "id": 18,
-    "emoji": "🦋",
+    "emoji": "\uD83D\uDCAB",
     "color": 15243496
   },
   "Fighting": {
     "id": 2,
-    "emoji": "👊",
+    "emoji": "🥋",
     "color": 12595240
   },
   "Psychic": {
     "id": 14,
-    "emoji": "🔮",
+    "emoji": "\uD83D\uDD2E",
     "color": 16275592
   },
   "Steel": {
     "id": 9,
-    "emoji": "🔩",
+    "emoji": "⚙️",
     "color": 12105936
   },
   "Ice": {
     "id": 15,
-    "emoji": "❄",
+    "emoji": "\u2744",
     "color": 10016984
   },
   "Ghost": {
     "id": 8,
-    "emoji": "👻",
+    "emoji": "\uD83D\uDC7B",
     "color": 7362712
   },
   "Dragon": {
