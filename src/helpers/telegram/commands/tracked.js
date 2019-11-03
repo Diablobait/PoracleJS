@@ -110,7 +110,7 @@ module.exports = (ctx) => {
 					if (invasions.length) {
 						message = message.concat('\nTienes los siguientes filtros de invasiones:\n')
 					}
-					else message = message.concat('\nNo tienes ningun filtro de invasion)
+					else message = message.concat('\nno tienes ningun filtro de invasion')
 
 					invasions.forEach((invasion) => {
 						let genderText = ''
