@@ -23,7 +23,7 @@
       "embed": {
         "color": "{{ivcolor}}",
         "title": "[{{name}} {{formname}}]({{{mapurl}}}) {{emojiString}} PC:{{cp}} Nivel:{{level}} {{atk}}/{{ def }}/{{ sta }} {{gender}}",
-        "description": "IV:{{iv}}%\nHasta las: {{time}} - {{tthm}}m {{tths}}s {{#confirmedTime}}**Verificado**{{/confirmedTime}}{{^confirmedTime}}**Estimado**{{/confirmedTime}} \n{{flagemoji}} {{addr}} {{areas}} \nRápido: {{move1}} - Cargado: {{move2}}\n{{#boost}}Clima: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
+        "description": "IV:{{iv}}%\nHasta las: {{time}} - {{tthm}}m {{tths}}s {{#confirmedTime}}✅{{/confirmedTime}}{{^confirmedTime}}❓{{/confirmedTime}} \n{{flagemoji}} {{addr}} {{areas}}\n{{#boost}}Clima: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
         "thumbnail": {
           "url": "{{{imgurl}}}"
         }
@@ -75,7 +75,7 @@
         "thumbnail": {
           "url": "{{{imgurl}}}"
         },
-        "description":"[{{name}}]({{{mapurl}}}) Hasta las: {{time}} - {{tthm}}m {{tths}}s {{#confirmedTime}}**Verificado**{{/confirmedTime}}{{^confirmedTime}}**Estimado**{{/confirmedTime}} \n{{flagemoji}} {{addr}} {{areas}}\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}"
+        "description":"[{{name}}]({{{mapurl}}}) Hasta las: {{time}} - {{tthm}}m {{tths}}s {{#confirmedTime}}✅{{/confirmedTime}}{{^confirmedTime}}❓{{/confirmedTime}} \n{{flagemoji}} {{addr}} {{areas}}\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}"
 
       }
     },
