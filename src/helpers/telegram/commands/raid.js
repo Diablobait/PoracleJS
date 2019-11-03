@@ -19,7 +19,7 @@ module.exports = (ctx) => {
 
 	let target = { id: user.id.toString(), name: user.first_name }
 	if (!_.includes(controller.config.telegram.admins, user.id.toString()) && ctx.update.message.chat.type === 'group') {
-		return ctx.telegram.sendMessage(user.id, 'Please run commands in Direct Messages').catch((O_o) => {
+		return ctx.telegram.sendMessage(user.id, 'Por favor ejecuta los comandos por privado').catch((O_o) => {
 			controller.log.error(O_o.message)
 		})
 	}
@@ -32,7 +32,7 @@ module.exports = (ctx) => {
 				})
 			}
 			if (!isregistered && ctx.update.message.chat.type === 'private') {
-				return ctx.telegram.sendMessage(user.id, `You don't seem to be registered. \nYou can do this by sending /poracle to @${controller.config.telegram.channel}`).catch((O_o) => {
+				return ctx.telegram.sendMessage(user.id, `No estas registrado!!\nRegistrate con /registroavisos en el canal de Radar Chat`).catch((O_o) => {
 					controller.log.error(O_o.message)
 				})
 			}
@@ -105,7 +105,7 @@ module.exports = (ctx) => {
 					else if (monsters.length === 1 && levels.length === 0 && forms.length !== 0) {
 						const level = 0
 						if (!_.has(formData, monsters[0])) {
-							return ctx.reply(`Sorry, ${monsters[0]} doesn't have forms`).catch((O_o) => {
+							return ctx.reply(`Lo siento, ${monsters[0]}  no tiene esa forma`).catch((O_o) => {
 								controller.log.error(O_o.message)
 							})
 						}
@@ -115,7 +115,7 @@ module.exports = (ctx) => {
 							if (fid) fids.push(fid)
 						})
 						if (!fids.length) {
-							return ctx.reply(`Didn't find these forms for ${monsters[0]}`).catch((O_o) => {
+							return ctx.reply(`Lo siento, ${monsters[0]}  no tiene esa forma`).catch((O_o) => {
 								controller.log.error(O_o.message)
 							})
 						}
@@ -136,8 +136,8 @@ module.exports = (ctx) => {
 						})
 
 					}
-					else if (monsters.length === 0 && levels.length === 0) ctx.reply('404 NO MONSTERS FOUND')
-					else if (monsters.length !== 0 && levels.length !== 0) ctx.reply('400 Can\'t track raids by name and level at the same time')
+					else if (monsters.length === 0 && levels.length === 0) ctx.reply('Pokemon no encontrado!')
+					else if (monsters.length !== 0 && levels.length !== 0) ctx.reply('No puedes poner filtro por nombre y nivel al mismo tiempo')
 					else if (monsters.length === 0 && levels.length !== 0) {
 						const insertData = levels.map((level) => [target.id, 721, template, distance, park, team, level, form])
 						controller.query.insertOrUpdateQuery(
@@ -176,7 +176,7 @@ module.exports = (ctx) => {
 						})
 					}
 					if (!monsters.length && !levels.length) {
-						ctx.reply('404 No raid bosses or levels found').catch((O_o) => {
+						ctx.reply('No hay incursiones y niveles con esas caracteristicas').catch((O_o) => {
 							controller.log.error(O_o.message)
 						})
 					}

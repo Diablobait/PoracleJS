@@ -3,7 +3,7 @@ const _ = require('lodash')
 exports.run = (client, msg, args) => {
 	let target = { id: msg.author.id, name: msg.author.tag }
 	if (!_.includes(client.config.discord.admins, msg.author.id) && msg.channel.type === 'text') {
-		return msg.author.send('Please run commands in Direct Messages').catch((O_o) => {
+		return msg.author.send('Por favor ejecuta los comandos por privado').catch((O_o) => {
 			client.log.error(O_o.message)
 		})
 	}
@@ -68,7 +68,7 @@ exports.run = (client, msg, args) => {
 						client.log.log({ level: 'debug', message: `${msg.author.username} started tracking level (${levels.join(', ')}) eggs in ${target.name}`, event: 'discord:egg' })
 					}
 					else {
-						msg.reply('404 NO LEVELS FOUND').catch((O_o) => {
+						msg.reply('Nivel incorrecto!').catch((O_o) => {
 							client.log.error(O_o.message)
 						})
 					}
@@ -83,7 +83,7 @@ exports.run = (client, msg, args) => {
 					client.log.log({ level: 'debug', message: `${msg.author.username} removed tracking for level ${levels.join(', ')} eggs in ${target.name}`, event: 'discord:unegg' })
 				}
 				else {
-					msg.reply('404 NO MONSTERS FOUND').catch((O_o) => {
+					msg.reply('Pokemon no encontrado!').catch((O_o) => {
 						client.log.error(O_o.message)
 					})
 				}

@@ -19,7 +19,7 @@ module.exports = (ctx) => {
 
 	let target = { id: user.id.toString(), name: user.first_name }
 	if (!_.includes(controller.config.telegram.admins, user.id.toString()) && ctx.update.message.chat.type === 'group') {
-		return ctx.telegram.sendMessage(user.id, 'Please run commands in Direct Messages').catch((O_o) => {
+		return ctx.telegram.sendMessage(user.id, 'Por favor ejecuta los comandos por privado').catch((O_o) => {
 			controller.log.error(O_o.message)
 		})
 	}
@@ -32,7 +32,7 @@ module.exports = (ctx) => {
 				})
 			}
 			if (!isregistered && ctx.update.message.chat.type === 'private') {
-				return ctx.telegram.sendMessage(user.id, `You don't seem to be registered. \nYou can do this by sending /poracle to @${controller.config.telegram.channel}`).catch((O_o) => {
+				return ctx.telegram.sendMessage(user.id, `No estas registrado!!\nRegistrate con /registroavisos en el canal de Radar Chat`).catch((O_o) => {
 					controller.log.error(O_o.message)
 				})
 			}
@@ -119,18 +119,18 @@ module.exports = (ctx) => {
 
 				}
 				else if (monsters.length > 1 && forms.length) {
-					return ctx.reply('Form filters can be added to 1 monster at a time').catch((O_o) => {
+					return ctx.reply('Las formas solo se pueden añadir a un pokemon a la vez').catch((O_o) => {
 						controller.log.error(O_o.message)
 					})
 				}
 				else if (!monsters.length) {
-					return ctx.reply('404 NO MONSTERS FOUND').catch((O_o) => {
+					return ctx.reply('Pokemon no encontrado!').catch((O_o) => {
 						controller.log.error(O_o.message)
 					})
 				}
 				else if (monsters.length === 1 && forms.length) {
 					if (!_.has(formData, monsters[0])) {
-						return ctx.reply(`Sorry, ${monsters[0]} doesn't have forms`).catch((O_o) => {
+						return ctx.reply(`Lo siento, ${monsters[0]}  no tiene esa forma`).catch((O_o) => {
 							controller.log.error(O_o.message)
 						})
 					}
@@ -141,7 +141,7 @@ module.exports = (ctx) => {
 						if (fid) fids.push(fid)
 					})
 					const insertData = fids.map((form) => [target.id, monsters[0], template, distance, iv, maxiv, cp, maxcp, level, maxlevel, atk, def, sta, weight, maxweight, form, maxAtk, maxDef, maxSta, gender])
-					controller.log.log({ level: 'debug', message: `${user.first_name} started tracking ${monsters[0]} form: ${fids} in ${target.name}`, event: 'discord:track' })
+					controller.log.log({ level: 'debug', message: `${user.first_name} started tracking ${monsters[0]} Forma: ${fids} in ${target.name}`, event: 'discord:track' })
 					controller.query.insertOrUpdateQuery(
 						'monsters',
 						['id', 'pokemon_id', 'template', 'distance', 'min_iv', 'max_iv', 'min_cp', 'max_cp', 'min_level', 'max_level', 'atk', 'def', 'sta', 'min_weight', 'max_weight', 'form', 'maxAtk', 'maxDef', 'maxSta', 'gender'],
@@ -153,7 +153,7 @@ module.exports = (ctx) => {
 						})
 					}
 					else {
-						ctx.reply(`Sorry, I didn't find those forms for ${monsterData[monsters[0]].name}`).catch((O_o) => {
+						ctx.reply(`No se ha encontrado esa forma para ${monsterData[monsters[0]].name}`).catch((O_o) => {
 							controller.log.error(O_o.message)
 						})
 					}

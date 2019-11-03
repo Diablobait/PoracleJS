@@ -18,7 +18,7 @@ const questDts = require('../../../../config/questdts')
 exports.run = (client, msg) => {
 	let target = { id: msg.author.id, name: msg.author.tag }
 	if (!_.includes(client.config.discord.admins, msg.author.id) && msg.channel.type === 'text') {
-		return msg.author.send('Please run commands in Direct Messages').catch((O_o) => {
+		return msg.author.send('Por favor ejecuta los comandos por privado').catch((O_o) => {
 			client.log.error(O_o.message)
 		})
 	}
@@ -80,7 +80,7 @@ exports.run = (client, msg) => {
 						let formName = formData[monster.pokemon_id] ? formData[monster.pokemon_id][monster.form] : 'none'
 						if (formName === undefined) formName = 'none'
 						if (miniv === -1) miniv = 0
-						message = message.concat(`\n**${monsterName}** form: ${formName} distance: ${monster.distance}m iv: ${miniv}%-${monster.max_iv}% cp: ${monster.min_cp}-${monster.max_cp} level: ${monster.min_level}-${monster.max_level} stats: ${monster.atk}/${monster.def}/${monster.sta} - ${monster.maxAtk}/${monster.maxDef}/${monster.maxSta}, gender:${genderData[monster.gender]}`)
+						message = message.concat(`\n**${monsterName}** Forma: ${formName} Distancia: ${monster.distance}m iv: ${miniv}%-${monster.max_iv}% cp: ${monster.min_cp}-${monster.max_cp} level: ${monster.min_level}-${monster.max_level} stats: ${monster.atk}/${monster.def}/${monster.sta} - ${monster.maxAtk}/${monster.maxDef}/${monster.maxSta}, gender:${genderData[monster.gender]}`)
 					})
 					if (raids.length || eggs.length) {
 						message = message.concat('\n\nYou\'re tracking the following raids:\n')
@@ -93,15 +93,15 @@ exports.run = (client, msg) => {
 						if (formName === undefined) formName = 'none'
 
 						if (parseInt(raid.pokemon_id, 10) === 721) {
-							message = message.concat(`\n**level:${raid.level} raids** distance: ${raid.distance}m controlled by ${raidTeam} , must be in park: ${raid.park}`)
+							message = message.concat(`\n**level:${raid.level} raids** Distancia: ${raid.distance}m controlado por ${raidTeam} , EX: ${raid.park}`)
 						}
 						else {
-							message = message.concat(`\n**${monsterName}** form: ${formName}, distance: ${raid.distance}m controlled by ${raidTeam}, must be in park: ${raid.park}`)
+							message = message.concat(`\n**${monsterName}** Forma: ${formName}, Distancia: ${raid.distance}m controlado por ${raidTeam}, EX: ${raid.park}`)
 						}
 					})
 					eggs.forEach((egg) => {
 						const raidTeam = teamData[egg.team].name
-						message = message.concat(`\n**Level ${egg.raid_level} eggs** distance: ${egg.distance}m controlled by ${raidTeam} , must be in park: ${egg.park}`)
+						message = message.concat(`\n**Level ${egg.raid_level} eggs** Distancia: ${egg.distance}m controlado por ${raidTeam} , EX: ${egg.park}`)
 					})
 
 					if (quests.length) {
@@ -114,7 +114,7 @@ exports.run = (client, msg) => {
 						if (quest.reward_type === 7) rewardThing = monsterData[quest.reward].name
 						if (quest.reward_type === 3) rewardThing = `${quest.reward} or more stardust`
 						if (quest.reward_type === 2) rewardThing = questDts.rewardItems[quest.reward]
-						message = message.concat(`\nReward: ${rewardThing} distance: ${quest.distance}m `)
+						message = message.concat(`\nReward: ${rewardThing} Distancia: ${quest.distance}m `)
 					})
 
 					if (invasions.length) {
@@ -149,7 +149,7 @@ exports.run = (client, msg) => {
 						const hastebinMessage = hastebin(message)
 						hastebinMessage
 							.then((hastelink) => {
-								msg.reply(`${target.name} tracking list is quite long. Have a look at ${hastelink}`).catch((O_o) => {
+								msg.reply(`${target.name} la lista es muy larga. Puedes verla en`).catch((O_o) => {
 									client.log.error(O_o.message)
 								})
 							})

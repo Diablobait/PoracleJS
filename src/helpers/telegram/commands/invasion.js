@@ -9,7 +9,7 @@ module.exports = (ctx) => {
 
 	let target = { id: user.id.toString(), name: user.first_name }
 	if (!_.includes(controller.config.telegram.admins, user.id.toString()) && ctx.update.message.chat.type === 'group') {
-		return ctx.telegram.sendMessage(user.id, 'Please run commands in Direct Messages').catch((O_o) => {
+		return ctx.telegram.sendMessage(user.id, 'Por favor ejecuta los comandos por privado').catch((O_o) => {
 			controller.log.error(O_o.message)
 		})
 	}
@@ -22,7 +22,7 @@ module.exports = (ctx) => {
 				})
 			}
 			if (!isregistered && ctx.update.message.chat.type === 'private') {
-				return ctx.telegram.sendMessage(user.id, `You don't seem to be registered. \nYou can do this by sending /poracle to @${controller.config.telegram.channel}`).catch((O_o) => {
+				return ctx.telegram.sendMessage(user.id, `No estas registrado!!\nRegistrate con /registroavisos en el canal de Radar Chat`).catch((O_o) => {
 					controller.log.error(O_o.message)
 				})
 			}

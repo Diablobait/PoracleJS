@@ -22,7 +22,7 @@ module.exports = (ctx) => {
 
 	let target = { id: user.id.toString(), name: user.first_name }
 	if (!_.includes(controller.config.telegram.admins, user.id.toString()) && ctx.update.message.chat.type === 'group') {
-		return ctx.telegram.sendMessage(user.id, 'Please run commands in Direct Messages').catch((O_o) => {
+		return ctx.telegram.sendMessage(user.id, 'Por favor ejecuta los comandos por privado').catch((O_o) => {
 			controller.log.error(O_o.message)
 		})
 	}
@@ -35,7 +35,7 @@ module.exports = (ctx) => {
 				})
 			}
 			if (!isregistered && ctx.update.message.chat.type === 'private') {
-				return ctx.telegram.sendMessage(user.id, `You don't seem to be registered. \nYou can do this by sending /poracle to @${controller.config.telegram.channel}`).catch((O_o) => {
+				return ctx.telegram.sendMessage(user.id, `No estas registrado!!\nRegistrate con /registroavisos en el canal de Radar Chat`).catch((O_o) => {
 					controller.log.error(O_o.message)
 				})
 			}
@@ -55,14 +55,14 @@ module.exports = (ctx) => {
 					const quests = data[4]
 					const invasions = data[5]
 					const maplink = `https://www.google.com/maps/search/?api=1&query=${human.latitude},${human.longitude}`
-					ctx.reply(`👋\nYour location is currently set to ${maplink} \nand you currently are set to receive alarms in ${human.area}`).catch((O_o) => {
+					ctx.reply(`👋\nTu localización esta fijada en: ${maplink} \nTienes puesta la ciudad: ${human.area}`).catch((O_o) => {
 						controller.log.error(O_o.message)
 					})
 					let message = ''
 					if (monsters.length) {
-						message = message.concat('\n\nYou\'re  tracking the following monsters:\n')
+						message = message.concat('\nTienes los siguientes filtros de pokemon:\n')
 					}
-					else message = message.concat('\n\nYou\'re not tracking any monsters')
+					else message = message.concat('\nNo tienes ningun filtro de pokemon')
 
 					monsters.forEach((monster) => {
 						const monsterName = monsterData[monster.pokemon_id].name
@@ -70,12 +70,12 @@ module.exports = (ctx) => {
 						let formName = formData[monster.pokemon_id] ? formData[monster.pokemon_id][monster.form] : 'none'
 						if (formName === undefined) formName = 'none'
 						if (miniv === -1) miniv = 0
-						message = message.concat(`\n**${monsterName}** form: ${formName} distance: ${monster.distance}m iv: ${miniv}%-${monster.max_iv}% cp: ${monster.min_cp}-${monster.max_cp} level: ${monster.min_level}-${monster.max_level} stats: ${monster.atk}/${monster.def}/${monster.sta} - ${monster.maxAtk}/${monster.maxDef}/${monster.maxSta}, gender:${genderData[monster.gender]}`)
+						message = message.concat(`\n**${monsterName}** forma: ${formName} distancia: ${monster.distance}m IV: ${miniv}%-${monster.max_iv}% PC: ${monster.min_cp}-${monster.max_cp} Nivel: ${monster.min_level}-${monster.max_level} Estadisticas: ${monster.atk}/${monster.def}/${monster.sta} - ${monster.maxAtk}/${monster.maxDef}/${monster.maxSta}, Genero:${genderData[monster.gender]}`)
 					})
 					if (raids.length || eggs.length) {
-						message = message.concat('\n\nYou\'re tracking the following raids:\n')
+						message = message.concat('\nTienes los siguientes filtros de incursiones:\n')
 					}
-					else message = message.concat('\n\nYou\'re not tracking any raids')
+					else message = message.concat('\nNo tienes ningun filtro de incursiones')
 					raids.forEach((raid) => {
 						const monsterName = monsterData[raid.pokemon_id].name
 						const raidTeam = teamData[raid.team].name
@@ -83,34 +83,34 @@ module.exports = (ctx) => {
 						if (formName === undefined) formName = 'none'
 
 						if (parseInt(raid.pokemon_id, 10) === 721) {
-							message = message.concat(`\n**level:${raid.level} raids** distance: ${raid.distance}m controlled by ${raidTeam} , must be in park: ${raid.park}`)
+							message = message.concat(`\n**Nivel:${raid.level} ** Distancia: ${raid.distance}m controlado por ${raidTeam} , EX: ${raid.park}`)
 						}
 						else {
-							message = message.concat(`\n**${monsterName}** form: ${formName}, distance: ${raid.distance}m controlled by ${raidTeam}, must be in park: ${raid.park}`)
+							message = message.concat(`\n**${monsterName}** Forma: ${formName}, Distancia: ${raid.distance}m controlado por ${raidTeam}, EX: ${raid.park}`)
 						}
 					})
 					eggs.forEach((egg) => {
 						const raidTeam = teamData[egg.team].name
-						message = message.concat(`\n**Level ${egg.raid_level} eggs** distance: ${egg.distance}m controlled by ${raidTeam} , must be in park: ${egg.park}`)
+						message = message.concat(`\n**Nivel ${egg.raid_level} ** Distancia: ${egg.distance}m controlado por ${raidTeam} , EX: ${egg.park}`)
 					})
 
 					if (quests.length) {
-						message = message.concat('\n\nYou\'re tracking the following quests:\n')
+						message = message.concat('\nTienes los siguientes filtros de misiones:\n')
 					}
-					else message = message.concat('\n\nYou\'re not tracking any quests')
+					else message = message.concat('\nNo tienes ningun filtro de misiones')
 
 					quests.forEach((quest) => {
 						let rewardThing = ''
 						if (quest.reward_type === 7) rewardThing = monsterData[quest.reward].name
 						if (quest.reward_type === 3) rewardThing = `${quest.reward} or more stardust`
 						if (quest.reward_type === 2) rewardThing = questDts.rewardItems[quest.reward]
-						message = message.concat(`\nReward: ${rewardThing} distance: ${quest.distance}m `)
+						message = message.concat(`\nRecompensa: ${rewardThing} Distancia: ${quest.distance}m `)
 					})
 
 					if (invasions.length) {
-						message = message.concat('\n\nYou\'re tracking the following invasions:\n')
+						message = message.concat('\nTienes los siguientes filtros de invasiones:\n')
 					}
-					else message = message.concat('\n\nYou\'re not tracking any invasions')
+					else message = message.concat('\nNo tienes ningun filtro de invasion)
 
 					invasions.forEach((invasion) => {
 						let genderText = ''
@@ -127,7 +127,7 @@ module.exports = (ctx) => {
 						else {
 							typeText = invasion.gruntType
 						}
-						message = message.concat(`\nInvasion: ${genderText}Grunt type: ${typeText}`)
+						message = message.concat(`\nInvasion: ${genderText} Tipo: ${typeText}`)
 					})
 
 					controller.log.log({ level: 'debug', message: `${user.first_name} checked trackings`, event: 'telegram:tracked' })
@@ -139,14 +139,14 @@ module.exports = (ctx) => {
 						const hastebinMessage = hastebin(message)
 						hastebinMessage
 							.then((hastelink) => {
-								ctx.reply(`${target.name} tracking list is quite long. Have a look at ${hastelink}`).catch((O_o) => {
+								ctx.reply(`${target.name} la lista es muy larga. Puedes verla en`).catch((O_o) => {
 									controller.log.error(O_o.message)
 								})
 							})
 							.catch((err) => {
 								const filepath = path.join(__dirname, `../../../../.cache/${human.name}.txt`)
 								fs.writeFileSync(filepath, message)
-								ctx.reply(`${target.name} tracking list is long, but Hastebin is also down. ☹️ \nTracking list made into a file:`).catch((O_o) => {
+								ctx.reply(`${target.name} lista muy larga.`).catch((O_o) => {
 									controller.log.error(O_o.message)
 								})
 								const attachment = fs.readFileSync(filepath, { encoding: 'utf-8' })

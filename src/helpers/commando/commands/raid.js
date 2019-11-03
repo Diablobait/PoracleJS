@@ -14,7 +14,7 @@ const genData = require(`${__dirname}/../../../util/gens`)
 exports.run = (client, msg, args) => {
 	let target = { id: msg.author.id, name: msg.author.tag }
 	if (!_.includes(client.config.discord.admins, msg.author.id) && msg.channel.type === 'text') {
-		return msg.author.send('Please run commands in Direct Messages').catch((O_o) => {
+		return msg.author.send('Por favor ejecuta los comandos por privado').catch((O_o) => {
 			client.log.error(O_o.message)
 		})
 	}
@@ -109,7 +109,7 @@ exports.run = (client, msg, args) => {
 					else if (monsters.length === 1 && levels.length === 0 && forms.length !== 0) {
 						const level = 0
 						if (!_.has(formData, monsters[0])) {
-							return msg.reply(`Sorry, ${monsters[0]} doesn't have forms`).catch((O_o) => {
+							return msg.reply(`Lo siento, ${monsters[0]}  no tiene esa forma`).catch((O_o) => {
 								client.log.error(O_o.message)
 							})
 						}
@@ -119,7 +119,7 @@ exports.run = (client, msg, args) => {
 							if (fid) fids.push(fid)
 						})
 						if (!fids.length) {
-							return msg.reply(`Didn't find these forms for ${monsters[0]}`).catch((O_o) => {
+							return msg.reply(`Lo siento, ${monsters[0]}  no tiene esa forma`).catch((O_o) => {
 								client.log.error(O_o.message)
 							})
 						}
@@ -140,8 +140,8 @@ exports.run = (client, msg, args) => {
 						})
 
 					}
-					else if (monsters.length === 0 && levels.length === 0) msg.reply('404 NO MONSTERS FOUND')
-					else if (monsters.length !== 0 && levels.length !== 0) msg.reply('400 Can\'t track raids by name and level at the same time')
+					else if (monsters.length === 0 && levels.length === 0) msg.reply('Pokemon no encontrado!')
+					else if (monsters.length !== 0 && levels.length !== 0) msg.reply('No puedes poner filtro por nombre y nivel al mismo tiempo')
 					else if (monsters.length === 0 && levels.length !== 0) {
 						const insertData = levels.map((level) => [target.id, 721, template, distance, park, team, level, form])
 						client.query.insertOrUpdateQuery(
@@ -180,7 +180,7 @@ exports.run = (client, msg, args) => {
 						})
 					}
 					if (!monsters.length && !levels.length) {
-						msg.reply('404 No raid bosses or levels found').catch((O_o) => {
+						msg.reply('No hay incursiones y niveles con esas caracteristicas').catch((O_o) => {
 							client.log.error(O_o.message)
 						})
 					}

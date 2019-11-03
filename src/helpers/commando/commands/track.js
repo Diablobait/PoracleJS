@@ -13,7 +13,7 @@ const genData = require(`${__dirname}/../../../util/gens`)
 exports.run = (client, msg, args) => {
 	let target = { id: msg.author.id, name: msg.author.tag }
 	if (!_.includes(client.config.discord.admins, msg.author.id) && msg.channel.type === 'text') {
-		return msg.author.send('Please run commands in Direct Messages').catch((O_o) => {
+		return msg.author.send('Por favor ejecuta los comandos por privado').catch((O_o) => {
 			client.log.error(O_o.message)
 		})
 	}
@@ -118,18 +118,18 @@ exports.run = (client, msg, args) => {
 
 				}
 				else if (monsters.length > 1 && forms.length) {
-					return msg.reply('Form filters can be added to 1 monster at a time').catch((O_o) => {
+					return msg.reply('Las formas solo se pueden añadir a un pokemon a la vez').catch((O_o) => {
 						client.log.error(O_o.message)
 					})
 				}
 				else if (!monsters.length) {
-					return msg.reply('404 NO MONSTERS FOUND').catch((O_o) => {
+					return msg.reply('Pokemon no encontrado!').catch((O_o) => {
 						client.log.error(O_o.message)
 					})
 				}
 				else if (monsters.length === 1 && forms.length) {
 					if (!_.has(formData, monsters[0])) {
-						return msg.reply(`Sorry, ${monsters[0]} doesn't have forms`).catch((O_o) => {
+						return msg.reply(`Lo siento, ${monsters[0]}  no tiene esa forma`).catch((O_o) => {
 							client.log.error(O_o.message)
 						})
 					}
@@ -140,7 +140,7 @@ exports.run = (client, msg, args) => {
 						if (fid) fids.push(fid)
 					})
 					const insertData = fids.map((form) => [target.id, monsters[0], template, distance, iv, maxiv, cp, maxcp, level, maxlevel, atk, def, sta, weight, maxweight, form, maxAtk, maxDef, maxSta, gender])
-					client.log.log({ level: 'debug', message: `${msg.author.username} started tracking ${monsters[0]} form: ${fids} in ${target.name}`, event: 'discord:track' })
+					client.log.log({ level: 'debug', message: `${msg.author.username} started tracking ${monsters[0]} Forma: ${fids} in ${target.name}`, event: 'discord:track' })
 					client.query.insertOrUpdateQuery(
 						'monsters',
 						['id', 'pokemon_id', 'template', 'distance', 'min_iv', 'max_iv', 'min_cp', 'max_cp', 'min_level', 'max_level', 'atk', 'def', 'sta', 'min_weight', 'max_weight', 'form', 'maxAtk', 'maxDef', 'maxSta', 'gender'],
@@ -152,7 +152,7 @@ exports.run = (client, msg, args) => {
 						})
 					}
 					else {
-						msg.reply(`Sorry, I didn't find those forms for ${monsterData[monsters[0]].name}`).catch((O_o) => {
+						msg.reply(`No se ha encontrado esa forma para ${monsterData[monsters[0]].name}`).catch((O_o) => {
 							client.log.error(O_o.message)
 						})
 					}

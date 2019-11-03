@@ -4,7 +4,7 @@ exports.run = (client, msg, args) => {
 	const search = args.join(' ')
 	let target = { id: msg.author.id, name: msg.author.tag }
 	if (!_.includes(client.config.discord.admins, msg.author.id) && msg.channel.type === 'text') {
-		return msg.author.send('Please run commands in Direct Messages').catch((O_o) => {
+		return msg.author.send('Por favor ejecuta los comandos por privado').catch((O_o) => {
 			client.log.error(O_o.message)
 		})
 	}
