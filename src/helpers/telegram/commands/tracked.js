@@ -70,7 +70,7 @@ module.exports = (ctx) => {
 						let formName = formData[monster.pokemon_id] ? formData[monster.pokemon_id][monster.form] : 'none'
 						if (formName === undefined) formName = 'none'
 						if (miniv === -1) miniv = 0
-						message = message.concat(`\n**${monsterName}** forma: ${formName} distancia: ${monster.distance}m IV: ${miniv}%-${monster.max_iv}% PC: ${monster.min_cp}-${monster.max_cp} Nivel: ${monster.min_level}-${monster.max_level} Estadisticas: ${monster.atk}/${monster.def}/${monster.sta} - ${monster.maxAtk}/${monster.maxDef}/${monster.maxSta}, Genero:${genderData[monster.gender]}`)
+						message = message.concat(`\n*${monsterName}* forma: ${formName} distancia: ${monster.distance}m IV: ${miniv}%-${monster.max_iv}% PC: ${monster.min_cp}-${monster.max_cp} Nivel: ${monster.min_level}-${monster.max_level} Estadisticas: ${monster.atk}/${monster.def}/${monster.sta} - ${monster.maxAtk}/${monster.maxDef}/${monster.maxSta}, Genero:${genderData[monster.gender]}`)
 					})
 					if (raids.length || eggs.length) {
 						message = message.concat('\nTienes los siguientes filtros de incursiones:\n')
@@ -83,15 +83,15 @@ module.exports = (ctx) => {
 						if (formName === undefined) formName = 'none'
 
 						if (parseInt(raid.pokemon_id, 10) === 721) {
-							message = message.concat(`\n**Nivel:${raid.level} ** Distancia: ${raid.distance}m controlado por ${raidTeam} , EX: ${raid.park}`)
+							message = message.concat(`\n*Nivel:${raid.level} * Distancia: ${raid.distance}m controlado por ${raidTeam} , EX: ${raid.park}`)
 						}
 						else {
-							message = message.concat(`\n**${monsterName}** Forma: ${formName}, Distancia: ${raid.distance}m controlado por ${raidTeam}, EX: ${raid.park}`)
+							message = message.concat(`\n*${monsterName}* Forma: ${formName}, Distancia: ${raid.distance}m controlado por ${raidTeam}, EX: ${raid.park}`)
 						}
 					})
 					eggs.forEach((egg) => {
 						const raidTeam = teamData[egg.team].name
-						message = message.concat(`\n**Nivel ${egg.raid_level} ** Distancia: ${egg.distance}m controlado por ${raidTeam} , EX: ${egg.park}`)
+						message = message.concat(`\n*Nivel ${egg.raid_level} * Distancia: ${egg.distance}m controlado por ${raidTeam} , EX: ${egg.park}`)
 					})
 
 					if (quests.length) {
