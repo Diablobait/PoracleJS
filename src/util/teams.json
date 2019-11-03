@@ -1,6 +1,6 @@
 {
   "0":{
-    "name": "Uncontested",
+    "name": "Sin lider",
     "color": 7915600
   },
 
@@ -19,7 +19,7 @@
   },
 
   "4": {
-    "name": "Any team",
+    "name": "Cualquier equipo",
     "color": 1300169
   }
 }

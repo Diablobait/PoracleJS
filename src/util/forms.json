@@ -26,20 +26,20 @@
     "24": "X",
     "25": "Y",
     "26": "Z",
-    "27": "Exclamation",
-    "28": "Question"
+    "27": "Exclamacion",
+    "28": "Interrogacion"
   },
   "351": {
     "29": "Normal",
-    "30": "Sunny",
-    "31": "Rainy",
-    "32": "Snowy"
+    "30": "Soleado",
+    "31": "Lluvia",
+    "32": "Hielo"
   },
   "386": {
     "33": "Normal",
-    "34": "Attack",
-    "35": "Defense",
-    "36": "Speed"
+    "34": "Ataque",
+    "35": "Defensa",
+    "36": "Velocidad"
   },
   "327": {
     "37": "00",
@@ -66,14 +66,14 @@
   "19": {
     "45": "Normal",
     "46": "Alola",
-    "153": "Shadow",
-    "154": "Purified"
+    "153": "Oscuro",
+    "154": "Purificado"
   },
   "20": {
     "47": "Normal",
     "48": "Alola",
-    "155": "Shadow",
-    "156": "Purified",
+    "155": "Oscuro",
+    "156": "Purificado",
     "609": "NoEvolve"
   },
   "26": {
@@ -83,26 +83,26 @@
   "27": {
     "51": "Normal",
     "52": "Alola",
-    "673": "Shadow",
-    "674": "Purified"
+    "673": "Oscuro",
+    "674": "Purificado"
   },
   "28": {
     "53": "Normal",
     "54": "Alola",
-    "675": "Shadow",
-    "676": "Purified"
+    "675": "Oscuro",
+    "676": "Purificado"
   },
   "37": {
     "55": "Normal",
     "56": "Alola",
-    "725": "Shadow",
-    "726": "Purified"
+    "725": "Oscuro",
+    "726": "Purificado"
   },
   "38": {
     "57": "Normal",
     "58": "Alola",
-    "727": "Shadow",
-    "728": "Purified"
+    "727": "Oscuro",
+    "728": "Purificado"
   },
   "50": {
     "59": "Normal",
@@ -115,14 +115,14 @@
   "52": {
     "63": "Normal",
     "64": "Alola",
-    "709": "Shadow",
-    "710": "Purified"
+    "709": "Oscuro",
+    "710": "Purificado"
   },
   "53": {
     "65": "Normal",
     "66": "Alola",
-    "711": "Shadow",
-    "712": "Purified"
+    "711": "Oscuro",
+    "712": "Purificado"
   },
   "74": {
     "67": "Normal",
@@ -139,26 +139,26 @@
   "88": {
     "73": "Normal",
     "74": "Alola",
-    "220": "Shadow",
-    "221": "Purified"
+    "220": "Oscuro",
+    "221": "Purificado"
   },
   "89": {
     "75": "Normal",
     "76": "Alola",
-    "222": "Shadow",
-    "223": "Purified"
+    "222": "Oscuro",
+    "223": "Purificado"
   },
   "103": {
     "77": "Normal",
     "78": "Alola",
-    "732": "Shadow",
-    "733": "Purified"
+    "732": "Oscuro",
+    "733": "Purificado"
   },
   "105": {
     "79": "Normal",
     "80": "Alola",
-    "227": "Shadow",
-    "228": "Purified"
+    "227": "Oscuro",
+    "228": "Purificado"
   },
   "479": {
     "81": "Normal",
@@ -169,12 +169,12 @@
     "86": "Heat"
   },
   "413": {
-    "87": "Plant",
-    "88": "Sandy",
-    "89": "Trash"
+    "87": "Planta",
+    "88": "Arena",
+    "89": "Basura"
   },
   "487": {
-    "90": "Altered",
+    "90": "Modificada",
     "91": "Origin"
   },
   "492": {
@@ -183,7 +183,7 @@
   },
   "421": {
     "94": "Overcast",
-    "95": "Sunny"
+    "95": "Soleado"
   },
   "422": {
     "96": "West_Sea",
@@ -195,28 +195,28 @@
   },
   "493": {
     "100": "Normal",
-    "101": "Fighting",
-    "102": "Flying",
-    "103": "Poison",
-    "104": "Ground",
-    "105": "Rock",
+    "101": "Lucha",
+    "102": "Volador",
+    "103": "Veneno",
+    "104": "Tierra",
+    "105": "Roca",
     "106": "Bug",
-    "107": "Ghost",
-    "108": "Steel",
-    "109": "Fire",
-    "110": "Water",
-    "111": "Grass",
+    "107": "Fantasma",
+    "108": "Acero",
+    "109": "Fuego",
+    "110": "Agua",
+    "111": "Planta",
     "112": "Electric",
     "113": "Pyschic",
-    "114": "Ice",
+    "114": "Hielo",
     "115": "Dragon",
-    "116": "Dark",
-    "117": "Fairy"
+    "116": "Siniestro",
+    "117": "Hada"
   },
   "412": {
-    "118": "Plant",
-    "119": "Sandy",
-    "120": "Trash"
+    "118": "Planta",
+    "119": "Arena",
+    "120": "Basura"
   },
   "150": {
     "133": "Armored",
@@ -225,278 +225,278 @@
   },
   "41": {
     "157": "Normal",
-    "158": "Shadow",
-    "159": "Purified"
+    "158": "Oscuro",
+    "159": "Purificado"
   },
   "42": {
     "160": "Normal",
-    "161": "Shadow",
-    "162": "Purified"
+    "161": "Oscuro",
+    "162": "Purificado"
   },
   "1": {
     "163": "Normal",
-    "164": "Shadow",
-    "165": "Purified",
+    "164": "Oscuro",
+    "165": "Purificado",
     "604": "NoEvolve"
   },
   "2": {
     "166": "Normal",
-    "167": "Shadow",
-    "168": "Purified"
+    "167": "Oscuro",
+    "168": "Purificado"
   },
   "3": {
     "169": "Normal",
-    "170": "Shadow",
-    "171": "Purified"
+    "170": "Oscuro",
+    "171": "Purificado"
   },
   "4": {
     "172": "Normal",
-    "173": "Shadow",
-    "174": "Purified",
+    "173": "Oscuro",
+    "174": "Purificado",
     "605": "NoEvolve"
   },
   "5": {
     "175": "Normal",
-    "176": "Shadow",
-    "177": "Purified"
+    "176": "Oscuro",
+    "177": "Purificado"
   },
   "6": {
     "178": "Normal",
-    "179": "Shadow",
-    "180": "Purified",
+    "179": "Oscuro",
+    "180": "Purificado",
     "606": "NoEvolve"
   },
   "7": {
     "181": "Normal",
-    "182": "Shadow",
-    "183": "Purified",
+    "182": "Oscuro",
+    "183": "Purificado",
     "607": "NoEvolve"
   },
   "8": {
     "184": "Normal",
-    "185": "Shadow",
-    "186": "Purified"
+    "185": "Oscuro",
+    "186": "Purificado"
   },
   "9": {
     "187": "Normal",
-    "188": "Shadow",
-    "189": "Purified",
+    "188": "Oscuro",
+    "189": "Purificado",
     "608": "NoEvolve"
   },
   "147": {
     "190": "Normal",
-    "191": "Shadow",
-    "192": "Purified"
+    "191": "Oscuro",
+    "192": "Purificado"
   },
   "148": {
     "193": "Normal",
-    "194": "Shadow",
-    "195": "Purified"
+    "194": "Oscuro",
+    "195": "Purificado"
   },
   "149": {
     "196": "Normal",
-    "197": "Shadow",
-    "198": "Purified"
+    "197": "Oscuro",
+    "198": "Purificado"
   },
   "143": {
     "199": "Normal",
-    "200": "Shadow",
-    "201": "Purified"
+    "200": "Oscuro",
+    "201": "Purificado"
   },
   "169": {
     "202": "Normal",
-    "203": "Shadow",
-    "204": "Purified"
+    "203": "Oscuro",
+    "204": "Purificado"
   },
   "258": {
     "205": "Normal",
-    "206": "Shadow",
-    "207": "Purified"
+    "206": "Oscuro",
+    "207": "Purificado"
   },
   "259": {
     "208": "Normal",
-    "209": "Shadow",
-    "210": "Purified"
+    "209": "Oscuro",
+    "210": "Purificado"
   },
   "260": {
     "211": "Normal",
-    "212": "Shadow",
-    "213": "Purified"
+    "212": "Oscuro",
+    "213": "Purificado"
   },
   "96": {
     "214": "Normal",
-    "215": "Shadow",
-    "216": "Purified"
+    "215": "Oscuro",
+    "216": "Purificado"
   },
   "97": {
     "217": "Normal",
-    "218": "Shadow",
-    "219": "Purified"
+    "218": "Oscuro",
+    "219": "Purificado"
   },
   "104": {
     "224": "Normal",
-    "225": "Shadow",
-    "226": "Purified"
+    "225": "Oscuro",
+    "226": "Purificado"
   },
   "228": {
     "229": "Normal",
-    "230": "Shadow",
-    "231": "Purified"
+    "230": "Oscuro",
+    "231": "Purificado"
   },
   "229": {
     "232": "Normal",
-    "233": "Shadow",
-    "234": "Purified"
+    "233": "Oscuro",
+    "234": "Purificado"
   },
   "60": {
     "235": "Normal",
-    "236": "Shadow",
-    "237": "Purified"
+    "236": "Oscuro",
+    "237": "Purificado"
   },
   "61": {
     "238": "Normal",
-    "239": "Shadow",
-    "240": "Purified"
+    "239": "Oscuro",
+    "240": "Purificado"
   },
   "62": {
     "241": "Normal",
-    "242": "Shadow",
-    "243": "Purified"
+    "242": "Oscuro",
+    "243": "Purificado"
   },
   "186": {
     "244": "Normal",
-    "245": "Shadow",
-    "246": "Purified"
+    "245": "Oscuro",
+    "246": "Purificado"
   },
   "123": {
     "247": "Normal",
-    "248": "Shadow",
-    "249": "Purified"
+    "248": "Oscuro",
+    "249": "Purificado"
   },
   "212": {
     "250": "Normal",
-    "251": "Shadow",
-    "252": "Purified"
+    "251": "Oscuro",
+    "252": "Purificado"
   },
   "129": {
     "253": "Normal",
-    "254": "Shadow",
-    "255": "Purified"
+    "254": "Oscuro",
+    "255": "Purificado"
   },
   "130": {
     "256": "Normal",
-    "257": "Shadow",
-    "258": "Purified"
+    "257": "Oscuro",
+    "258": "Purificado"
   },
   "48": {
     "259": "Normal",
-    "260": "Shadow",
-    "261": "Purified"
+    "260": "Oscuro",
+    "261": "Purificado"
   },
   "49": {
     "262": "Normal",
-    "263": "Shadow",
-    "264": "Purified"
+    "263": "Oscuro",
+    "264": "Purificado"
   },
   "43": {
     "265": "Normal",
-    "266": "Shadow",
-    "267": "Purified"
+    "266": "Oscuro",
+    "267": "Purificado"
   },
   "44": {
     "268": "Normal",
-    "269": "Shadow",
-    "270": "Purified"
+    "269": "Oscuro",
+    "270": "Purificado"
   },
   "45": {
     "271": "Normal",
-    "272": "Shadow",
-    "273": "Purified"
+    "272": "Oscuro",
+    "273": "Purificado"
   },
   "182": {
     "274": "Normal",
-    "275": "Shadow",
-    "276": "Purified"
+    "275": "Oscuro",
+    "276": "Purificado"
   },
   "107": {
     "277": "Normal",
-    "278": "Shadow",
-    "279": "Purified"
+    "278": "Oscuro",
+    "279": "Purificado"
   },
   "58": {
     "280": "Normal",
-    "281": "Shadow",
-    "282": "Purified"
+    "281": "Oscuro",
+    "282": "Purificado"
   },
   "59": {
     "283": "Normal",
-    "284": "Shadow",
-    "285": "Purified"
+    "284": "Oscuro",
+    "285": "Purificado"
   },
   "54": {
     "286": "Normal",
-    "287": "Shadow",
-    "288": "Purified"
+    "287": "Oscuro",
+    "288": "Purificado"
   },
   "55": {
     "289": "Normal",
-    "290": "Shadow",
-    "291": "Purified"
+    "290": "Oscuro",
+    "291": "Purificado"
   },
   "280": {
     "292": "Normal",
-    "293": "Shadow",
-    "294": "Purified"
+    "293": "Oscuro",
+    "294": "Purificado"
   },
   "281": {
     "295": "Normal",
-    "296": "Shadow",
-    "297": "Purified"
+    "296": "Oscuro",
+    "297": "Purificado"
   },
   "282": {
     "298": "Normal",
-    "299": "Shadow",
-    "300": "Purified"
+    "299": "Oscuro",
+    "300": "Purificado"
   },
   "475": {
     "301": "Normal",
-    "302": "Shadow",
-    "303": "Purified"
+    "302": "Oscuro",
+    "303": "Purificado"
   },
   "63": {
     "304": "Normal",
-    "305": "Shadow",
-    "306": "Purified"
+    "305": "Oscuro",
+    "306": "Purificado"
   },
   "64": {
     "307": "Normal",
-    "308": "Shadow",
-    "309": "Purified"
+    "308": "Oscuro",
+    "309": "Purificado"
   },
   "65": {
     "310": "Normal",
-    "311": "Shadow",
-    "312": "Purified"
+    "311": "Oscuro",
+    "312": "Purificado"
   },
   "246": {
     "313": "Normal",
-    "314": "Shadow",
-    "315": "Purified"
+    "314": "Oscuro",
+    "315": "Purificado"
   },
   "247": {
     "316": "Normal",
-    "317": "Shadow",
-    "318": "Purified"
+    "317": "Oscuro",
+    "318": "Purificado"
   },
   "248": {
     "319": "Normal",
-    "320": "Shadow",
-    "321": "Purified"
+    "320": "Oscuro",
+    "321": "Purificado"
   },
   "131": {
     "322": "Normal",
-    "323": "Shadow",
-    "324": "Purified"
+    "323": "Oscuro",
+    "324": "Purificado"
   },
   "25": {
     "598": "Normal",
@@ -509,362 +509,362 @@
   "202": {
     "602": "Normal",
     "603": "NoEvolve",
-    "686": "Shadow",
-    "687": "Purified"
+    "686": "Oscuro",
+    "687": "Purificado"
   },
   "331": {
     "610": "Normal",
-    "611": "Shadow",
-    "612": "Purified"
+    "611": "Oscuro",
+    "612": "Purificado"
   },
   "332": {
     "613": "Normal",
-    "614": "Shadow",
-    "615": "Purified"
+    "614": "Oscuro",
+    "615": "Purificado"
   },
   "13": {
     "616": "Normal",
-    "617": "Shadow",
-    "618": "Purified"
+    "617": "Oscuro",
+    "618": "Purificado"
   },
   "14": {
     "619": "Normal",
-    "620": "Shadow",
-    "621": "Purified"
+    "620": "Oscuro",
+    "621": "Purificado"
   },
   "15": {
     "622": "Normal",
-    "623": "Shadow",
-    "624": "Purified"
+    "623": "Oscuro",
+    "624": "Purificado"
   },
   "273": {
     "625": "Normal",
-    "626": "Shadow",
-    "627": "Purified"
+    "626": "Oscuro",
+    "627": "Purificado"
   },
   "274": {
     "628": "Normal",
-    "629": "Shadow",
-    "630": "Purified"
+    "629": "Oscuro",
+    "630": "Purificado"
   },
   "275": {
     "631": "Normal",
-    "632": "Shadow",
-    "633": "Purified"
+    "632": "Oscuro",
+    "633": "Purificado"
   },
   "126": {
     "634": "Normal",
-    "635": "Shadow",
-    "636": "Purified"
+    "635": "Oscuro",
+    "636": "Purificado"
   },
   "467": {
     "637": "Normal",
-    "638": "Shadow",
-    "639": "Purified"
+    "638": "Oscuro",
+    "639": "Purificado"
   },
   "125": {
     "640": "Normal",
-    "641": "Shadow",
-    "642": "Purified"
+    "641": "Oscuro",
+    "642": "Purificado"
   },
   "466": {
     "643": "Normal",
-    "644": "Shadow",
-    "645": "Purified"
+    "644": "Oscuro",
+    "645": "Purificado"
   },
   "179": {
     "646": "Normal",
-    "647": "Shadow",
-    "648": "Purified"
+    "647": "Oscuro",
+    "648": "Purificado"
   },
   "180": {
     "649": "Normal",
-    "650": "Shadow",
-    "651": "Purified"
+    "650": "Oscuro",
+    "651": "Purificado"
   },
   "181": {
     "652": "Normal",
-    "653": "Shadow",
-    "654": "Purified"
+    "653": "Oscuro",
+    "654": "Purificado"
   },
   "81": {
     "655": "Normal",
-    "656": "Shadow",
-    "657": "Purified"
+    "656": "Oscuro",
+    "657": "Purificado"
   },
   "82": {
     "658": "Normal",
-    "659": "Shadow",
-    "660": "Purified"
+    "659": "Oscuro",
+    "660": "Purificado"
   },
   "462": {
     "661": "Normal",
-    "662": "Shadow",
-    "663": "Purified"
+    "662": "Oscuro",
+    "663": "Purificado"
   },
   "69": {
     "664": "Normal",
-    "665": "Shadow",
-    "666": "Purified"
+    "665": "Oscuro",
+    "666": "Purificado"
   },
   "70": {
     "667": "Normal",
-    "668": "Shadow",
-    "669": "Purified"
+    "668": "Oscuro",
+    "669": "Purificado"
   },
   "71": {
     "670": "Normal",
-    "671": "Shadow",
-    "672": "Purified"
+    "671": "Oscuro",
+    "672": "Purificado"
   },
   "137": {
     "677": "Normal",
-    "678": "Shadow",
-    "679": "Purified"
+    "678": "Oscuro",
+    "679": "Purificado"
   },
   "233": {
     "680": "Normal",
-    "681": "Shadow",
-    "682": "Purified"
+    "681": "Oscuro",
+    "682": "Purificado"
   },
   "474": {
     "683": "Normal",
-    "684": "Shadow",
-    "685": "Purified"
+    "684": "Oscuro",
+    "685": "Purificado"
   },
   "387": {
     "688": "Normal",
-    "689": "Shadow",
-    "690": "Purified"
+    "689": "Oscuro",
+    "690": "Purificado"
   },
   "388": {
     "691": "Normal",
-    "692": "Shadow",
-    "693": "Purified"
+    "692": "Oscuro",
+    "693": "Purificado"
   },
   "389": {
     "694": "Normal",
-    "695": "Shadow",
-    "696": "Purified"
+    "695": "Oscuro",
+    "696": "Purificado"
   },
   "23": {
     "697": "Normal",
-    "698": "Shadow",
-    "699": "Purified"
+    "698": "Oscuro",
+    "699": "Purificado"
   },
   "24": {
     "700": "Normal",
-    "701": "Shadow",
-    "702": "Purified"
+    "701": "Oscuro",
+    "702": "Purificado"
   },
   "109": {
     "703": "Normal",
-    "704": "Shadow",
-    "705": "Purified"
+    "704": "Oscuro",
+    "705": "Purificado"
   },
   "110": {
     "706": "Normal",
-    "707": "Shadow",
-    "708": "Purified"
+    "707": "Oscuro",
+    "708": "Purificado"
   },
   "106": {
     "713": "Normal",
-    "714": "Shadow",
-    "715": "Purified"
+    "714": "Oscuro",
+    "715": "Purificado"
   },
   "144": {
     "716": "Normal",
-    "717": "Shadow",
-    "718": "Purified"
+    "717": "Oscuro",
+    "718": "Purificado"
   },
   "200": {
     "719": "Normal",
-    "720": "Shadow",
-    "721": "Purified"
+    "720": "Oscuro",
+    "721": "Purificado"
   },
   "429": {
     "722": "Normal",
-    "723": "Shadow",
-    "724": "Purified"
+    "723": "Oscuro",
+    "724": "Purificado"
   },
   "102": {
     "729": "Normal",
-    "730": "Shadow",
-    "731": "Purified"
+    "730": "Oscuro",
+    "731": "Purificado"
   },
   "318": {
     "734": "Normal",
-    "735": "Shadow",
-    "736": "Purified"
+    "735": "Oscuro",
+    "736": "Purificado"
   },
   "319": {
     "737": "Normal",
-    "738": "Shadow",
-    "739": "Purified"
+    "738": "Oscuro",
+    "739": "Purificado"
   },
   "138": {
     "740": "Normal",
-    "741": "Shadow",
-    "742": "Purified"
+    "741": "Oscuro",
+    "742": "Purificado"
   },
   "139": {
     "743": "Normal",
-    "744": "Shadow",
-    "745": "Purified"
+    "744": "Oscuro",
+    "745": "Purificado"
   },
   "328": {
     "746": "Normal",
-    "747": "Shadow",
-    "748": "Purified"
+    "747": "Oscuro",
+    "748": "Purificado"
   },
   "329": {
     "749": "Normal",
-    "750": "Shadow",
-    "751": "Purified"
+    "750": "Oscuro",
+    "751": "Purificado"
   },
   "330": {
     "752": "Normal",
-    "753": "Shadow",
-    "754": "Purified"
+    "753": "Oscuro",
+    "754": "Purificado"
   },
   "371": {
     "755": "Normal",
-    "756": "Shadow",
-    "757": "Purified"
+    "756": "Oscuro",
+    "757": "Purificado"
   },
   "372": {
     "758": "Normal",
-    "759": "Shadow",
-    "760": "Purified"
+    "759": "Oscuro",
+    "760": "Purificado"
   },
   "373": {
     "761": "Normal",
-    "762": "Shadow",
-    "763": "Purified"
+    "762": "Oscuro",
+    "763": "Purificado"
   },
   "374": {
     "764": "Normal",
-    "765": "Shadow",
-    "766": "Purified"
+    "765": "Oscuro",
+    "766": "Purificado"
   },
   "375": {
     "767": "Normal",
-    "768": "Shadow",
-    "769": "Purified"
+    "768": "Oscuro",
+    "769": "Purificado"
   },
   "376": {
     "770": "Normal",
-    "771": "Shadow",
-    "772": "Purified"
+    "771": "Oscuro",
+    "772": "Purificado"
   },
   "145": {
     "773": "Normal",
-    "774": "Shadow",
-    "775": "Purified"
+    "774": "Oscuro",
+    "775": "Purificado"
   },
   "29": {
     "776": "Normal",
-    "777": "Shadow",
-    "778": "Purified"
+    "777": "Oscuro",
+    "778": "Purificado"
   },
   "30": {
     "779": "Normal",
-    "780": "Shadow",
-    "781": "Purified"
+    "780": "Oscuro",
+    "781": "Purificado"
   },
   "31": {
     "782": "Normal",
-    "783": "Shadow",
-    "784": "Purified"
+    "783": "Oscuro",
+    "784": "Purificado"
   },
   "33": {
     "785": "Normal",
-    "786": "Shadow",
-    "787": "Purified"
+    "786": "Oscuro",
+    "787": "Purificado"
   },
   "34": {
     "788": "Normal",
-    "789": "Shadow",
-    "790": "Purified"
+    "789": "Oscuro",
+    "790": "Purificado"
   },
   "434": {
     "791": "Normal",
-    "792": "Shadow",
-    "793": "Purified"
+    "792": "Oscuro",
+    "793": "Purificado"
   },
   "435": {
     "794": "Normal",
-    "795": "Shadow",
-    "796": "Purified"
+    "795": "Oscuro",
+    "796": "Purificado"
   },
   "215": {
     "797": "Normal",
-    "798": "Shadow",
-    "799": "Purified"
+    "798": "Oscuro",
+    "799": "Purificado"
   },
   "461": {
     "800": "Normal",
-    "801": "Shadow",
-    "802": "Purified"
+    "801": "Oscuro",
+    "802": "Purificado"
   },
   "207": {
     "803": "Normal",
-    "804": "Shadow",
-    "805": "Purified"
+    "804": "Oscuro",
+    "805": "Purificado"
   },
   "472": {
     "806": "Normal",
-    "807": "Shadow",
-    "808": "Purified"
+    "807": "Oscuro",
+    "808": "Purificado"
   },
   "66": {
     "809": "Normal",
-    "810": "Shadow",
-    "811": "Purified"
+    "810": "Oscuro",
+    "811": "Purificado"
   },
   "67": {
     "812": "Normal",
-    "813": "Shadow",
-    "814": "Purified"
+    "813": "Oscuro",
+    "814": "Purificado"
   },
   "68": {
     "815": "Normal",
-    "816": "Shadow",
-    "817": "Purified"
+    "816": "Oscuro",
+    "817": "Purificado"
   },
   "390": {
     "818": "Normal",
-    "819": "Shadow",
-    "820": "Purified"
+    "819": "Oscuro",
+    "820": "Purificado"
   },
   "391": {
     "821": "Normal",
-    "822": "Shadow",
-    "823": "Purified"
+    "822": "Oscuro",
+    "823": "Purificado"
   },
   "392": {
     "824": "Normal",
-    "825": "Shadow",
-    "826": "Purified"
+    "825": "Oscuro",
+    "826": "Purificado"
   },
   "213": {
     "827": "Normal",
-    "828": "Shadow",
-    "829": "Purified"
+    "828": "Oscuro",
+    "829": "Purificado"
   },
   "359": {
     "830": "Normal",
-    "831": "Shadow",
-    "832": "Purified"
+    "831": "Oscuro",
+    "832": "Purificado"
   },
   "303": {
     "833": "Normal",
-    "834": "Shadow",
-    "835": "Purified"
+    "834": "Oscuro",
+    "835": "Purificado"
   },
   "146": {
     "836": "Normal",
-    "837": "Shadow",
-    "838": "Purified"
+    "837": "Oscuro",
+    "838": "Purificado"
   }
 }

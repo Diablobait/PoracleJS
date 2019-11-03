@@ -1,0 +1,405 @@
+{
+  "monster": {
+    "1": {
+      "embed": {
+        "color": "{{ivcolor}}",
+        "author": {
+          "name": "[{{name}}]({{{mapurl}}}) Nivel {{level}} {{atk}}/{{ def }}/{{ sta }} {{gender}}, {{iv}}%. Hasta las: {{time}} - ({{tthm}}m {{tths}}s ) {{#confirmedTime}}**Verificado**{{/confirmedTime}}{{^confirmedTime}}**Estimado**{{/confirmedTime}} \n{{flagemoji}} {{addr}} {{areas}}\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
+          "icon_url": "{{{imgurl}}}"
+        }
+      }
+    },
+    "2": {
+      "embed": {
+        "color": "{{ivcolor}}",
+        "title": "[{{name}}]({{{mapurl}}}) Nivel {{level}} {{atk}}/{{ def }}/{{ sta }} {{gender}}, {{iv}}%. Hasta las: {{time}} - {{tthm}}m {{tths}}s {{#confirmedTime}}**Verificado**{{/confirmedTime}}{{^confirmedTime}}**Estimado**{{/confirmedTime}} \n{{flagemoji}} {{addr}} {{areas}}\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
+        "thumbnail": {
+          "url": "{{{gif}}}"
+        },
+        "description": ""
+      }
+    },
+    "3": {
+      "embed": {
+        "color": "{{ivcolor}}",
+        "title": "[{{name}} {{formname}}]({{{mapurl}}}) {{emojiString}} PC:{{cp}} Nivel:{{level}} {{atk}}/{{ def }}/{{ sta }} {{gender}}",
+        "description": "IV:{{iv}}%\nHasta las: {{time}} - {{tthm}}m {{tths}}s {{#confirmedTime}}**Verificado**{{/confirmedTime}}{{^confirmedTime}}**Estimado**{{/confirmedTime}} \n{{flagemoji}} {{addr}} {{areas}} \nRápido: {{move1}} - Cargado: {{move2}}\n{{#boost}}Clima: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
+        "thumbnail": {
+          "url": "{{{imgurl}}}"
+        }
+      }
+    },
+    "4": {
+      "embed": {
+        "color": "{{ivcolor}}",
+        "title": "[{{name}}]({{{mapurl}}}) PC:{{cp}} Nivel{{level}} {{atk}}/{{ def }}/{{ sta }} {{gender}}",
+        "description": "IV:{{iv}}%. Hasta las: {{time}} - {{tthm}}m {{tths}}s {{#confirmedTime}}**Verificado**{{/confirmedTime}}{{^confirmedTime}}**Estimado**{{/confirmedTime}} \n {{flagemoji}} {{addr}} {{areas}} \nRápido: {{move1}} -  Cargado: {{move2}} \n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
+        "thumbnail": {
+          "url": "{{{imgurl}}}"
+        }
+      }
+    },
+    "5": {
+      "embed": {
+        "color": "{{ivcolor}}",
+        "title": "[{{name}}]({{{mapurl}}}) PC:{{cp}} Nivel{{level}} {{atk}}/{{ def }}/{{ sta }} {{gender}}",
+        "description": "IV:{{iv}}%. Hasta las: {{time}} - {{tthm}}m {{tths}}s {{#confirmedTime}}**Verificado**{{/confirmedTime}}{{^confirmedTime}}**Estimado**{{/confirmedTime}} \n {{flagemoji}} {{addr}} {{areas}} \nRápido: {{move1}} - Cargado: {{move2}} \n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
+        "thumbnail": {
+          "url": "{{{imgurl}}}"
+        }
+      }
+    }
+  },
+  "monsterNoIv": {
+    "1": {
+      "embed": {
+        "color": "{{color}}",
+        "author": {
+          "name":"[{{name}}]({{{mapurl}}}) Hasta las: {{time}} - ({{tthm}}m {{tths}}s ) {{#confirmedTime}}**Verificado**{{/confirmedTime}}{{^confirmedTime}}**Estimado**{{/confirmedTime}} \n{{flagemoji}} {{addr}} {{areas}}\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
+          "icon_url": "{{{imgurl}}}"
+        }
+      }
+    },
+    "2": {
+      "embed": {
+        "color": "{{color}}",
+        "thumbnail": {
+          "url": "{{{gif}}}"
+        },
+        "description":"[{{name}}]({{{mapurl}}}) Hasta las: {{time}} - {{tthm}}m {{tths}}s {{#confirmedTime}}**Verificado**{{/confirmedTime}}{{^confirmedTime}}**Estimado**{{/confirmedTime}} \n{{flagemoji}} {{addr}} {{areas}}\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}"
+      }
+    },
+    "3": {
+      "embed": {
+        "color": "{{color}}",
+        "thumbnail": {
+          "url": "{{{imgurl}}}"
+        },
+        "description":"[{{name}}]({{{mapurl}}}) Hasta las: {{time}} - {{tthm}}m {{tths}}s {{#confirmedTime}}**Verificado**{{/confirmedTime}}{{^confirmedTime}}**Estimado**{{/confirmedTime}} \n{{flagemoji}} {{addr}} {{areas}}\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}"
+
+      }
+    },
+    "4": {
+      "embed": {
+        "title":"",
+        "color": "{{color}}",
+        "thumbnail": {
+          "url": "{{{imgurl}}}"
+        },
+        "description":"[{{name}}]({{{mapurl}}}) Hasta las: {{time}} - {{tthm}}m {{tths}}s {{#confirmedTime}}**Verificado**{{/confirmedTime}}{{^confirmedTime}}**Estimado**{{/confirmedTime}} \n{{flagemoji}} {{addr}} {{areas}}\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}"
+
+      }
+    },
+    "5": {
+      "embed": {
+        "title":"",
+        "color": "{{color}}",
+        "thumbnail": {
+          "url": "{{{imgurl}}}"
+        },
+        "description":"[{{name}}]({{{mapurl}}}) Hasta las:  {{time}} - {{tthm}}m {{tths}}s {{#confirmedTime}}**Verificado**{{/confirmedTime}}{{^confirmedTime}}**Estimado**{{/confirmedTime}} \n{{flagemoji}} {{addr}} {{areas}}\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}"
+
+      }
+    }
+  },
+  "raid": {
+    "1": {
+      "embed": {
+        "color": "{{color}}",
+        "author": {
+          "name": "[{{gymname}}]({{{mapurl}}}) Incursión nivel {{level}} {{name}} {{formname}} {{flagemoji}} {{addr}} {{areas}} Acaba a las: {{time}} - {{tthm}}m {{tths}}s\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
+          "url": "{{{mapurl}}}",
+          "icon_url": "{{{imgurl}}}"
+        }
+      }
+    },
+    "2": {
+      "embed": {
+        "title": "[{{gymname}}]({{{mapurl}}}) {{ex}}, \n {{countryCode}} {{flagemoji}} {{addr}} {{areas}}",
+        "description": "",
+        "color": "{{color}}",
+        "thumbnail": {
+          "url": "{{{detailsurl}}}"
+        },
+        "author": {
+          "name": "{{name}} Nivel {{level}} Acaba a las: {{time}} - {{tthm}}m {{tths}}s\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
+          "url": "{{{mapurl}}}",
+          "icon_url": "{{{gif}}}"
+        }
+      }
+    },
+    "3": {
+      "embed": {
+        "title": "",
+        "description": "",
+        "color": "{{color}}",
+        "thumbnail": {
+          "url": "{{{imgurl}}}"
+        },
+        "author": {
+          "name": "[{{gymname}}]({{{mapurl}}}){{#ex}}\n🌟🌟🌟EX🌟🌟🌟{{/ex}}\n{{name}} {{formname}} ({{cp20}} - {{cp25}}) 💠 Nivel {{level}}\nAcaba a las: 🕐 {{time}} - {{tthm}}m {{tths}}s\nEquipo: {{teamname}}",
+          "icon_url": "{{{detailsurl}}}"
+        }
+      }
+    },
+    "4": {
+      "embed": {
+        "title": "[{{gymname}}]({{{mapurl}}}) {{flagemoji}} {{addr}} {{areas}}",
+        "description": "Rápido: {{move1}} Cargado: {{move2}} \nPC: {{mincp20}} - {{cp20}} \nPC (Potenciado) {{mincp25}} - {{cp25}} \n",
+        "color": "{{color}}",
+        "thumbnail": {
+          "url": "{{{imgurl}}}"
+        },
+        "author": {
+          "name": "{{name}} Nivel {{level}} Hasta las: {{time}} - {{tthm}}m {{tths}}s\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
+          "icon_url": "{{{detailsurl}}}"
+        }
+      }
+    },
+    "5": {
+      "embed": {
+        "title": "[{{gymname}}]({{{mapurl}}}) de nivel {{level}} {{flagemoji}} {{addr}} {{areas}}",
+        "description": "{{name}} finalizará a las {{time}}, tienes {{tthm}}m {{tths}}s disponibles \nRápido: {{move1}} Cargado: {{move2}} \nPC: {{mincp20}} - {{cp20}} \nPC (Potenciado) {{mincp25}} - {{cp25}}\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
+        "color": "{{color}}",
+        "thumbnail": {
+          "url": "{{{detailsurl}}}"
+        },
+        "image": {
+          "url": "{{{imgurl}}}"
+        }
+      }
+    }
+  },
+  "egg": {
+    "1": {
+      "embed": {
+        "color": "{{color}}",
+        "author": {
+          "name": "[{{gymname}}]({{{mapurl}}}) Huevo N{{level}} {{flagemoji}} abrirá a las: {{time}} - {{tthm}}m {{tths}}s\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
+          "url": "{{{mapurl}}}",
+          "icon_url": "{{{imgurl}}}"
+        }
+      }
+    },
+    "2": {
+      "embed": {
+        "title": "[{{gymname}}]({{{mapurl}}}): {{ex}}, \n {{countryCode}} {{flagemoji}} {{addr}} {{areas}}",
+        "description": "",
+        "color": "{{color}}",
+        "thumbnail": {
+          "url": "{{{detailsurl}}}"
+        },
+        "author": {
+          "name": "Nivel {{level}} abrirá a las: {{time}} - {{tthm}}m {{tths}}s\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
+          "icon_url": "{{{imgurl}}}"
+        }
+      }
+    },
+    "3": {
+      "embed": {
+        "title": "",
+        "description": "",
+        "color": "{{color}}",
+        "thumbnail": {
+          "url": "{{{detailsurl}}}"
+        },
+        "author": {
+          "name": "[{{gymname}}]({{{mapurl}}}){{#ex}}\n🌟🌟🌟EX🌟🌟🌟{{/ex}}\n🥚 Nivel: {{level}}\nAbrirá a las 🕐 {{time}} - {{tthm}}m {{tths}}s\nEquipo: {{teamname}}",
+          "icon_url": "{{{imgurl}}}"
+        }
+      }
+    },
+    "4": {
+      "embed": {
+        "title": "Incursion ({{ex}}) [{{gymname}}]({{{mapurl}}}) {{flagemoji}} {{addr}} {{areas}}",
+        "description": "",
+        "color": "{{color}}",
+        "thumbnail": {
+          "url": "{{{imgurl}}}"
+        },
+        "image": {
+          "url": "{{{detailsurl}}}"
+        },
+        "author": {
+          "name": "{{name}} Nivel {level}} hasta las: {{time}} - {{tthm}}m {{tths}}s\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
+          "icon_url": "{{{detailsurl}}}"
+        }
+      }
+    },
+    "5": {
+      "embed": {
+        "title": "Incursión nivel {{level}} comenzará en [{{gymname}}]({{{mapurl}}}) \n {{flagemoji}} {{addr}} {{areas}}",
+        "description": "Empezará a las: {{time}} - {{tthm}}m {{tths}}s\n{{#boost}}Potenciado: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
+        "color": "{{color}}",
+        "thumbnail": {
+          "url": "{{{detailsurl}}}"
+        },
+        "image": {
+          "url": "{{{imgurl}}}"
+        }
+      }
+    }
+  },
+  "quest": {
+    "1": {
+      "embed": {
+        "description": "",
+        "author": {
+          "name": "[{{name}}]({{{mapurl}}}) {{questType}}, {{conditions}}, {{reward}} {{flagemoji}} {{addr}",
+          "url": "{{{mapurl}}",
+          "icon_url": "{{{imgurl}}}"
+        }
+      }
+    },
+    "2": {
+      "embed": {
+        "title": "Condiciones: {{conditions}} \nRecompensa:  {{reward}}",
+        "url": "{{{mapurl}}}",
+        "description": "",
+        "author": {
+          "name": " {{questType}} - {{addr}",
+          "url": "{{{mapurl}}",
+          "icon_url": "{{{imgurl}}}"
+        }
+      }
+    },
+    "3": {
+      "embed": {
+        "title": "{{questType}}, {{flagemoji}} {{addr}} {{areas}} \n [{{name}}]({{{mapurl}}})",
+        "url": "{{{mapurl}}}",
+        "description": "Condiciones: {{conditions}} \nRecompensa:  {{reward}} {{monsterNames}}",
+        "thumbnail": {
+          "url": "{{{imgurl}}}"
+        }
+      }
+    },
+    "4": {
+      "embed": {
+        "title": "{{questType}}, {{flagemoji}} {{addr}} {{areas}} \n [{{name}}]({{{mapurl}}})",
+        "url": "{{{mapurl}}}",
+        "description": "Condiciones: {{conditions}} \nRecompensa:  {{reward}} {{monsterNames}}",
+        "thumbnail": {
+          "url": "{{{imgurl}}}"
+        },
+        "image": {
+          "url": "{{{url}}}"
+        }
+      }
+    },
+    "5": {
+      "embed": {
+        "title": "{{questType}}, {{flagemoji}}{{addr}} {{areas}} \n [{{name}}]({{{mapurl}}})",
+        "url": "{{{mapurl}}}",
+        "description": "Condiciones: {{conditions}} \nRecompensa:  {{reward}} {{monsterNames}}",
+        "thumbnail": {
+          "url": "{{{url}}}"
+        },
+        "image": {
+          "url": "{{{imgurl}}}"
+        }
+      }
+    }
+  },
+  "incident": {
+    "1": {
+      "embed": {
+        "author": {
+          "name": "R {{flagemoji}} {{lat}}, {{lon}} Hasta: {{time}}, {{tthm}}m {{tths}}s",
+          "url": "{{{mapurl}}}",
+          "icon_url": "{{{imgurl}}}"
+        }
+      }
+    },
+    "2": {
+      "embed": {
+        "title": "[{{name}}]({{{mapurl}}}): Team Rocket, \n {{countryCode}} {{flagemoji}} {{addr}} )",
+        "description": "[Google Maps]({{{mapurl}}}) [Apple Maps]({{{applemap}}})",
+        "author": {
+          "name": "end: {{time}} in {{tthm}}m {{tths}}s",
+          "icon_url": "{{{imgurl}}}"
+        }
+      }
+    },
+    "3": {
+      "embed": {
+        "title": "Team Rocket [{{name}}]({{{mapurl}}})",
+        "description": "[Google Maps]({{{mapurl}}}) [Apple Maps]({{{applemap}}})",
+        "author": {
+          "name": "Acaba: {{time}} {{tthm}}m {{tths}}s",
+          "icon_url": "{{{imgurl}}}"
+        }
+      }
+    },
+    "4": {
+      "embed": {
+        "title": "Team Rocket [{{name}}]({{{mapurl}}}) {{flagemoji}} {{addr}}",
+        "description": "[Google Maps]({{{mapurl}}}) [Apple Maps]({{{applemap}}})",
+        "image": {
+          "url": "{{{imgurl}}}"
+        },
+        "author": {
+          "name": "Acaba: {{time}}, {{tthm}}m {{tths}}s",
+          "icon_url": "{{{imgurl}}}"
+        }
+      }
+    },
+    "5": {
+      "embed": {
+        "title": "Team rocket incident at {{name}} {{flagemoji}} {{addr}} \n {{areas}}",
+        "description": "End time : {{time}}, you have {{tthm}}m {{tths}}s left \nCoords: {{lat}}, {{lon}} \n[Google Maps]({{{mapurl}}}) [Apple Maps]({{{applemap}}})",
+        "thumbnail": {
+          "url": "{{{imgurl}}}"
+        }
+      }
+    }
+  },
+  "greeting": {
+    "embed": {
+      "title": "Bienvenido",
+      "description": "Gracias por registrarte.\nPor favor guarda una localización con `/localizacion dirección` o `/localizacion coordenadas`, por ejemplo /localizacion 42.2343242,-8.23423423",
+      "fields": [
+        {
+          "name": "**Comandos generales**",
+          "value": "`/stop`: Para las alarmas temporalmente \n`/start`: Vuelve a activar las alarmas \n`/localizacion dirección`: Seleccionas la localización para los avisos por distancia\n`/avisos`: Muestra tus avisos y localización seleccionada"
+        },
+        {
+          "name": "**Filtros Pokemon**",
+          "value": "`d500` Seleccionamos la distancía máxima de la localización que añadimos en metros, no exceder de 10.000 o se borraran\n`iv` Seleccionamos el iv minimo a mostrar\n`maxiv` Seleccionamos el IV máximo a mostrar\n`cp` Seleccionamos el CP minimo\n`maxcp` Seleccionamos el CP máximo\n`level` Seleccionamos el nivel mínimo\n`maxlevel`Seleccionamos el nivel máximo\n`atk def sta` Seleccionamos el atributo o atributos minimos que queremos atk15 def14 sta13 por ejemplo\n`maxatk maxdef maxsta` Seleccionamos los atributos máximos\n`male female` Seleccionamos el genero\n`formalola` Seleccionamos la forma alola"
+        },
+        {
+          "name": "**Comandos de Pokemon**",
+          "value": "`/aviso snorlax d500 iv50 maxiv90 cp1000 level15`: Cualquier argumento es valido, este comando enviará por privado sobre un Snorlax a menos de 500 metros de tu localización seleccionada. En este filtro de ejemplo seleccionamos un IV de 50% - 90% y al menos nivel 15 con un mínimo de PC 1000 \n`/quitaraviso lapras`: Borra el aviso de Lapras"
+        },
+        {
+          "name": "**Filtros Incursiones**",
+          "value": "`d1000` Seleccionamos la distancía máxima de la localización que añadimos en metros\n`level` Seleccionamos el nivel deseado de la incursión\n`instinct mystic valor` Seleccionamos el equipo lider de la incursión\n`ex` Seleccionamos solo incursiones en gimnasios EX"
+        },
+        {
+          "name": "**Comandos de Incursiones**",
+          "value": "`/incursion snorlax lapras d500 instinct`: Este comando te avisará de una incursion de snorlax o lapras en un radio de menos de 500 metros de tu localización o dentro del area que elijas. A mayores también se pide que este controlado por el team Instinct\n`/incursion remove lapras vileplume`: Borra los avisos de las incursiones para lapras y vileplume"
+        },
+        {
+          "name": "**Filtros Huevo**",
+          "value": "`d1000` Seleccionamos la distancía máxima de la localización que añadimos en metros\n`level` Seleccionamos el nivel deseado del huevo\n`instinct mystic valor` Seleccionamos el equipo lider del gimnasio al salir el huevo\n`ex` Seleccionamos solo huevos en gimnasios EX"
+        },
+        {
+          "name": "**Comandos de Huevo**",
+          "value": "`/huevo level3 d500 instinct`: Este comando te avisará de cualquier huevo que salga de nivel 3 en un ratio de 500 metros o el area que elijas. A mayores también se pide que este controlado por el team Instinct\n`/huevo remove level3`: Borra el aviso para los huevos de nivel 3"
+        },
+        {
+          "name": "**Filtros Misiones**",
+          "value": "`d200` Seleccionamos la distancía máxima de la localización que añadimos en metros"
+        },
+        {
+          "name": "**Comandos de Misiones**",
+          "value": "`/mision porygon d500`: Este comando te avisará de las misiones en un rango de menos de 500 metros que den al completarlas porygon como recompensa. Tambien se puede usar `stardust1500`"
+        },
+        {
+          "name": "**Comandos de Team Rocket**",
+          "value": "`/invasion d500 dragon`: Este comando te avisará de los team rocket de tipo dragon a un rango de 500metros, puedes poner también el nombre de un pokemon.\n `/invasion remove`: Borra los avisos avisos de todas las invasiones."
+        }
+      ]
+    }
+  },
+  "tracked": ""
+}
