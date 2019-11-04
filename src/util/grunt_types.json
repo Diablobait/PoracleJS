@@ -15,7 +15,7 @@
     "gender": 1
   },
   "4": {
-    "type": "Mixed",
+    "type": "Mixto",
     "grunt": "Male Grunt",
     "gender": 1,
     "second_reward": true,
@@ -26,7 +26,7 @@
     }
   },
   "5": {
-    "type": "Mixed",
+    "type": "Mixto",
     "grunt": "Female Grunt",
     "gender": 2,
     "second_reward": false,

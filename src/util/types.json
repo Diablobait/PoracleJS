@@ -1,30 +1,30 @@
 {
-  "Grass": {
+  "Planta": {
     "id": 12,
     "emoji": "\uD83C\uDF43",
     "color": 7915600
   },
-  "Poison": {
+  "Veneno": {
     "id": 4,
     "emoji": "☠️",
     "color": 10502304
   },
-  "Fire": {
+  "Fuego": {
     "id": 10,
     "emoji": "\uD83D\uDD25",
     "color": 15761456
   },
-  "Flying": {
+  "Volador": {
     "id": 3,
     "emoji": "\uD83D\uDC26",
     "color": 11047152
   },
-  "Water": {
+  "Agua": {
     "id": 11,
     "emoji": "\uD83D\uDCA7",
     "color": 6852848
   },
-  "Bug": {
+  "Bicho": {
     "id": 7,
     "emoji": "\uD83D\uDC1B",
     "color": 11057184
@@ -34,52 +34,52 @@
     "emoji": "\u2B55",
     "color": 9079385
   },
-  "Dark": {
+  "Siniestro": {
     "id": 17,
     "emoji": "\uD83C\uDF11",
     "color": 7368816
   },
-  "Electric": {
+  "Electrico": {
     "id": 13,
     "emoji": "⚡",
     "color": 16306224
   },
-  "Rock": {
+  "Roca": {
     "id": 6,
     "emoji": "\uD83D\uDC8E",
     "color": 12099640
   },
-  "Ground": {
+  "Tierra": {
     "id": 5,
     "emoji": "⛰",
     "color": 14729320
   },
-  "Fairy": {
+  "Hada": {
     "id": 18,
     "emoji": "\uD83D\uDCAB",
     "color": 15243496
   },
-  "Fighting": {
+  "Lucha": {
     "id": 2,
     "emoji": "🥋",
     "color": 12595240
   },
-  "Psychic": {
+  "Psiquico": {
     "id": 14,
     "emoji": "\uD83D\uDD2E",
     "color": 16275592
   },
-  "Steel": {
+  "Acero": {
     "id": 9,
     "emoji": "⚙️",
     "color": 12105936
   },
-  "Ice": {
+  "Hielo": {
     "id": 15,
     "emoji": "\u2744",
     "color": 10016984
   },
-  "Ghost": {
+  "Fantasma": {
     "id": 8,
     "emoji": "\uD83D\uDC7B",
     "color": 7362712

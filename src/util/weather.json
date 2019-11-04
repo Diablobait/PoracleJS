@@ -4,31 +4,31 @@
     "emoji":""
   },
   "1": {
-    "name":"Sunny",
+    "name":"Soleado",
     "emoji":":sunny:️"
   },
   "2": {
-    "name":"rain",
+    "name":"Lluvia",
     "emoji":":cloud_rain:"
   },
   "3": {
-    "name":"partly cloudy",
+    "name":"Parcialmente nublado",
     "emoji":":white_sun_small_cloud:"
   },
   "4": {
-    "name":"cloudy",
+    "name":"Nublado",
     "emoji":":cloud:"
   },
   "5": {
-    "name":"windy",
+    "name":"Viento",
     "emoji":":leaves:"
   },
   "6": {
-    "name":"snow",
+    "name":"Nieve",
     "emoji":":snowflake:️"
   },
   "7": {
-    "name":"fog",
+    "name":"Niebla",
     "emoji":":foggy:"
   }
 }
