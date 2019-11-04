@@ -47,7 +47,7 @@ module.exports = (ctx) => {
 				})
 
 				rawTypes.forEach((t) => {
-					if (t.toLowerCase() === 'Mixto') {
+					if (t.toLowerCase() === 'mixto') {
 						types.push('Mixto')
 					}
 					else {
