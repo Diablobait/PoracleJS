@@ -69,7 +69,7 @@
     "ko": "불꽃펀치",
     "Romanized": "Bulkkot Punch"
   },
-  "Ice Punch": {
+  "Hielo Punch": {
     "ja": "れいとうパンチ",
     "Rōmaji": "Reitō Punch",
     "fr": "Poing-Glace",
@@ -99,7 +99,7 @@
     "ko": "할퀴기",
     "Romanized": "Halkwigi"
   },
-  "Vice Grip": {
+  "VHielo Grip": {
     "ja": "はさむ",
     "Rōmaji": "Hasamu",
     "fr": "Force Poigne",
@@ -569,7 +569,7 @@
     "ko": "파도타기",
     "Romanized": "Padotagi"
   },
-  "Ice Beam": {
+  "Hielo Beam": {
     "ja": "れいとうビーム",
     "Rōmaji": "Reitō Beam",
     "fr": "Laser Glace",
@@ -652,7 +652,7 @@
   "Submission": {
     "ja": "じごくぐるま",
     "Rōmaji": "Jigoku Guruma",
-    "fr": "Sacrifice",
+    "fr": "SacrifHielo",
     "de": "Überroller",
     "it": "Sottomissione",
     "es": "Sumisión",
@@ -929,7 +929,7 @@
     "ko": "염동력",
     "Romanized": "Yeomdongryeok"
   },
-  "Psychic": {
+  "Psiquico": {
     "ja": "サイコキネシス",
     "Rōmaji": "Psychokinesis",
     "fr": "Psyko",
@@ -2099,7 +2099,7 @@
     "ko": "연속자르기",
     "Romanized": "Yeonsok Jareugi"
   },
-  "Steel Wing": {
+  "Acero Wing": {
     "ja": "はがねのつばさ",
     "Rōmaji": "Hagane no Tsubasa",
     "fr": "Aile d’Acier",
@@ -2999,15 +2999,15 @@
     "ko": "흙놀이",
     "Romanized": "Heulk Nol'i"
   },
-  "Ice Ball": {
+  "Hielo Ball": {
     "ja": "アイスボール",
-    "Rōmaji": "Ice Ball",
+    "Rōmaji": "Hielo Ball",
     "fr": "Ball'Glace",
     "de": "Frostbeule",
     "it": "Palla Gelo",
     "es": "Bola Hielo",
     "ko": "아이스볼",
-    "Romanized": "Ice Ball"
+    "Romanized": "Hielo Ball"
   },
   "Needle Arm": {
     "ja": "ニードルアーム",
@@ -3029,15 +3029,15 @@
     "ko": "태만함",
     "Romanized": "Taemanham"
   },
-  "Hyper Voice": {
+  "Hyper VoHielo": {
     "ja": "ハイパーボイス",
-    "Rōmaji": "Hyper Voice",
+    "Rōmaji": "Hyper VoHielo",
     "fr": "Mégaphone",
     "de": "Schallwelle",
     "it": "Granvoce",
     "es": "Vozarrón",
     "ko": "하이퍼보이스",
-    "Romanized": "Hyper Voice"
+    "Romanized": "Hyper VoHielo"
   },
   "Poison Fang": {
     "ja": "どくどくのキバ",
@@ -4034,7 +4034,7 @@
     "Rōmaji": "Scissor Cross",
     "fr": "Plaie-Croix",
     "de": "Kreuzschere",
-    "it": "Forbice X",
+    "it": "ForbHielo X",
     "es": "Tijera X",
     "ko": "시저크로스",
     "Romanized": "Scissor Cross"
@@ -4189,7 +4189,7 @@
     "ko": "눈사태",
     "Romanized": "Nun Satae"
   },
-  "Ice Shard": {
+  "Hielo Shard": {
     "ja": "こおりのつぶて",
     "Rōmaji": "Koori no Tsubute",
     "fr": "Éclats Glace",
@@ -4219,7 +4219,7 @@
     "ko": "번개엄니",
     "Romanized": "Beongae Eomni"
   },
-  "Ice Fang": {
+  "Hielo Fang": {
     "ja": "こおりのキバ",
     "Rōmaji": "Koori no Kiba",
     "fr": "Crocs Givre",
@@ -4959,15 +4959,15 @@
     "ko": "돌림노래",
     "Romanized": "Dolrimnorae"
   },
-  "Echoed Voice": {
+  "Echoed VoHielo": {
     "ja": "エコーボイス",
-    "Rōmaji": "Echo Voice",
+    "Rōmaji": "Echo VoHielo",
     "fr": "Écho",
     "de": "Widerhall",
     "it": "Echeggiavoce",
     "es": "Eco Voz",
     "ko": "에코보이스",
-    "Romanized": "Echo Voice"
+    "Romanized": "Echo VoHielo"
   },
   "Chip Away": {
     "ja": "なしくずし",
@@ -5354,7 +5354,7 @@
     "Rōmaji": "Grass Mixer",
     "fr": "Phytomixeur",
     "de": "Grasmixer",
-    "it": "Vorticerba",
+    "it": "VortHielorba",
     "es": "Ciclón de Hojas",
     "ko": "그래스믹서",
     "Romanized": "Grass Mixer"
@@ -5529,7 +5529,7 @@
     "ko": "프리즈볼트",
     "Romanized": "Freeze Volt"
   },
-  "Ice Burn": {
+  "Hielo Burn": {
     "ja": "コールドフレア",
     "Rōmaji": "Cold Flare",
     "fr": "Feu Glacé",
@@ -5651,13 +5651,13 @@
   },
   "Phantom Force": {
     "ja": "ゴーストダイブ",
-    "Rōmaji": "Ghost Dive",
+    "Rōmaji": "Fantasma Dive",
     "fr": "Hantise",
     "de": "Phantomkraft",
     "it": "Spettrotuffo",
     "es": "Golpe Fantasma",
     "ko": "고스트다이브",
-    "Romanized": "Ghost Dive"
+    "Romanized": "Fantasma Dive"
   },
   "Trick-or-Treat": {
     "ja": "ハロウィン",
@@ -5702,7 +5702,7 @@
   "Forest's Curse": {
     "ja": "もりののろい",
     "Rōmaji": "Mori no Noroi",
-    "fr": "Maléfice Sylvain",
+    "fr": "MaléfHielo Sylvain",
     "de": "Waldesfluch",
     "it": "Schiacciatuffo",
     "es": "Condena Silvana",
@@ -5729,15 +5729,15 @@
     "ko": "프리즈드라이",
     "Romanized": "Freeze Dry"
   },
-  "Disarming Voice": {
+  "Disarming VoHielo": {
     "ja": "チャームボイス",
-    "Rōmaji": "Charm Voice",
+    "Rōmaji": "Charm VoHielo",
     "fr": "Voix Enjôleuse",
     "de": "Säuselstimme",
     "it": "Incantavoce",
     "es": "Voz Cautivadora",
     "ko": "차밍보이스",
-    "Romanized": "Charming Voice"
+    "Romanized": "Charming VoHielo"
   },
   "Parting Shot": {
     "ja": "すてゼリフ",
@@ -5879,7 +5879,7 @@
     "ko": "킹실드",
     "Romanized": "King Shield"
   },
-  "Play Nice": {
+  "Play NHielo": {
     "ja": "なかよくする",
     "Rōmaji": "Nakayoku-suru",
     "fr": "Camaraderie",
@@ -6179,7 +6179,7 @@
     "ko": "근원의파동",
     "Romanized": "Geun'won-ui Padong"
   },
-  "Precipice Blades": {
+  "PrecipHielo Blades": {
     "ja": "だんがいのつるぎ",
     "Rōmaji": "Dangai no Tsurugi",
     "fr": "Lame Pangéenne",
@@ -6269,15 +6269,15 @@
     "ko": "물거품아리아",
     "Romanized": "Mulgeopum Aria"
   },
-  "Ice Hammer": {
+  "Hielo Hammer": {
     "ja": "アイスハンマー",
-    "Rōmaji": "Ice Hammer",
+    "Rōmaji": "Hielo Hammer",
     "fr": "Marteau de Glace",
     "de": "Eishammer",
     "it": "Martelgelo",
     "es": "Martillo Hielo",
     "ko": "아이스해머",
-    "Romanized": "Ice Hammer"
+    "Romanized": "Hielo Hammer"
   },
   "Floral Healing": {
     "ja": "フラワーヒール",
@@ -6399,7 +6399,7 @@
     "ko": "앵커숏",
     "Romanized": "Anchor Shot"
   },
-  "Psychic Terrain": {
+  "Psiquico Terrain": {
     "ja": "サイコフィールド",
     "Rōmaji": "Psycho Field",
     "fr": "Champ Psychique",
@@ -6589,7 +6589,7 @@
     "ko": "플뢰르캐논",
     "Romanized": "Fleur Cannon"
   },
-  "Psychic Fangs": {
+  "Psiquico Fangs": {
     "ja": "サイコファング",
     "Rōmaji": "Psycho Fang",
     "fr": "Psycho-Croc",
@@ -6659,7 +6659,7 @@
     "ko": "섀도스틸",
     "Romanized": "Shadow Steal"
   },
-  "Sunsteel Strike": {
+  "SunAcero Strike": {
     "ja": "メテオドライブ",
     "Rōmaji": "Meteor Drive",
     "fr": "Choc Météore",

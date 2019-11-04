@@ -469,7 +469,7 @@
     "name": "Манки",
     "rarity": "Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "114"
   },
@@ -477,7 +477,7 @@
     "name": "Праймейп",
     "rarity": "Very Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "1061"
   },
@@ -518,7 +518,7 @@
     "rarity": "Ultra Rare",
     "types": [
       "Water",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "1709"
   },
@@ -526,7 +526,7 @@
     "name": "Абра",
     "rarity": "Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "104"
   },
@@ -534,7 +534,7 @@
     "name": "Кадабра",
     "rarity": "Very Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "779"
   },
@@ -542,7 +542,7 @@
     "name": "Алаказам",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "2461"
   },
@@ -550,7 +550,7 @@
     "name": "Мачоп",
     "rarity": "Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "217"
   },
@@ -558,7 +558,7 @@
     "name": "Мачок",
     "rarity": "Very Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "1465"
   },
@@ -566,7 +566,7 @@
     "name": "Мачемп",
     "rarity": "Ultra Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "3418"
   },
@@ -663,7 +663,7 @@
     "rarity": "Rare",
     "types": [
       "Water",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "175"
   },
@@ -672,7 +672,7 @@
     "rarity": "Very Rare",
     "types": [
       "Water",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "947"
   },
@@ -775,7 +775,7 @@
     "name": "Гастли",
     "rarity": "Uncommon",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Poison"
     ],
     "spawn_rate": "77"
@@ -784,7 +784,7 @@
     "name": "Хонтер",
     "rarity": "Rare",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Poison"
     ],
     "spawn_rate": "419"
@@ -793,7 +793,7 @@
     "name": "Генгар",
     "rarity": "Ultra Rare",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Poison"
     ],
     "spawn_rate": "1758"
@@ -811,7 +811,7 @@
     "name": "Дроузи",
     "rarity": "Uncommon",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "39"
   },
@@ -819,7 +819,7 @@
     "name": "Гипно",
     "rarity": "Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "322"
   },
@@ -860,7 +860,7 @@
     "rarity": "Rare",
     "types": [
       "Grass",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "123"
   },
@@ -869,7 +869,7 @@
     "rarity": "Very Rare",
     "types": [
       "Grass",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "1231"
   },
@@ -893,7 +893,7 @@
     "name": "Хитмонли",
     "rarity": "Very Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "504"
   },
@@ -901,7 +901,7 @@
     "name": "Хитмончан",
     "rarity": "Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "446"
   },
@@ -1016,7 +1016,7 @@
     "rarity": "Very Rare",
     "types": [
       "Water",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "1206"
   },
@@ -1024,7 +1024,7 @@
     "name": "Мистер Майм",
     "rarity": "Very Rare",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Fairy"
     ],
     "spawn_rate": "1431"
@@ -1043,7 +1043,7 @@
     "rarity": "Rare",
     "types": [
       "Ice",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "152"
   },
@@ -1262,7 +1262,7 @@
     "name": "Мьюту",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "99999"
   },
@@ -1270,7 +1270,7 @@
     "name": "Мью",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "99999"
   },
@@ -1489,7 +1489,7 @@
     "name": "Нату",
     "rarity": "Common",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Flying"
     ],
     "spawn_rate": ""
@@ -1498,7 +1498,7 @@
     "name": "Ксату",
     "rarity": "Uncommon",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Flying"
     ],
     "spawn_rate": ""
@@ -1651,7 +1651,7 @@
     "name": "Эспеон",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -1677,7 +1677,7 @@
     "rarity": "Ultra Rare",
     "types": [
       "Water",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -1685,7 +1685,7 @@
     "name": "Мисдривус",
     "rarity": "Rare",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -1693,7 +1693,7 @@
     "name": "Аноун",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -1701,7 +1701,7 @@
     "name": "Воббафет",
     "rarity": "Very Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -1710,7 +1710,7 @@
     "rarity": "Ultra Rare",
     "types": [
       "Normal",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -1805,7 +1805,7 @@
     "rarity": "Ultra Rare",
     "types": [
       "Bug",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -1992,7 +1992,7 @@
     "name": "Тирогу",
     "rarity": "Ultra Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2000,7 +2000,7 @@
     "name": "Хитмонтоп",
     "rarity": "Ultra Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2009,7 +2009,7 @@
     "rarity": "Very Rare",
     "types": [
       "Ice",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2100,7 +2100,7 @@
     "name": "Люджия",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Flying"
     ],
     "spawn_rate": ""
@@ -2118,7 +2118,7 @@
     "name": "Целеби",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Grass"
     ],
     "spawn_rate": ""
@@ -2160,7 +2160,7 @@
     "rarity": "",
     "types": [
       "Fire",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2169,7 +2169,7 @@
     "rarity": "",
     "types": [
       "Fire",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2366,7 +2366,7 @@
     "name": "Ральтс",
     "rarity": "",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Fairy"
     ],
     "spawn_rate": ""
@@ -2375,7 +2375,7 @@
     "name": "Кирлия",
     "rarity": "",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Fairy"
     ],
     "spawn_rate": ""
@@ -2384,7 +2384,7 @@
     "name": "Гардевуар",
     "rarity": "",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Fairy"
     ],
     "spawn_rate": ""
@@ -2420,7 +2420,7 @@
     "rarity": "",
     "types": [
       "Grass",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2471,7 +2471,7 @@
     "rarity": "",
     "types": [
       "Bug",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -2503,7 +2503,7 @@
     "name": "Макухита",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2511,7 +2511,7 @@
     "name": "Харияма",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2553,7 +2553,7 @@
     "rarity": "Rare",
     "types": [
       "Dark",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -2597,8 +2597,8 @@
     "name": "Медитайт",
     "rarity": "",
     "types": [
-      "Fighting",
-      "Psychic"
+      "Lucha",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2606,8 +2606,8 @@
     "name": "Медичам",
     "rarity": "",
     "types": [
-      "Fighting",
-      "Psychic"
+      "Lucha",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2748,7 +2748,7 @@
     "name": "Споинк",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2756,7 +2756,7 @@
     "name": "Грампиг",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2850,7 +2850,7 @@
     "rarity": "",
     "types": [
       "Rock",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2859,7 +2859,7 @@
     "rarity": "",
     "types": [
       "Rock",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2903,7 +2903,7 @@
     "rarity": "",
     "types": [
       "Ground",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2912,7 +2912,7 @@
     "rarity": "",
     "types": [
       "Ground",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2988,7 +2988,7 @@
     "name": "Шаппет",
     "rarity": "Rare",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -2996,7 +2996,7 @@
     "name": "Бэнетт",
     "rarity": "Rare",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -3004,7 +3004,7 @@
     "name": "Даскулл",
     "rarity": "Rare",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -3012,7 +3012,7 @@
     "name": "Дасклопс",
     "rarity": "Rare",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -3029,7 +3029,7 @@
     "name": "Чаймеко",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3045,7 +3045,7 @@
     "name": "Винаут",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3163,7 +3163,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3172,7 +3172,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3181,7 +3181,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3214,7 +3214,7 @@
     "rarity": "",
     "types": [
       "Dragon",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3223,7 +3223,7 @@
     "rarity": "",
     "types": [
       "Dragon",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3257,7 +3257,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3265,7 +3265,7 @@
     "name": "Деоксис",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3307,7 +3307,7 @@
     "rarity": "",
     "types": [
       "Fire",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -3316,7 +3316,7 @@
     "rarity": "",
     "types": [
       "Fire",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -3594,7 +3594,7 @@
     "name": "Дрифлун",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Flying"
     ],
     "spawn_rate": ""
@@ -3603,7 +3603,7 @@
     "name": "Дрифблим",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Flying"
     ],
     "spawn_rate": ""
@@ -3628,7 +3628,7 @@
     "name": "Мисмагиус",
     "rarity": "",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -3661,7 +3661,7 @@
     "name": "Чинглинг",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3688,7 +3688,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3697,7 +3697,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3713,7 +3713,7 @@
     "name": "Майм Младший",
     "rarity": "",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Fairy"
     ],
     "spawn_rate": ""
@@ -3739,7 +3739,7 @@
     "name": "Спиритомб",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Dark"
     ],
     "spawn_rate": ""
@@ -3783,7 +3783,7 @@
     "name": "Риолу",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -3791,7 +3791,7 @@
     "name": "Лукарио",
     "rarity": "",
     "types": [
-      "Fighting",
+      "Lucha",
       "Steel"
     ],
     "spawn_rate": ""
@@ -3835,7 +3835,7 @@
     "rarity": "",
     "types": [
       "Poison",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -3844,7 +3844,7 @@
     "rarity": "",
     "types": [
       "Poison",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4022,8 +4022,8 @@
     "name": "Галлейд",
     "rarity": "",
     "types": [
-      "Psychic",
-      "Fighting"
+      "Psiquico",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4040,7 +4040,7 @@
     "name": "Даскнуар",
     "rarity": "",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -4049,7 +4049,7 @@
     "rarity": "",
     "types": [
       "Ice",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -4058,7 +4058,7 @@
     "rarity": "",
     "types": [
       "Electric",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -4066,7 +4066,7 @@
     "name": "Юкси",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4074,7 +4074,7 @@
     "name": "Месприт",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4082,7 +4082,7 @@
     "name": "Азельф",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4125,7 +4125,7 @@
     "name": "Гиратина",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Dragon"
     ],
     "spawn_rate": ""
@@ -4134,7 +4134,7 @@
     "name": "Крисселия",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4182,7 +4182,7 @@
     "name": "Виктини",
     "rarity": "",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Fire"
     ],
     "spawn_rate": ""
@@ -4224,7 +4224,7 @@
     "rarity": "",
     "types": [
       "Fire",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4233,7 +4233,7 @@
     "rarity": "",
     "types": [
       "Fire",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4369,7 +4369,7 @@
     "name": "Мунна",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4377,7 +4377,7 @@
     "name": "Мушарна",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4452,7 +4452,7 @@
     "name": "Вубэт",
     "rarity": "",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Flying"
     ],
     "spawn_rate": ""
@@ -4461,7 +4461,7 @@
     "name": "Свубэт",
     "rarity": "",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Flying"
     ],
     "spawn_rate": ""
@@ -4495,7 +4495,7 @@
     "name": "Тимбурр",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4503,7 +4503,7 @@
     "name": "Гурдурр",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4511,7 +4511,7 @@
     "name": "Конкельдурр",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4545,7 +4545,7 @@
     "name": "Тро",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4553,7 +4553,7 @@
     "name": "Соук",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4727,7 +4727,7 @@
     "rarity": "",
     "types": [
       "Dark",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4736,7 +4736,7 @@
     "rarity": "",
     "types": [
       "Dark",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4744,7 +4744,7 @@
     "name": "Сиджилиф",
     "rarity": "",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Flying"
     ],
     "spawn_rate": ""
@@ -4753,7 +4753,7 @@
     "name": "Ямаск",
     "rarity": "",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -4761,7 +4761,7 @@
     "name": "Кофагригус",
     "rarity": "",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -4853,7 +4853,7 @@
     "name": "Гофита",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4861,7 +4861,7 @@
     "name": "Гофорита",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4869,7 +4869,7 @@
     "name": "Гофителль",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4877,7 +4877,7 @@
     "name": "Солозис",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4885,7 +4885,7 @@
     "name": "Дуозион",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4893,7 +4893,7 @@
     "name": "Реониклус",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5006,7 +5006,7 @@
     "rarity": "",
     "types": [
       "Water",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5015,7 +5015,7 @@
     "rarity": "",
     "types": [
       "Water",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5115,7 +5115,7 @@
     "name": "Илджием",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5123,7 +5123,7 @@
     "name": "Бихием",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5131,7 +5131,7 @@
     "name": "Литвик",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Fire"
     ],
     "spawn_rate": ""
@@ -5140,7 +5140,7 @@
     "name": "Лампент",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Fire"
     ],
     "spawn_rate": ""
@@ -5149,7 +5149,7 @@
     "name": "Шанделюр",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Fire"
     ],
     "spawn_rate": ""
@@ -5231,7 +5231,7 @@
     "name": "Меньфу",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5239,7 +5239,7 @@
     "name": "Меньшао",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5256,7 +5256,7 @@
     "rarity": "",
     "types": [
       "Ground",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5265,7 +5265,7 @@
     "rarity": "",
     "types": [
       "Ground",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5398,7 +5398,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5407,7 +5407,7 @@
     "rarity": "",
     "types": [
       "Rock",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5416,7 +5416,7 @@
     "rarity": "",
     "types": [
       "Grass",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5478,7 +5478,7 @@
     "rarity": "",
     "types": [
       "Water",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5487,7 +5487,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5521,7 +5521,7 @@
     "rarity": "",
     "types": [
       "Grass",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5546,7 +5546,7 @@
     "rarity": "",
     "types": [
       "Fire",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5706,7 +5706,7 @@
     "name": "Панчам",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5714,7 +5714,7 @@
     "name": "Пангоро",
     "rarity": "",
     "types": [
-      "Fighting",
+      "Lucha",
       "Dark"
     ],
     "spawn_rate": ""
@@ -5731,7 +5731,7 @@
     "name": "Эспур",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5739,7 +5739,7 @@
     "name": "Мяустик",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5748,7 +5748,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5757,7 +5757,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5766,7 +5766,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5807,7 +5807,7 @@
     "rarity": "",
     "types": [
       "Dark",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5816,7 +5816,7 @@
     "rarity": "",
     "types": [
       "Dark",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5938,7 +5938,7 @@
     "name": "Холуча",
     "rarity": "",
     "types": [
-      "Fighting",
+      "Lucha",
       "Flying"
     ],
     "spawn_rate": ""
@@ -5998,7 +5998,7 @@
     "name": "Фантамп",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Grass"
     ],
     "spawn_rate": ""
@@ -6007,7 +6007,7 @@
     "name": "Тривернант",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Grass"
     ],
     "spawn_rate": ""
@@ -6016,7 +6016,7 @@
     "name": "Пампакмбу",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Grass"
     ],
     "spawn_rate": ""
@@ -6025,7 +6025,7 @@
     "name": "Гургейст",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Grass"
     ],
     "spawn_rate": ""
@@ -6103,8 +6103,8 @@
     "name": "Хупа",
     "rarity": "",
     "types": [
-      "Psychic",
-      "Ghost"
+      "Psiquico",
+      "Fantasma"
     ],
     "spawn_rate": ""
   },

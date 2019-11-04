@@ -225,7 +225,7 @@
   },
   "28": {
     "name": "Kreuzhieb",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 50,
     "duration": 1500,
     "energy": 50,
@@ -241,7 +241,7 @@
   },
   "30": {
     "name": "Psystrahl",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 70,
     "duration": 3200,
     "energy": 50,
@@ -273,7 +273,7 @@
   },
   "34": {
     "name": "Herzstempel",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 40,
     "duration": 1900,
     "energy": 33,
@@ -433,7 +433,7 @@
   },
   "54": {
     "name": "Überroller",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 60,
     "duration": 2200,
     "energy": 50,
@@ -449,7 +449,7 @@
   },
   "56": {
     "name": "Fußtritt",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 40,
     "duration": 1900,
     "energy": 33,
@@ -481,7 +481,7 @@
   },
   "60": {
     "name": "Psychoschock",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 65,
     "duration": 2700,
     "energy": 33,
@@ -529,7 +529,7 @@
   },
   "66": {
     "name": "Schattenstoß",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 50,
     "duration": 2900,
     "energy": 33,
@@ -537,7 +537,7 @@
   },
   "67": {
     "name": "Finsterfaust",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 40,
     "duration": 1700,
     "energy": 33,
@@ -553,7 +553,7 @@
   },
   "69": {
     "name": "Unheilböen",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 50,
     "duration": 2300,
     "energy": 33,
@@ -561,7 +561,7 @@
   },
   "70": {
     "name": "Spukball",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 100,
     "duration": 3000,
     "energy": 50,
@@ -865,7 +865,7 @@
   },
   "108": {
     "name": "Psychokinese",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 100,
     "duration": 2800,
     "energy": 100,
@@ -873,7 +873,7 @@
   },
   "109": {
     "name": "Psychostoß",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 100,
     "duration": 4400,
     "energy": 50,
@@ -985,7 +985,7 @@
   },
   "123": {
     "name": "Durchbruch",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 40,
     "duration": 1600,
     "energy": 33,
@@ -1161,7 +1161,7 @@
   },
   "207": {
     "name": "Fußkick",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 6,
     "duration": 600,
     "energy": 6,
@@ -1169,7 +1169,7 @@
   },
   "208": {
     "name": "Karateschlag",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 8,
     "duration": 800,
     "energy": 10,
@@ -1201,7 +1201,7 @@
   },
   "212": {
     "name": "Schlecker",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 5,
     "duration": 500,
     "energy": 6,
@@ -1209,7 +1209,7 @@
   },
   "213": {
     "name": "Dunkelklaue",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 9,
     "duration": 700,
     "energy": 6,
@@ -1313,7 +1313,7 @@
   },
   "226": {
     "name": "Psychoklinge",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 5,
     "duration": 600,
     "energy": 8,
@@ -1377,7 +1377,7 @@
   },
   "234": {
     "name": "Zen-Kopfstoß",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 12,
     "duration": 1100,
     "energy": 10,
@@ -1385,7 +1385,7 @@
   },
   "235": {
     "name": "Konfusion",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 20,
     "duration": 1600,
     "energy": 15,
@@ -1433,7 +1433,7 @@
   },
   "241": {
     "name": "Zertrümmerer",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 15,
     "duration": 1300,
     "energy": 10,
@@ -1449,7 +1449,7 @@
   },
   "243": {
     "name": "Konter",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 8,
     "duration": 900,
     "energy": 12,
@@ -1465,7 +1465,7 @@
   },
   "245": {
     "name": "Nahkampf",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 100,
     "duration": 2300,
     "energy": 100,
@@ -1473,7 +1473,7 @@
   },
   "246": {
     "name": "Wuchtschlag",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 90,
     "duration": 2700,
     "energy": 50,
@@ -1481,7 +1481,7 @@
   },
   "247": {
     "name": "Fokusstoß",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 140,
     "duration": 3500,
     "energy": 140,
@@ -1609,7 +1609,7 @@
   },
   "263": {
     "name": "Erstauner",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 8,
     "duration": 1100,
     "energy": 14,
@@ -1617,7 +1617,7 @@
   },
   "264": {
     "name": "Bürde",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 10,
     "duration": 1200,
     "energy": 15,
@@ -1625,7 +1625,7 @@
   },
   "265": {
     "name": "Nachtnebel",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 60,
     "duration": 2600,
     "energy": 50,
@@ -1697,7 +1697,7 @@
   },
   "274": {
     "name": "Sondersensor",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 12,
     "duration": 1100,
     "energy": 12,
@@ -1705,7 +1705,7 @@
   },
   "275": {
     "name": "Seher",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 120,
     "duration": 2700,
     "energy": 100,
@@ -1713,7 +1713,7 @@
   },
   "276": {
     "name": "Spiegelcape",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 60,
     "duration": 2600,
     "energy": 50,
@@ -1793,7 +1793,7 @@
   },
   "286": {
     "name": "Kismetwunsch",
-    "type": "Steel",
+    "type": "Acero",
     "damage": 80,
     "duration": 1700,
     "energy": 50,
@@ -1809,7 +1809,7 @@
   },
   "288": {
     "name": "Psyschub",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 70,
     "duration": 4000,
     "energy": 50,

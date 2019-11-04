@@ -469,7 +469,7 @@
     "name": "Menki",
     "rarity": "Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "114"
   },
@@ -477,7 +477,7 @@
     "name": "Rasaff",
     "rarity": "Very Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "1061"
   },
@@ -518,7 +518,7 @@
     "rarity": "Ultra Rare",
     "types": [
       "Water",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "1709"
   },
@@ -526,7 +526,7 @@
     "name": "Abra",
     "rarity": "Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "104"
   },
@@ -534,7 +534,7 @@
     "name": "Kadabra",
     "rarity": "Very Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "779"
   },
@@ -542,7 +542,7 @@
     "name": "Simsala",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "2461"
   },
@@ -550,7 +550,7 @@
     "name": "Machollo",
     "rarity": "Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "217"
   },
@@ -558,7 +558,7 @@
     "name": "Maschock",
     "rarity": "Very Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "1465"
   },
@@ -566,7 +566,7 @@
     "name": "Machomei",
     "rarity": "Ultra Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "3418"
   },
@@ -663,7 +663,7 @@
     "rarity": "Rare",
     "types": [
       "Water",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "175"
   },
@@ -672,7 +672,7 @@
     "rarity": "Very Rare",
     "types": [
       "Water",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "947"
   },
@@ -775,7 +775,7 @@
     "name": "Nebulak",
     "rarity": "Uncommon",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Poison"
     ],
     "spawn_rate": "77"
@@ -784,7 +784,7 @@
     "name": "Alpollo",
     "rarity": "Rare",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Poison"
     ],
     "spawn_rate": "419"
@@ -793,7 +793,7 @@
     "name": "Gengar",
     "rarity": "Ultra Rare",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Poison"
     ],
     "spawn_rate": "1758"
@@ -811,7 +811,7 @@
     "name": "Traumato",
     "rarity": "Uncommon",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "39"
   },
@@ -819,7 +819,7 @@
     "name": "Hypno",
     "rarity": "Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "322"
   },
@@ -860,7 +860,7 @@
     "rarity": "Rare",
     "types": [
       "Grass",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "123"
   },
@@ -869,7 +869,7 @@
     "rarity": "Very Rare",
     "types": [
       "Grass",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "1231"
   },
@@ -893,7 +893,7 @@
     "name": "Kicklee",
     "rarity": "Very Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "504"
   },
@@ -901,7 +901,7 @@
     "name": "Nockchan",
     "rarity": "Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "446"
   },
@@ -1016,7 +1016,7 @@
     "rarity": "Very Rare",
     "types": [
       "Water",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "1206"
   },
@@ -1024,7 +1024,7 @@
     "name": "Pantimos",
     "rarity": "Very Rare",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Fairy"
     ],
     "spawn_rate": "1431"
@@ -1043,7 +1043,7 @@
     "rarity": "Rare",
     "types": [
       "Ice",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "152"
   },
@@ -1262,7 +1262,7 @@
     "name": "Mewtu",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "99999"
   },
@@ -1270,7 +1270,7 @@
     "name": "Mew",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "99999"
   },
@@ -1489,7 +1489,7 @@
     "name": "Natu",
     "rarity": "Common",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Flying"
     ],
     "spawn_rate": ""
@@ -1498,7 +1498,7 @@
     "name": "Xatu",
     "rarity": "Uncommon",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Flying"
     ],
     "spawn_rate": ""
@@ -1651,7 +1651,7 @@
     "name": "Psiana",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -1677,7 +1677,7 @@
     "rarity": "Ultra Rare",
     "types": [
       "Water",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -1685,7 +1685,7 @@
     "name": "Traunfugil",
     "rarity": "Rare",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -1693,7 +1693,7 @@
     "name": "Icognito",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -1701,7 +1701,7 @@
     "name": "Woingenau",
     "rarity": "Very Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -1710,7 +1710,7 @@
     "rarity": "Ultra Rare",
     "types": [
       "Normal",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -1805,7 +1805,7 @@
     "rarity": "Ultra Rare",
     "types": [
       "Bug",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -1992,7 +1992,7 @@
     "name": "Rabauz",
     "rarity": "Ultra Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2000,7 +2000,7 @@
     "name": "Kapoera",
     "rarity": "Ultra Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2009,7 +2009,7 @@
     "rarity": "Very Rare",
     "types": [
       "Ice",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2100,7 +2100,7 @@
     "name": "Lugia",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Flying"
     ],
     "spawn_rate": ""
@@ -2118,7 +2118,7 @@
     "name": "Celebi",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Grass"
     ],
     "spawn_rate": ""
@@ -2160,7 +2160,7 @@
     "rarity": "",
     "types": [
       "Fire",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2169,7 +2169,7 @@
     "rarity": "",
     "types": [
       "Fire",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2366,7 +2366,7 @@
     "name": "Trasla",
     "rarity": "",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Fairy"
     ],
     "spawn_rate": ""
@@ -2375,7 +2375,7 @@
     "name": "Kirlia",
     "rarity": "",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Fairy"
     ],
     "spawn_rate": ""
@@ -2384,7 +2384,7 @@
     "name": "Guardevoir",
     "rarity": "",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Fairy"
     ],
     "spawn_rate": ""
@@ -2420,7 +2420,7 @@
     "rarity": "",
     "types": [
       "Grass",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2471,7 +2471,7 @@
     "rarity": "",
     "types": [
       "Bug",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -2503,7 +2503,7 @@
     "name": "Makuhita",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2511,7 +2511,7 @@
     "name": "Hariyama",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2553,7 +2553,7 @@
     "rarity": "Rare",
     "types": [
       "Dark",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -2597,8 +2597,8 @@
     "name": "Meditie",
     "rarity": "",
     "types": [
-      "Fighting",
-      "Psychic"
+      "Lucha",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2606,8 +2606,8 @@
     "name": "Meditalis",
     "rarity": "",
     "types": [
-      "Fighting",
-      "Psychic"
+      "Lucha",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2748,7 +2748,7 @@
     "name": "Spoink",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2756,7 +2756,7 @@
     "name": "Groink",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2850,7 +2850,7 @@
     "rarity": "",
     "types": [
       "Rock",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2859,7 +2859,7 @@
     "rarity": "",
     "types": [
       "Rock",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2903,7 +2903,7 @@
     "rarity": "",
     "types": [
       "Ground",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2912,7 +2912,7 @@
     "rarity": "",
     "types": [
       "Ground",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2988,7 +2988,7 @@
     "name": "Shuppet",
     "rarity": "Rare",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -2996,7 +2996,7 @@
     "name": "Banette",
     "rarity": "Rare",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -3004,7 +3004,7 @@
     "name": "Zwirrlicht",
     "rarity": "Rare",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -3012,7 +3012,7 @@
     "name": "Zwirrklop",
     "rarity": "Rare",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -3029,7 +3029,7 @@
     "name": "Palimpalim",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3045,7 +3045,7 @@
     "name": "Isso",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3163,7 +3163,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3172,7 +3172,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3181,7 +3181,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3214,7 +3214,7 @@
     "rarity": "",
     "types": [
       "Dragon",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3223,7 +3223,7 @@
     "rarity": "",
     "types": [
       "Dragon",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3257,7 +3257,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3265,7 +3265,7 @@
     "name": "Deoxys",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3307,7 +3307,7 @@
     "rarity": "",
     "types": [
       "Fire",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -3316,7 +3316,7 @@
     "rarity": "",
     "types": [
       "Fire",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -3594,7 +3594,7 @@
     "name": "Driftlon",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Flying"
     ],
     "spawn_rate": ""
@@ -3603,7 +3603,7 @@
     "name": "Drifzepeli",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Flying"
     ],
     "spawn_rate": ""
@@ -3628,7 +3628,7 @@
     "name": "Traunmagil",
     "rarity": "",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -3661,7 +3661,7 @@
     "name": "Klingplim",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3688,7 +3688,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3697,7 +3697,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3713,7 +3713,7 @@
     "name": "Pantimimi",
     "rarity": "",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Fairy"
     ],
     "spawn_rate": ""
@@ -3739,7 +3739,7 @@
     "name": "Kryppuk",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Dark"
     ],
     "spawn_rate": ""
@@ -3783,7 +3783,7 @@
     "name": "Riolu",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -3791,7 +3791,7 @@
     "name": "Lucario",
     "rarity": "",
     "types": [
-      "Fighting",
+      "Lucha",
       "Steel"
     ],
     "spawn_rate": ""
@@ -3835,7 +3835,7 @@
     "rarity": "",
     "types": [
       "Poison",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -3844,7 +3844,7 @@
     "rarity": "",
     "types": [
       "Poison",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4022,8 +4022,8 @@
     "name": "Galagladi",
     "rarity": "",
     "types": [
-      "Psychic",
-      "Fighting"
+      "Psiquico",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4040,7 +4040,7 @@
     "name": "Zwirrfinst",
     "rarity": "",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -4049,7 +4049,7 @@
     "rarity": "",
     "types": [
       "Ice",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -4058,7 +4058,7 @@
     "rarity": "",
     "types": [
       "Electric",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -4066,7 +4066,7 @@
     "name": "Selfe",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4074,7 +4074,7 @@
     "name": "Vesprit",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4082,7 +4082,7 @@
     "name": "Tobutz",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4125,7 +4125,7 @@
     "name": "Giratina",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Dragon"
     ],
     "spawn_rate": ""
@@ -4134,7 +4134,7 @@
     "name": "Cresselia",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4182,7 +4182,7 @@
     "name": "Victini",
     "rarity": "",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Fire"
     ],
     "spawn_rate": ""
@@ -4224,7 +4224,7 @@
     "rarity": "",
     "types": [
       "Fire",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4233,7 +4233,7 @@
     "rarity": "",
     "types": [
       "Fire",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4369,7 +4369,7 @@
     "name": "Somniam",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4377,7 +4377,7 @@
     "name": "Somnivora",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4452,7 +4452,7 @@
     "name": "Fleknoil",
     "rarity": "",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Flying"
     ],
     "spawn_rate": ""
@@ -4461,7 +4461,7 @@
     "name": "Fletiamo",
     "rarity": "",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Flying"
     ],
     "spawn_rate": ""
@@ -4495,7 +4495,7 @@
     "name": "Praktibalk",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4503,7 +4503,7 @@
     "name": "Strepoli",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4511,7 +4511,7 @@
     "name": "Meistagrif",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4545,7 +4545,7 @@
     "name": "Jiutesto",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4553,7 +4553,7 @@
     "name": "Karadonis",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4727,7 +4727,7 @@
     "rarity": "",
     "types": [
       "Dark",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4736,7 +4736,7 @@
     "rarity": "",
     "types": [
       "Dark",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4744,7 +4744,7 @@
     "name": "Symvolara",
     "rarity": "",
     "types": [
-      "Psychic",
+      "Psiquico",
       "Flying"
     ],
     "spawn_rate": ""
@@ -4753,7 +4753,7 @@
     "name": "Makabaja",
     "rarity": "",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -4761,7 +4761,7 @@
     "name": "Echnatoll",
     "rarity": "",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -4853,7 +4853,7 @@
     "name": "Mollimorba",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4861,7 +4861,7 @@
     "name": "Hypnomorba",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4869,7 +4869,7 @@
     "name": "Morbitesse",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4877,7 +4877,7 @@
     "name": "Monozyto",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4885,7 +4885,7 @@
     "name": "Mitodos",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4893,7 +4893,7 @@
     "name": "Zytomega",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5006,7 +5006,7 @@
     "rarity": "",
     "types": [
       "Water",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5015,7 +5015,7 @@
     "rarity": "",
     "types": [
       "Water",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5115,7 +5115,7 @@
     "name": "Pygraulon",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5123,7 +5123,7 @@
     "name": "Megalon",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5131,7 +5131,7 @@
     "name": "Lichtel",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Fire"
     ],
     "spawn_rate": ""
@@ -5140,7 +5140,7 @@
     "name": "Laternecto",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Fire"
     ],
     "spawn_rate": ""
@@ -5149,7 +5149,7 @@
     "name": "Skelabra",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Fire"
     ],
     "spawn_rate": ""
@@ -5231,7 +5231,7 @@
     "name": "Fu",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5239,7 +5239,7 @@
     "name": "Shu",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5256,7 +5256,7 @@
     "rarity": "",
     "types": [
       "Ground",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5265,7 +5265,7 @@
     "rarity": "",
     "types": [
       "Ground",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5398,7 +5398,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5407,7 +5407,7 @@
     "rarity": "",
     "types": [
       "Rock",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5416,7 +5416,7 @@
     "rarity": "",
     "types": [
       "Grass",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5478,7 +5478,7 @@
     "rarity": "",
     "types": [
       "Water",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5487,7 +5487,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5521,7 +5521,7 @@
     "rarity": "",
     "types": [
       "Grass",
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5546,7 +5546,7 @@
     "rarity": "",
     "types": [
       "Fire",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5706,7 +5706,7 @@
     "name": "Pam",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5714,7 +5714,7 @@
     "name": "Pandagro",
     "rarity": "",
     "types": [
-      "Fighting",
+      "Lucha",
       "Dark"
     ],
     "spawn_rate": ""
@@ -5731,7 +5731,7 @@
     "name": "Psiau",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5739,7 +5739,7 @@
     "name": "Psiaugon",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5748,7 +5748,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5757,7 +5757,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5766,7 +5766,7 @@
     "rarity": "",
     "types": [
       "Steel",
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5807,7 +5807,7 @@
     "rarity": "",
     "types": [
       "Dark",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5816,7 +5816,7 @@
     "rarity": "",
     "types": [
       "Dark",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5938,7 +5938,7 @@
     "name": "Resladero",
     "rarity": "",
     "types": [
-      "Fighting",
+      "Lucha",
       "Flying"
     ],
     "spawn_rate": ""
@@ -5998,7 +5998,7 @@
     "name": "Paragoni",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Grass"
     ],
     "spawn_rate": ""
@@ -6007,7 +6007,7 @@
     "name": "Trombork",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Grass"
     ],
     "spawn_rate": ""
@@ -6016,7 +6016,7 @@
     "name": "Irrbis",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Grass"
     ],
     "spawn_rate": ""
@@ -6025,7 +6025,7 @@
     "name": "Pumpdjinn",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Grass"
     ],
     "spawn_rate": ""
@@ -6103,8 +6103,8 @@
     "name": "Hoopa",
     "rarity": "",
     "types": [
-      "Psychic",
-      "Ghost"
+      "Psiquico",
+      "Fantasma"
     ],
     "spawn_rate": ""
   },

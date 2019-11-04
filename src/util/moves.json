@@ -72,7 +72,7 @@
     "dps": 0
   },
   "9": {
-    "name": "Water Gun",
+    "name": "Agua Gun",
     "type": "",
     "damage": 0,
     "duration": 0,
@@ -128,8 +128,8 @@
     "dps": 0
   },
   "16": {
-    "name": "Dark Pulse",
-    "type": "Dark",
+    "name": "Siniestro Pulse",
+    "type": "Siniestro",
     "damage": 80,
     "duration": 3000,
     "energy": 50,
@@ -145,7 +145,7 @@
   },
   "18": {
     "name": "Sludge",
-    "type": "Poison",
+    "type": "Veneno",
     "damage": 50,
     "duration": 2100,
     "energy": 33,
@@ -160,7 +160,7 @@
     "dps": 0
   },
   "20": {
-    "name": "Vice Grip",
+    "name": "VHielo Grip",
     "type": "Normal",
     "damage": 35,
     "duration": 1900,
@@ -169,7 +169,7 @@
   },
   "21": {
     "name": "Flame Wheel",
-    "type": "Fire",
+    "type": "Fuego",
     "damage": 60,
     "duration": 2700,
     "energy": 50,
@@ -177,7 +177,7 @@
   },
   "22": {
     "name": "Megahorn",
-    "type": "Bug",
+    "type": "Bicho",
     "damage": 90,
     "duration": 2200,
     "energy": 100,
@@ -193,7 +193,7 @@
   },
   "24": {
     "name": "Flamethrower",
-    "type": "Fire",
+    "type": "Fuego",
     "damage": 70,
     "duration": 2200,
     "energy": 50,
@@ -209,7 +209,7 @@
   },
   "26": {
     "name": "Dig",
-    "type": "Ground",
+    "type": "Tierra",
     "damage": 100,
     "duration": 4700,
     "energy": 50,
@@ -225,7 +225,7 @@
   },
   "28": {
     "name": "Cross Chop",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 50,
     "duration": 1500,
     "energy": 50,
@@ -241,7 +241,7 @@
   },
   "30": {
     "name": "Psybeam",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 70,
     "duration": 3200,
     "energy": 50,
@@ -249,7 +249,7 @@
   },
   "31": {
     "name": "Earthquake",
-    "type": "Ground",
+    "type": "Tierra",
     "damage": 120,
     "duration": 3600,
     "energy": 100,
@@ -257,15 +257,15 @@
   },
   "32": {
     "name": "Stone Edge",
-    "type": "Rock",
+    "type": "Roca",
     "damage": 100,
     "duration": 2300,
     "energy": 100,
     "dps": 43.48
   },
   "33": {
-    "name": "Ice Punch",
-    "type": "Ice",
+    "name": "Hielo Punch",
+    "type": "Hielo",
     "damage": 50,
     "duration": 1900,
     "energy": 33,
@@ -273,7 +273,7 @@
   },
   "34": {
     "name": "Heart Stamp",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 40,
     "duration": 1900,
     "energy": 33,
@@ -281,7 +281,7 @@
   },
   "35": {
     "name": "Discharge",
-    "type": "Electric",
+    "type": "Electrico",
     "damage": 65,
     "duration": 2500,
     "energy": 33,
@@ -289,7 +289,7 @@
   },
   "36": {
     "name": "Flash Cannon",
-    "type": "Steel",
+    "type": "Acero",
     "damage": 100,
     "duration": 2700,
     "energy": 100,
@@ -305,15 +305,15 @@
   },
   "38": {
     "name": "Drill Peck",
-    "type": "Flying",
+    "type": "Volador",
     "damage": 60,
     "duration": 2300,
     "energy": 33,
     "dps": 26.09
   },
   "39": {
-    "name": "Ice Beam",
-    "type": "Ice",
+    "name": "Hielo Beam",
+    "type": "Hielo",
     "damage": 90,
     "duration": 3300,
     "energy": 50,
@@ -321,7 +321,7 @@
   },
   "40": {
     "name": "Blizzard",
-    "type": "Ice",
+    "type": "Hielo",
     "damage": 130,
     "duration": 3100,
     "energy": 100,
@@ -337,7 +337,7 @@
   },
   "42": {
     "name": "Heat Wave",
-    "type": "Fire",
+    "type": "Fuego",
     "damage": 95,
     "duration": 3000,
     "energy": 100,
@@ -352,7 +352,7 @@
     "dps": 0
   },
   "44": {
-    "name": "Poison Jab",
+    "name": "Veneno Jab",
     "type": "",
     "damage": 0,
     "duration": 0,
@@ -361,7 +361,7 @@
   },
   "45": {
     "name": "Aerial Ace",
-    "type": "Flying",
+    "type": "Volador",
     "damage": 55,
     "duration": 2400,
     "energy": 33,
@@ -369,7 +369,7 @@
   },
   "46": {
     "name": "Drill Run",
-    "type": "Ground",
+    "type": "Tierra",
     "damage": 80,
     "duration": 2800,
     "energy": 50,
@@ -377,7 +377,7 @@
   },
   "47": {
     "name": "Petal Blizzard",
-    "type": "Grass",
+    "type": "Planta",
     "damage": 110,
     "duration": 2600,
     "energy": 100,
@@ -385,23 +385,23 @@
   },
   "48": {
     "name": "Mega Drain",
-    "type": "Grass",
+    "type": "Planta",
     "damage": 25,
     "duration": 2600,
     "energy": 50,
     "dps": 9.62
   },
   "49": {
-    "name": "Bug Buzz",
-    "type": "Bug",
+    "name": "Bicho Buzz",
+    "type": "Bicho",
     "damage": 90,
     "duration": 3700,
     "energy": 50,
     "dps": 24.32
   },
   "50": {
-    "name": "Poison Fang",
-    "type": "Poison",
+    "name": "Veneno Fang",
+    "type": "Veneno",
     "damage": 35,
     "duration": 1700,
     "energy": 33,
@@ -409,7 +409,7 @@
   },
   "51": {
     "name": "Night Slash",
-    "type": "Dark",
+    "type": "Siniestro",
     "damage": 50,
     "duration": 2200,
     "energy": 33,
@@ -425,7 +425,7 @@
   },
   "53": {
     "name": "Bubble Beam",
-    "type": "Water",
+    "type": "Agua",
     "damage": 45,
     "duration": 1900,
     "energy": 33,
@@ -433,7 +433,7 @@
   },
   "54": {
     "name": "Submission",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 60,
     "duration": 2200,
     "energy": 50,
@@ -449,7 +449,7 @@
   },
   "56": {
     "name": "Low Sweep",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 40,
     "duration": 1900,
     "energy": 33,
@@ -457,7 +457,7 @@
   },
   "57": {
     "name": "Aqua Jet",
-    "type": "Water",
+    "type": "Agua",
     "damage": 45,
     "duration": 2600,
     "energy": 33,
@@ -465,7 +465,7 @@
   },
   "58": {
     "name": "Aqua Tail",
-    "type": "Water",
+    "type": "Agua",
     "damage": 50,
     "duration": 1900,
     "energy": 33,
@@ -473,7 +473,7 @@
   },
   "59": {
     "name": "Seed Bomb",
-    "type": "Grass",
+    "type": "Planta",
     "damage": 55,
     "duration": 2100,
     "energy": 33,
@@ -481,14 +481,14 @@
   },
   "60": {
     "name": "Psyshock",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 65,
     "duration": 2700,
     "energy": 33,
     "dps": 24.07
   },
   "61": {
-    "name": "Rock Throw",
+    "name": "Roca Throw",
     "type": "",
     "damage": 0,
     "duration": 0,
@@ -497,23 +497,23 @@
   },
   "62": {
     "name": "Ancient Power",
-    "type": "Rock",
+    "type": "Roca",
     "damage": 70,
     "duration": 3500,
     "energy": 33,
     "dps": 20
   },
   "63": {
-    "name": "Rock Tomb",
-    "type": "Rock",
+    "name": "Roca Tomb",
+    "type": "Roca",
     "damage": 70,
     "duration": 3200,
     "energy": 50,
     "dps": 21.88
   },
   "64": {
-    "name": "Rock Slide",
-    "type": "Rock",
+    "name": "Roca Slide",
+    "type": "Roca",
     "damage": 80,
     "duration": 2700,
     "energy": 50,
@@ -521,7 +521,7 @@
   },
   "65": {
     "name": "Power Gem",
-    "type": "Rock",
+    "type": "Roca",
     "damage": 80,
     "duration": 2900,
     "energy": 50,
@@ -529,7 +529,7 @@
   },
   "66": {
     "name": "Shadow Sneak",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 50,
     "duration": 2900,
     "energy": 33,
@@ -537,7 +537,7 @@
   },
   "67": {
     "name": "Shadow Punch",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 40,
     "duration": 1700,
     "energy": 33,
@@ -553,7 +553,7 @@
   },
   "69": {
     "name": "Ominous Wind",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 50,
     "duration": 2300,
     "energy": 33,
@@ -561,7 +561,7 @@
   },
   "70": {
     "name": "Shadow Ball",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 100,
     "duration": 3000,
     "energy": 50,
@@ -577,14 +577,14 @@
   },
   "72": {
     "name": "Magnet Bomb",
-    "type": "Steel",
+    "type": "Acero",
     "damage": 70,
     "duration": 2800,
     "energy": 33,
     "dps": 25
   },
   "73": {
-    "name": "Steel Wing",
+    "name": "Acero Wing",
     "type": "",
     "damage": 0,
     "duration": 0,
@@ -593,7 +593,7 @@
   },
   "74": {
     "name": "Iron Head",
-    "type": "Steel",
+    "type": "Acero",
     "damage": 60,
     "duration": 1900,
     "energy": 50,
@@ -601,7 +601,7 @@
   },
   "75": {
     "name": "Parabolic Charge",
-    "type": "Electric",
+    "type": "Electrico",
     "damage": 25,
     "duration": 2800,
     "energy": 50,
@@ -617,7 +617,7 @@
   },
   "77": {
     "name": "Thunder Punch",
-    "type": "Electric",
+    "type": "Electrico",
     "damage": 45,
     "duration": 1800,
     "energy": 33,
@@ -625,7 +625,7 @@
   },
   "78": {
     "name": "Thunder",
-    "type": "Electric",
+    "type": "Electrico",
     "damage": 100,
     "duration": 2400,
     "energy": 100,
@@ -633,7 +633,7 @@
   },
   "79": {
     "name": "Thunderbolt",
-    "type": "Electric",
+    "type": "Electrico",
     "damage": 80,
     "duration": 2500,
     "energy": 50,
@@ -672,8 +672,8 @@
     "dps": 29.41
   },
   "84": {
-    "name": "Disarming Voice",
-    "type": "Fairy",
+    "name": "Disarming VoHielo",
+    "type": "Hada",
     "damage": 70,
     "duration": 3900,
     "energy": 33,
@@ -681,7 +681,7 @@
   },
   "85": {
     "name": "Draining Kiss",
-    "type": "Fairy",
+    "type": "Hada",
     "damage": 60,
     "duration": 2600,
     "energy": 50,
@@ -689,7 +689,7 @@
   },
   "86": {
     "name": "Dazzling Gleam",
-    "type": "Fairy",
+    "type": "Hada",
     "damage": 100,
     "duration": 3500,
     "energy": 50,
@@ -697,7 +697,7 @@
   },
   "87": {
     "name": "Moonblast",
-    "type": "Fairy",
+    "type": "Hada",
     "damage": 130,
     "duration": 3900,
     "energy": 100,
@@ -705,15 +705,15 @@
   },
   "88": {
     "name": "Play Rough",
-    "type": "Fairy",
+    "type": "Hada",
     "damage": 90,
     "duration": 2900,
     "energy": 50,
     "dps": 31.03
   },
   "89": {
-    "name": "Cross Poison",
-    "type": "Poison",
+    "name": "Cross Veneno",
+    "type": "Veneno",
     "damage": 40,
     "duration": 1500,
     "energy": 33,
@@ -721,7 +721,7 @@
   },
   "90": {
     "name": "Sludge Bomb",
-    "type": "Poison",
+    "type": "Veneno",
     "damage": 80,
     "duration": 2300,
     "energy": 50,
@@ -729,7 +729,7 @@
   },
   "91": {
     "name": "Sludge Wave",
-    "type": "Poison",
+    "type": "Veneno",
     "damage": 110,
     "duration": 3200,
     "energy": 100,
@@ -737,7 +737,7 @@
   },
   "92": {
     "name": "Gunk Shot",
-    "type": "Poison",
+    "type": "Veneno",
     "damage": 130,
     "duration": 3100,
     "energy": 100,
@@ -753,7 +753,7 @@
   },
   "94": {
     "name": "Bone Club",
-    "type": "Ground",
+    "type": "Tierra",
     "damage": 40,
     "duration": 1600,
     "energy": 33,
@@ -761,7 +761,7 @@
   },
   "95": {
     "name": "Bulldoze",
-    "type": "Ground",
+    "type": "Tierra",
     "damage": 80,
     "duration": 3500,
     "energy": 50,
@@ -769,7 +769,7 @@
   },
   "96": {
     "name": "Mud Bomb",
-    "type": "Ground",
+    "type": "Tierra",
     "damage": 55,
     "duration": 2300,
     "energy": 33,
@@ -784,7 +784,7 @@
     "dps": 0
   },
   "98": {
-    "name": "Bug Bite",
+    "name": "Bicho Bite",
     "type": "",
     "damage": 0,
     "duration": 0,
@@ -793,7 +793,7 @@
   },
   "99": {
     "name": "Signal Beam",
-    "type": "Bug",
+    "type": "Bicho",
     "damage": 75,
     "duration": 2900,
     "energy": 50,
@@ -801,7 +801,7 @@
   },
   "100": {
     "name": "X-Scissor",
-    "type": "Bug",
+    "type": "Bicho",
     "damage": 45,
     "duration": 1600,
     "energy": 33,
@@ -809,7 +809,7 @@
   },
   "101": {
     "name": "Flame Charge",
-    "type": "Fire",
+    "type": "Fuego",
     "damage": 70,
     "duration": 3800,
     "energy": 33,
@@ -817,15 +817,15 @@
   },
   "102": {
     "name": "Flame Burst",
-    "type": "Fire",
+    "type": "Fuego",
     "damage": 70,
     "duration": 2600,
     "energy": 50,
     "dps": 26.92
   },
   "103": {
-    "name": "Fire Blast",
-    "type": "Fire",
+    "name": "Fuego Blast",
+    "type": "Fuego",
     "damage": 140,
     "duration": 4200,
     "energy": 100,
@@ -833,15 +833,15 @@
   },
   "104": {
     "name": "Brine",
-    "type": "Water",
+    "type": "Agua",
     "damage": 60,
     "duration": 2300,
     "energy": 50,
     "dps": 26.09
   },
   "105": {
-    "name": "Water Pulse",
-    "type": "Water",
+    "name": "Agua Pulse",
+    "type": "Agua",
     "damage": 70,
     "duration": 3200,
     "energy": 50,
@@ -849,7 +849,7 @@
   },
   "106": {
     "name": "Scald",
-    "type": "Water",
+    "type": "Agua",
     "damage": 82,
     "duration": 3700,
     "energy": 50,
@@ -857,15 +857,15 @@
   },
   "107": {
     "name": "Hydro Pump",
-    "type": "Water",
+    "type": "Agua",
     "damage": 130,
     "duration": 3300,
     "energy": 100,
     "dps": 39.39
   },
   "108": {
-    "name": "Psychic",
-    "type": "Psychic",
+    "name": "Psiquico",
+    "type": "Psiquico",
     "damage": 100,
     "duration": 2800,
     "energy": 100,
@@ -873,14 +873,14 @@
   },
   "109": {
     "name": "Psystrike",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 100,
     "duration": 4400,
     "energy": 50,
     "dps": 22.73
   },
   "110": {
-    "name": "Ice Shard",
+    "name": "Hielo Shard",
     "type": "",
     "damage": 0,
     "duration": 0,
@@ -889,7 +889,7 @@
   },
   "111": {
     "name": "Icy Wind",
-    "type": "Ice",
+    "type": "Hielo",
     "damage": 60,
     "duration": 3300,
     "energy": 33,
@@ -913,15 +913,15 @@
   },
   "114": {
     "name": "Giga Drain",
-    "type": "Grass",
+    "type": "Planta",
     "damage": 50,
     "duration": 3900,
     "energy": 100,
     "dps": 12.82
   },
   "115": {
-    "name": "Fire Punch",
-    "type": "Fire",
+    "name": "Fuego Punch",
+    "type": "Fuego",
     "damage": 55,
     "duration": 2200,
     "energy": 33,
@@ -929,7 +929,7 @@
   },
   "116": {
     "name": "Solar Beam",
-    "type": "Grass",
+    "type": "Planta",
     "damage": 180,
     "duration": 4900,
     "energy": 100,
@@ -937,7 +937,7 @@
   },
   "117": {
     "name": "Leaf Blade",
-    "type": "Grass",
+    "type": "Planta",
     "damage": 70,
     "duration": 2400,
     "energy": 33,
@@ -945,7 +945,7 @@
   },
   "118": {
     "name": "Power Whip",
-    "type": "Grass",
+    "type": "Planta",
     "damage": 90,
     "duration": 2600,
     "energy": 50,
@@ -969,7 +969,7 @@
   },
   "121": {
     "name": "Air Cutter",
-    "type": "Flying",
+    "type": "Volador",
     "damage": 60,
     "duration": 2700,
     "energy": 50,
@@ -977,7 +977,7 @@
   },
   "122": {
     "name": "Hurricane",
-    "type": "Flying",
+    "type": "Volador",
     "damage": 110,
     "duration": 2700,
     "energy": 100,
@@ -985,7 +985,7 @@
   },
   "123": {
     "name": "Brick Break",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 40,
     "duration": 1600,
     "energy": 33,
@@ -1073,7 +1073,7 @@
   },
   "134": {
     "name": "Scald (Blastoise)",
-    "type": "Water",
+    "type": "Agua",
     "damage": 0,
     "duration": 0,
     "energy": 0,
@@ -1081,7 +1081,7 @@
   },
   "135": {
     "name": "Hydro Pump (Blastoise)",
-    "type": "Water",
+    "type": "Agua",
     "damage": 0,
     "duration": 0,
     "energy": 0,
@@ -1105,15 +1105,15 @@
   },
   "200": {
     "name": "Fury Cutter",
-    "type": "Bug",
+    "type": "Bicho",
     "damage": 3,
     "duration": 400,
     "energy": 6,
     "dps": 7.5
   },
   "201": {
-    "name": "Bug Bite",
-    "type": "Bug",
+    "name": "Bicho Bite",
+    "type": "Bicho",
     "damage": 5,
     "duration": 500,
     "energy": 6,
@@ -1121,7 +1121,7 @@
   },
   "202": {
     "name": "Bite",
-    "type": "Dark",
+    "type": "Siniestro",
     "damage": 6,
     "duration": 500,
     "energy": 4,
@@ -1129,7 +1129,7 @@
   },
   "203": {
     "name": "Sucker Punch",
-    "type": "Dark",
+    "type": "Siniestro",
     "damage": 7,
     "duration": 700,
     "energy": 8,
@@ -1145,7 +1145,7 @@
   },
   "205": {
     "name": "Thunder Shock",
-    "type": "Electric",
+    "type": "Electrico",
     "damage": 5,
     "duration": 600,
     "energy": 8,
@@ -1153,7 +1153,7 @@
   },
   "206": {
     "name": "Spark",
-    "type": "Electric",
+    "type": "Electrico",
     "damage": 6,
     "duration": 700,
     "energy": 9,
@@ -1161,7 +1161,7 @@
   },
   "207": {
     "name": "Low Kick",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 6,
     "duration": 600,
     "energy": 6,
@@ -1169,7 +1169,7 @@
   },
   "208": {
     "name": "Karate Chop",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 8,
     "duration": 800,
     "energy": 10,
@@ -1177,7 +1177,7 @@
   },
   "209": {
     "name": "Ember",
-    "type": "Fire",
+    "type": "Fuego",
     "damage": 10,
     "duration": 1000,
     "energy": 10,
@@ -1185,7 +1185,7 @@
   },
   "210": {
     "name": "Wing Attack",
-    "type": "Flying",
+    "type": "Volador",
     "damage": 8,
     "duration": 800,
     "energy": 9,
@@ -1193,7 +1193,7 @@
   },
   "211": {
     "name": "Peck",
-    "type": "Flying",
+    "type": "Volador",
     "damage": 10,
     "duration": 1000,
     "energy": 10,
@@ -1201,7 +1201,7 @@
   },
   "212": {
     "name": "Lick",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 5,
     "duration": 500,
     "energy": 6,
@@ -1209,7 +1209,7 @@
   },
   "213": {
     "name": "Shadow Claw",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 9,
     "duration": 700,
     "energy": 6,
@@ -1217,7 +1217,7 @@
   },
   "214": {
     "name": "Vine Whip",
-    "type": "Grass",
+    "type": "Planta",
     "damage": 7,
     "duration": 600,
     "energy": 6,
@@ -1225,7 +1225,7 @@
   },
   "215": {
     "name": "Razor Leaf",
-    "type": "Grass",
+    "type": "Planta",
     "damage": 13,
     "duration": 1000,
     "energy": 7,
@@ -1233,15 +1233,15 @@
   },
   "216": {
     "name": "Mud Shot",
-    "type": "Ground",
+    "type": "Tierra",
     "damage": 5,
     "duration": 600,
     "energy": 7,
     "dps": 8.33
   },
   "217": {
-    "name": "Ice Shard",
-    "type": "Ice",
+    "name": "Hielo Shard",
+    "type": "Hielo",
     "damage": 12,
     "duration": 1200,
     "energy": 12,
@@ -1249,7 +1249,7 @@
   },
   "218": {
     "name": "Frost Breath",
-    "type": "Ice",
+    "type": "Hielo",
     "damage": 10,
     "duration": 900,
     "energy": 8,
@@ -1296,8 +1296,8 @@
     "dps": 10
   },
   "224": {
-    "name": "Poison Jab",
-    "type": "Poison",
+    "name": "Veneno Jab",
+    "type": "Veneno",
     "damage": 10,
     "duration": 800,
     "energy": 7,
@@ -1305,7 +1305,7 @@
   },
   "225": {
     "name": "Acid",
-    "type": "Poison",
+    "type": "Veneno",
     "damage": 9,
     "duration": 800,
     "energy": 8,
@@ -1313,15 +1313,15 @@
   },
   "226": {
     "name": "Psycho Cut",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 5,
     "duration": 600,
     "energy": 8,
     "dps": 8.33
   },
   "227": {
-    "name": "Rock Throw",
-    "type": "Rock",
+    "name": "Roca Throw",
+    "type": "Roca",
     "damage": 12,
     "duration": 900,
     "energy": 7,
@@ -1329,7 +1329,7 @@
   },
   "228": {
     "name": "Metal Claw",
-    "type": "Steel",
+    "type": "Acero",
     "damage": 8,
     "duration": 700,
     "energy": 7,
@@ -1337,15 +1337,15 @@
   },
   "229": {
     "name": "Bullet Punch",
-    "type": "Steel",
+    "type": "Acero",
     "damage": 9,
     "duration": 900,
     "energy": 10,
     "dps": 10
   },
   "230": {
-    "name": "Water Gun",
-    "type": "Water",
+    "name": "Agua Gun",
+    "type": "Agua",
     "damage": 5,
     "duration": 500,
     "energy": 5,
@@ -1353,14 +1353,14 @@
   },
   "231": {
     "name": "Splash",
-    "type": "Water",
+    "type": "Agua",
     "damage": 0,
     "duration": 1730,
     "energy": 20,
     "dps": 0
   },
   "232": {
-    "name": "Water Gun (Blastoise)",
+    "name": "Agua Gun (Blastoise)",
     "type": "",
     "damage": 0,
     "duration": 0,
@@ -1369,7 +1369,7 @@
   },
   "233": {
     "name": "Mud Slap",
-    "type": "Ground",
+    "type": "Tierra",
     "damage": 15,
     "duration": 1400,
     "energy": 12,
@@ -1377,7 +1377,7 @@
   },
   "234": {
     "name": "Zen Headbutt",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 12,
     "duration": 1100,
     "energy": 10,
@@ -1385,15 +1385,15 @@
   },
   "235": {
     "name": "Confusion",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 20,
     "duration": 1600,
     "energy": 15,
     "dps": 12.5
   },
   "236": {
-    "name": "Poison Sting",
-    "type": "Poison",
+    "name": "Veneno Sting",
+    "type": "Veneno",
     "damage": 5,
     "duration": 600,
     "energy": 7,
@@ -1401,7 +1401,7 @@
   },
   "237": {
     "name": "Bubble",
-    "type": "Water",
+    "type": "Agua",
     "damage": 12,
     "duration": 1200,
     "energy": 14,
@@ -1409,31 +1409,31 @@
   },
   "238": {
     "name": "Feint Attack",
-    "type": "Dark",
+    "type": "Siniestro",
     "damage": 10,
     "duration": 900,
     "energy": 9,
     "dps": 11.11
   },
   "239": {
-    "name": "Steel Wing",
-    "type": "Steel",
+    "name": "Acero Wing",
+    "type": "Acero",
     "damage": 11,
     "duration": 800,
     "energy": 6,
     "dps": 13.75
   },
   "240": {
-    "name": "Fire Fang",
-    "type": "Fire",
+    "name": "Fuego Fang",
+    "type": "Fuego",
     "damage": 11,
     "duration": 900,
     "energy": 8,
     "dps": 12.22
   },
   "241": {
-    "name": "Rock Smash",
-    "type": "Fighting",
+    "name": "Roca Smash",
+    "type": "Lucha",
     "damage": 15,
     "duration": 1300,
     "energy": 10,
@@ -1449,7 +1449,7 @@
   },
   "243": {
     "name": "Counter",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 8,
     "duration": 900,
     "energy": 12,
@@ -1457,7 +1457,7 @@
   },
   "244": {
     "name": "Powder Snow",
-    "type": "Ice",
+    "type": "Hielo",
     "damage": 6,
     "duration": 1000,
     "energy": 15,
@@ -1465,7 +1465,7 @@
   },
   "245": {
     "name": "Close Combat",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 100,
     "duration": 2300,
     "energy": 100,
@@ -1473,7 +1473,7 @@
   },
   "246": {
     "name": "Dynamic Punch",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 90,
     "duration": 2700,
     "energy": 50,
@@ -1481,7 +1481,7 @@
   },
   "247": {
     "name": "Focus Blast",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 140,
     "duration": 3500,
     "energy": 140,
@@ -1489,7 +1489,7 @@
   },
   "248": {
     "name": "Aurora Beam",
-    "type": "Ice",
+    "type": "Hielo",
     "damage": 80,
     "duration": 3550,
     "energy": 50,
@@ -1497,7 +1497,7 @@
   },
   "249": {
     "name": "Charge Beam",
-    "type": "Electric",
+    "type": "Electrico",
     "damage": 8,
     "duration": 1100,
     "energy": 15,
@@ -1505,7 +1505,7 @@
   },
   "250": {
     "name": "Volt Switch",
-    "type": "Electric",
+    "type": "Electrico",
     "damage": 20,
     "duration": 2300,
     "energy": 25,
@@ -1513,7 +1513,7 @@
   },
   "251": {
     "name": "Wild Charge",
-    "type": "Electric",
+    "type": "Electrico",
     "damage": 90,
     "duration": 2600,
     "energy": 50,
@@ -1521,7 +1521,7 @@
   },
   "252": {
     "name": "Zap Cannon",
-    "type": "Electric",
+    "type": "Electrico",
     "damage": 140,
     "duration": 3700,
     "energy": 100,
@@ -1537,7 +1537,7 @@
   },
   "254": {
     "name": "Avalanche",
-    "type": "Ice",
+    "type": "Hielo",
     "damage": 90,
     "duration": 2700,
     "energy": 50,
@@ -1545,7 +1545,7 @@
   },
   "255": {
     "name": "Air Slash",
-    "type": "Flying",
+    "type": "Volador",
     "damage": 14,
     "duration": 1200,
     "energy": 10,
@@ -1553,7 +1553,7 @@
   },
   "256": {
     "name": "Brave Bird",
-    "type": "Flying",
+    "type": "Volador",
     "damage": 90,
     "duration": 2000,
     "energy": 100,
@@ -1561,7 +1561,7 @@
   },
   "257": {
     "name": "Sky Attack",
-    "type": "Flying",
+    "type": "Volador",
     "damage": 70,
     "duration": 2000,
     "energy": 50,
@@ -1569,15 +1569,15 @@
   },
   "258": {
     "name": "Sand Tomb",
-    "type": "Ground",
+    "type": "Tierra",
     "damage": 80,
     "duration": 4000,
     "energy": 50,
     "dps": 20
   },
   "259": {
-    "name": "Rock Blast",
-    "type": "Rock",
+    "name": "Roca Blast",
+    "type": "Roca",
     "damage": 50,
     "duration": 2100,
     "energy": 33,
@@ -1585,15 +1585,15 @@
   },
   "260": {
     "name": "Infestation",
-    "type": "Bug",
+    "type": "Bicho",
     "damage": 10,
     "duration": 1100,
     "energy": 14,
     "dps": 9.09
   },
   "261": {
-    "name": "Struggle Bug",
-    "type": "Bug",
+    "name": "Struggle Bicho",
+    "type": "Bicho",
     "damage": 15,
     "duration": 1500,
     "energy": 15,
@@ -1601,7 +1601,7 @@
   },
   "262": {
     "name": "Silver Wind",
-    "type": "Bug",
+    "type": "Bicho",
     "damage": 70,
     "duration": 3700,
     "energy": 33,
@@ -1609,7 +1609,7 @@
   },
   "263": {
     "name": "Astonish",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 8,
     "duration": 1100,
     "energy": 14,
@@ -1617,7 +1617,7 @@
   },
   "264": {
     "name": "Hex",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 10,
     "duration": 1200,
     "energy": 15,
@@ -1625,7 +1625,7 @@
   },
   "265": {
     "name": "Night Shade",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 60,
     "duration": 2600,
     "energy": 50,
@@ -1633,7 +1633,7 @@
   },
   "266": {
     "name": "Iron Tail",
-    "type": "Steel",
+    "type": "Acero",
     "damage": 15,
     "duration": 1100,
     "energy": 7,
@@ -1641,7 +1641,7 @@
   },
   "267": {
     "name": "Gyro Ball",
-    "type": "Steel",
+    "type": "Acero",
     "damage": 80,
     "duration": 3300,
     "energy": 50,
@@ -1649,15 +1649,15 @@
   },
   "268": {
     "name": "Heavy Slam",
-    "type": "Steel",
+    "type": "Acero",
     "damage": 70,
     "duration": 2100,
     "energy": 50,
     "dps": 33.33
   },
   "269": {
-    "name": "Fire Spin",
-    "type": "Fire",
+    "name": "Fuego Spin",
+    "type": "Fuego",
     "damage": 14,
     "duration": 1100,
     "energy": 10,
@@ -1665,7 +1665,7 @@
   },
   "270": {
     "name": "Overheat",
-    "type": "Fire",
+    "type": "Fuego",
     "damage": 160,
     "duration": 4000,
     "energy": 100,
@@ -1673,15 +1673,15 @@
   },
   "271": {
     "name": "Bullet Seed",
-    "type": "Grass",
+    "type": "Planta",
     "damage": 8,
     "duration": 1100,
     "energy": 14,
     "dps": 7.27
   },
   "272": {
-    "name": "Grass Knot",
-    "type": "Grass",
+    "name": "Planta Knot",
+    "type": "Planta",
     "damage": 90,
     "duration": 2600,
     "energy": 50,
@@ -1689,7 +1689,7 @@
   },
   "273": {
     "name": "Energy Ball",
-    "type": "Grass",
+    "type": "Planta",
     "damage": 90,
     "duration": 3900,
     "energy": 50,
@@ -1697,7 +1697,7 @@
   },
   "274": {
     "name": "Extrasensory",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 12,
     "duration": 1100,
     "energy": 12,
@@ -1705,7 +1705,7 @@
   },
   "275": {
     "name": "Future Sight",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 120,
     "duration": 2700,
     "energy": 100,
@@ -1713,7 +1713,7 @@
   },
   "276": {
     "name": "Mirror Coat",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 60,
     "duration": 2600,
     "energy": 50,
@@ -1729,7 +1729,7 @@
   },
   "278": {
     "name": "Snarl",
-    "type": "Dark",
+    "type": "Siniestro",
     "damage": 12,
     "duration": 1100,
     "energy": 12,
@@ -1737,7 +1737,7 @@
   },
   "279": {
     "name": "Crunch",
-    "type": "Dark",
+    "type": "Siniestro",
     "damage": 70,
     "duration": 3200,
     "energy": 33,
@@ -1745,7 +1745,7 @@
   },
   "280": {
     "name": "Foul Play",
-    "type": "Dark",
+    "type": "Siniestro",
     "damage": 70,
     "duration": 2000,
     "energy": 50,
@@ -1768,8 +1768,8 @@
     "dps": 6.7
   },
   "283": {
-    "name": "Waterfall",
-    "type": "Water",
+    "name": "Aguafall",
+    "type": "Agua",
     "damage": 16,
     "duration": 1200,
     "energy": 8,
@@ -1777,7 +1777,7 @@
   },
   "284": {
     "name": "Surf",
-    "type": "Water",
+    "type": "Agua",
     "damage": 65,
     "duration": 1700,
     "energy": 50,
@@ -1793,7 +1793,7 @@
   },
   "286": {
     "name": "Doom Desire",
-    "type": "Steel",
+    "type": "Acero",
     "damage": 80,
     "duration": 1700,
     "energy": 50,
@@ -1809,7 +1809,7 @@
   },
   "288": {
     "name": "Psycho Boost",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 70,
     "duration": 4000,
     "energy": 50,
@@ -1817,15 +1817,15 @@
   },
   "289": {
     "name": "Origin Pulse",
-    "type": "Water",
+    "type": "Agua",
     "damage": 130,
     "duration": 1700,
     "energy": 100,
     "dps": 59.1
   },
   "290": {
-    "name": "Precipice Blades",
-    "type": "Ground",
+    "name": "PrecipHielo Blades",
+    "type": "Tierra",
     "damage": 130,
     "duration": 1700,
     "energy": 100,
@@ -1840,32 +1840,32 @@
     "dps": 3.8
   },
   "292": {
-    "name": "Weather Ball Fire",
-    "type": "Fire",
+    "name": "Weather Ball Fuego",
+    "type": "Fuego",
     "damage": 60,
     "duration": 1600,
     "energy": 20,
     "dps": 37.5
   },
   "293": {
-    "name": "Weather Ball Ice",
-    "type": "Ice",
+    "name": "Weather Ball Hielo",
+    "type": "Hielo",
     "damage": 60,
     "duration": 1600,
     "energy": 20,
     "dps": 37.5
   },
   "294": {
-    "name": "Weather Ball Rock",
-    "type": "Rock",
+    "name": "Weather Ball Roca",
+    "type": "Roca",
     "damage": 60,
     "duration": 1600,
     "energy": 20,
     "dps": 37.5
   },
   "295": {
-    "name": "Weather Ball Water",
-    "type": "Water",
+    "name": "Weather Ball Agua",
+    "type": "Agua",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -1873,7 +1873,7 @@
   },
   "296": {
     "name": "Frenzy Plant",
-    "type": "Grass",
+    "type": "Planta",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -1881,7 +1881,7 @@
   },
   "297": {
     "name": "Smack Down",
-    "type": "Rock",
+    "type": "Roca",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -1889,7 +1889,7 @@
   },
   "298": {
     "name": "Blast Burn",
-    "type": "Fire",
+    "type": "Fuego",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -1897,7 +1897,7 @@
   },
   "299": {
     "name": "Hydro Cannon",
-    "type": "Water",
+    "type": "Agua",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -1913,7 +1913,7 @@
   },
   "301": {
     "name": "Meteor Mash",
-    "type": "Steel",
+    "type": "Acero",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -1929,7 +1929,7 @@
   },
   "303": {
     "name": "Acid Spray",
-    "type": "Poison",
+    "type": "Veneno",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -1937,7 +1937,7 @@
   },
   "304": {
     "name": "Earth Power",
-    "type": "Ground",
+    "type": "Tierra",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -1945,7 +1945,7 @@
   },
   "305": {
     "name": "Crabhammer",
-    "type": "Water",
+    "type": "Agua",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -1953,7 +1953,7 @@
   },
   "306": {
     "name": "Lunge",
-    "type": "Bug",
+    "type": "Bicho",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -1969,7 +1969,7 @@
   },
   "308": {
     "name": "Octazooka",
-    "type": "Water",
+    "type": "Agua",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -1977,7 +1977,7 @@
   },
   "309": {
     "name": "Mirror Shot",
-    "type": "Steel",
+    "type": "Acero",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -1985,7 +1985,7 @@
   },
   "310": {
     "name": "Superpower",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -1993,7 +1993,7 @@
   },
   "311": {
     "name": "Fell Stinger",
-    "type": "Bug",
+    "type": "Bicho",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -2001,7 +2001,7 @@
   },
   "312": {
     "name": "Leaf Tornado",
-    "type": "Grass",
+    "type": "Planta",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -2009,7 +2009,7 @@
   },
   "313": {
     "name": "Leech Life",
-    "type": "Bug",
+    "type": "Bicho",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -2017,7 +2017,7 @@
   },
   "314": {
     "name": "Drain Punch",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -2025,15 +2025,15 @@
   },
   "315": {
     "name": "Shadow Bone",
-    "type": "Ghost",
+    "type": "Fantasma",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
     "dps": 3.8
   },
   "316": {
-    "name": "Muddy Water",
-    "type": "Water",
+    "name": "Muddy Agua",
+    "type": "Agua",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -2041,7 +2041,7 @@
   },
   "317": {
     "name": "Blaze Kick",
-    "type": "Fire",
+    "type": "Fuego",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -2049,7 +2049,7 @@
   },
   "318": {
     "name": "Razor Shell",
-    "type": "Water",
+    "type": "Agua",
     "damage": 5,
     "duration": 1300,
     "energy": 20,
@@ -2057,7 +2057,7 @@
   },
   "319": {
     "name": "Power Up Punch",
-    "type": "Fighting",
+    "type": "Lucha",
     "damage": 50,
     "duration": 2000,
     "energy": 33,
@@ -2065,7 +2065,7 @@
   },
   "320": {
     "name": "Charm",
-    "type": "Fairy",
+    "type": "Hada",
     "damage": 50,
     "duration": 2000,
     "energy": 33,
@@ -2097,7 +2097,7 @@
   },
   "324": {
     "name": "Synchronoise",
-    "type": "Psychic",
+    "type": "Psiquico",
     "damage": 50,
     "duration": 2000,
     "energy": 33,
