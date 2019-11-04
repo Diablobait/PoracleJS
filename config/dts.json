@@ -387,7 +387,7 @@
         },
         {
           "name": "**Comandos de Misiones**",
-          "value": "`/mision porygon d500`: Este comando te avisará de las misiones en un rango de menos de 500 metros que den al completarlas porygon como recompensa. Tambien se puede usar `stardust1500`"
+          "value": "`/mision porygon d500`: Este comando te avisará de las misiones en un rango de menos de 500 metros que den al completarlas porygon como recompensa. Tambien se puede usar `stardust1500`\n`/mision remove objeto o pokemon` para borrar la misión"
         },
         {
           "name": "**Comandos de Team Rocket**",
