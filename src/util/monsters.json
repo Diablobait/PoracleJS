@@ -3186,7 +3186,7 @@
     "spawn_rate": ""
   },
   "377": {
-    "name": "RegiRoca",
+    "name": "Regiroca",
     "rarity": "",
     "types": [
       "Roca"
@@ -3194,7 +3194,7 @@
     "spawn_rate": ""
   },
   "378": {
-    "name": "RegHielo",
+    "name": "Regice",
     "rarity": "",
     "types": [
       "Hielo"
@@ -3202,7 +3202,7 @@
     "spawn_rate": ""
   },
   "379": {
-    "name": "RegiAcero",
+    "name": "Registeel",
     "rarity": "",
     "types": [
       "Acero"
