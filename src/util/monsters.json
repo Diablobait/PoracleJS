@@ -3,8 +3,8 @@
     "name": "Bulbasaur",
     "rarity": "Uncommon",
     "types": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
     "spawn_rate": "61"
   },
@@ -12,8 +12,8 @@
     "name": "Ivysaur",
     "rarity": "Rare",
     "types": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
     "spawn_rate": "421"
   },
@@ -21,8 +21,8 @@
     "name": "Venusaur",
     "rarity": "Very Rare",
     "types": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
     "spawn_rate": "641"
   },
@@ -30,7 +30,7 @@
     "name": "Charmander",
     "rarity": "Rare",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": "119"
   },
@@ -38,7 +38,7 @@
     "name": "Charmeleon",
     "rarity": "Very Rare",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": "1025"
   },
@@ -46,8 +46,8 @@
     "name": "Charizard",
     "rarity": "Very Rare",
     "types": [
-      "Fire",
-      "Flying"
+      "Fuego",
+      "Volador"
     ],
     "spawn_rate": "879"
   },
@@ -55,7 +55,7 @@
     "name": "Squirtle",
     "rarity": "Uncommon",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "65"
   },
@@ -63,7 +63,7 @@
     "name": "Wartortle",
     "rarity": "Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "484"
   },
@@ -71,7 +71,7 @@
     "name": "Blastoise",
     "rarity": "Very Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "843"
   },
@@ -79,7 +79,7 @@
     "name": "Caterpie",
     "rarity": "Uncommon",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": "51"
   },
@@ -87,7 +87,7 @@
     "name": "Metapod",
     "rarity": "Rare",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": "433"
   },
@@ -95,8 +95,8 @@
     "name": "Butterfree",
     "rarity": "Very Rare",
     "types": [
-      "Bug",
-      "Flying"
+      "Bicho",
+      "Volador"
     ],
     "spawn_rate": "843"
   },
@@ -104,8 +104,8 @@
     "name": "Weedle",
     "rarity": "Common",
     "types": [
-      "Bug",
-      "Poison"
+      "Bicho",
+      "Veneno"
     ],
     "spawn_rate": "21"
   },
@@ -113,8 +113,8 @@
     "name": "Kakuna",
     "rarity": "Rare",
     "types": [
-      "Bug",
-      "Poison"
+      "Bicho",
+      "Veneno"
     ],
     "spawn_rate": "204"
   },
@@ -122,8 +122,8 @@
     "name": "Beedrill",
     "rarity": "Rare",
     "types": [
-      "Bug",
-      "Poison"
+      "Bicho",
+      "Veneno"
     ],
     "spawn_rate": "377"
   },
@@ -132,7 +132,7 @@
     "rarity": "Common",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": "10"
   },
@@ -141,7 +141,7 @@
     "rarity": "Uncommon",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": "75"
   },
@@ -150,7 +150,7 @@
     "rarity": "Rare",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": "203"
   },
@@ -175,7 +175,7 @@
     "rarity": "Uncommon",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": "31"
   },
@@ -184,7 +184,7 @@
     "rarity": "Rare",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": "221"
   },
@@ -192,7 +192,7 @@
     "name": "Ekans",
     "rarity": "Uncommon",
     "types": [
-      "Poison"
+      "Veneno"
     ],
     "spawn_rate": "75"
   },
@@ -200,7 +200,7 @@
     "name": "Arbok",
     "rarity": "Very Rare",
     "types": [
-      "Poison"
+      "Veneno"
     ],
     "spawn_rate": "544"
   },
@@ -208,7 +208,7 @@
     "name": "Pikachu",
     "rarity": "Uncommon",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": "92"
   },
@@ -216,7 +216,7 @@
     "name": "Raichu",
     "rarity": "Ultra Rare",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": "2051"
   },
@@ -224,7 +224,7 @@
     "name": "Sandshrew",
     "rarity": "Rare",
     "types": [
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": "163"
   },
@@ -232,7 +232,7 @@
     "name": "Sandslash",
     "rarity": "Ultra Rare",
     "types": [
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": "1619"
   },
@@ -240,7 +240,7 @@
     "name": "Nidoran-f",
     "rarity": "Uncommon",
     "types": [
-      "Poison"
+      "Veneno"
     ],
     "spawn_rate": "77"
   },
@@ -248,7 +248,7 @@
     "name": "Nidorina",
     "rarity": "Very Rare",
     "types": [
-      "Poison"
+      "Veneno"
     ],
     "spawn_rate": "504"
   },
@@ -256,8 +256,8 @@
     "name": "Nidoqueen",
     "rarity": "Very Rare",
     "types": [
-      "Poison",
-      "Ground"
+      "Veneno",
+      "Tierra"
     ],
     "spawn_rate": "1398"
   },
@@ -265,7 +265,7 @@
     "name": "Nidoran-m",
     "rarity": "Uncommon",
     "types": [
-      "Poison"
+      "Veneno"
     ],
     "spawn_rate": "77"
   },
@@ -273,7 +273,7 @@
     "name": "Nidorino",
     "rarity": "Very Rare",
     "types": [
-      "Poison"
+      "Veneno"
     ],
     "spawn_rate": "586"
   },
@@ -281,16 +281,16 @@
     "name": "Nidoking",
     "rarity": "Very Rare",
     "types": [
-      "Poison",
-      "Ground"
+      "Veneno",
+      "Tierra"
     ],
     "spawn_rate": "1025"
   },
   "35": {
-    "name": "Clefairy",
+    "name": "CleHada",
     "rarity": "Uncommon",
     "types": [
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": "85"
   },
@@ -298,7 +298,7 @@
     "name": "Clefable",
     "rarity": "Very Rare",
     "types": [
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": "1309"
   },
@@ -306,7 +306,7 @@
     "name": "Vulpix",
     "rarity": "Rare",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": "188"
   },
@@ -314,7 +314,7 @@
     "name": "Ninetales",
     "rarity": "Ultra Rare",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": "1538"
   },
@@ -323,7 +323,7 @@
     "rarity": "Rare",
     "types": [
       "Normal",
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": "101"
   },
@@ -332,7 +332,7 @@
     "rarity": "Ultra Rare",
     "types": [
       "Normal",
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": "2051"
   },
@@ -340,8 +340,8 @@
     "name": "Zubat",
     "rarity": "Common",
     "types": [
-      "Poison",
-      "Flying"
+      "Veneno",
+      "Volador"
     ],
     "spawn_rate": "24"
   },
@@ -349,8 +349,8 @@
     "name": "Golbat",
     "rarity": "Rare",
     "types": [
-      "Poison",
-      "Flying"
+      "Veneno",
+      "Volador"
     ],
     "spawn_rate": "209"
   },
@@ -358,8 +358,8 @@
     "name": "Oddish",
     "rarity": "Uncommon",
     "types": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
     "spawn_rate": "91"
   },
@@ -367,8 +367,8 @@
     "name": "Gloom",
     "rarity": "Very Rare",
     "types": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
     "spawn_rate": "592"
   },
@@ -376,8 +376,8 @@
     "name": "Vileplume",
     "rarity": "Ultra Rare",
     "types": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
     "spawn_rate": "1864"
   },
@@ -385,8 +385,8 @@
     "name": "Paras",
     "rarity": "Uncommon",
     "types": [
-      "Bug",
-      "Grass"
+      "Bicho",
+      "Planta"
     ],
     "spawn_rate": "44"
   },
@@ -394,8 +394,8 @@
     "name": "Parasect",
     "rarity": "Rare",
     "types": [
-      "Bug",
-      "Grass"
+      "Bicho",
+      "Planta"
     ],
     "spawn_rate": "397"
   },
@@ -403,8 +403,8 @@
     "name": "Venonat",
     "rarity": "Uncommon",
     "types": [
-      "Bug",
-      "Poison"
+      "Bicho",
+      "Veneno"
     ],
     "spawn_rate": "38"
   },
@@ -412,8 +412,8 @@
     "name": "Venomoth",
     "rarity": "Rare",
     "types": [
-      "Bug",
-      "Poison"
+      "Bicho",
+      "Veneno"
     ],
     "spawn_rate": "300"
   },
@@ -421,7 +421,7 @@
     "name": "Diglett",
     "rarity": "Rare",
     "types": [
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": "211"
   },
@@ -429,7 +429,7 @@
     "name": "Dugtrio",
     "rarity": "Ultra Rare",
     "types": [
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": "1663"
   },
@@ -453,7 +453,7 @@
     "name": "Psyduck",
     "rarity": "Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "108"
   },
@@ -461,7 +461,7 @@
     "name": "Golduck",
     "rarity": "Very Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "707"
   },
@@ -469,7 +469,7 @@
     "name": "Mankey",
     "rarity": "Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "114"
   },
@@ -477,7 +477,7 @@
     "name": "Primeape",
     "rarity": "Very Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "1061"
   },
@@ -485,7 +485,7 @@
     "name": "Growlithe",
     "rarity": "Uncommon",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": "77"
   },
@@ -493,7 +493,7 @@
     "name": "Arcanine",
     "rarity": "Very Rare",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": "932"
   },
@@ -501,7 +501,7 @@
     "name": "Poliwag",
     "rarity": "Uncommon",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "95"
   },
@@ -509,7 +509,7 @@
     "name": "Poliwhirl",
     "rarity": "Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "481"
   },
@@ -517,8 +517,8 @@
     "name": "Poliwrath",
     "rarity": "Ultra Rare",
     "types": [
-      "Water",
-      "Fighting"
+      "Agua",
+      "Lucha"
     ],
     "spawn_rate": "1709"
   },
@@ -526,7 +526,7 @@
     "name": "Abra",
     "rarity": "Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "104"
   },
@@ -534,7 +534,7 @@
     "name": "Kadabra",
     "rarity": "Very Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "779"
   },
@@ -542,7 +542,7 @@
     "name": "Alakazam",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "2461"
   },
@@ -550,7 +550,7 @@
     "name": "Machop",
     "rarity": "Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "217"
   },
@@ -558,7 +558,7 @@
     "name": "Machoke",
     "rarity": "Very Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "1465"
   },
@@ -566,7 +566,7 @@
     "name": "Machamp",
     "rarity": "Ultra Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "3418"
   },
@@ -574,8 +574,8 @@
     "name": "Bellsprout",
     "rarity": "Uncommon",
     "types": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
     "spawn_rate": "86"
   },
@@ -583,8 +583,8 @@
     "name": "Weepinbell",
     "rarity": "Rare",
     "types": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
     "spawn_rate": "496"
   },
@@ -592,8 +592,8 @@
     "name": "Victreebel",
     "rarity": "Ultra Rare",
     "types": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
     "spawn_rate": "2051"
   },
@@ -601,8 +601,8 @@
     "name": "Tentacool",
     "rarity": "Rare",
     "types": [
-      "Water",
-      "Poison"
+      "Agua",
+      "Veneno"
     ],
     "spawn_rate": "275"
   },
@@ -610,8 +610,8 @@
     "name": "Tentacruel",
     "rarity": "Very Rare",
     "types": [
-      "Water",
-      "Poison"
+      "Agua",
+      "Veneno"
     ],
     "spawn_rate": "615"
   },
@@ -619,8 +619,8 @@
     "name": "Geodude",
     "rarity": "Rare",
     "types": [
-      "Rock",
-      "Ground"
+      "Roca",
+      "Tierra"
     ],
     "spawn_rate": "121"
   },
@@ -628,8 +628,8 @@
     "name": "Graveler",
     "rarity": "Very Rare",
     "types": [
-      "Rock",
-      "Ground"
+      "Roca",
+      "Tierra"
     ],
     "spawn_rate": "707"
   },
@@ -637,8 +637,8 @@
     "name": "Golem",
     "rarity": "Ultra Rare",
     "types": [
-      "Rock",
-      "Ground"
+      "Roca",
+      "Tierra"
     ],
     "spawn_rate": "2797"
   },
@@ -646,7 +646,7 @@
     "name": "Ponyta",
     "rarity": "Rare",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": "121"
   },
@@ -654,7 +654,7 @@
     "name": "Rapidash",
     "rarity": "Very Rare",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": "992"
   },
@@ -662,8 +662,8 @@
     "name": "Slowpoke",
     "rarity": "Rare",
     "types": [
-      "Water",
-      "Psychic"
+      "Agua",
+      "Psiquico"
     ],
     "spawn_rate": "175"
   },
@@ -671,8 +671,8 @@
     "name": "Slowbro",
     "rarity": "Very Rare",
     "types": [
-      "Water",
-      "Psychic"
+      "Agua",
+      "Psiquico"
     ],
     "spawn_rate": "947"
   },
@@ -680,8 +680,8 @@
     "name": "Magnemite",
     "rarity": "Rare",
     "types": [
-      "Electric",
-      "Steel"
+      "Electrico",
+      "Acero"
     ],
     "spawn_rate": "200"
   },
@@ -689,8 +689,8 @@
     "name": "Magneton",
     "rarity": "Ultra Rare",
     "types": [
-      "Electric",
-      "Steel"
+      "Electrico",
+      "Acero"
     ],
     "spawn_rate": "2051"
   },
@@ -699,7 +699,7 @@
     "rarity": "Ultra Rare",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": "61527"
   },
@@ -708,7 +708,7 @@
     "rarity": "Uncommon",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": "77"
   },
@@ -717,7 +717,7 @@
     "rarity": "Very Rare",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": "634"
   },
@@ -725,7 +725,7 @@
     "name": "Seel",
     "rarity": "Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "196"
   },
@@ -733,8 +733,8 @@
     "name": "Dewgong",
     "rarity": "Ultra Rare",
     "types": [
-      "Water",
-      "Ice"
+      "Agua",
+      "Hielo"
     ],
     "spawn_rate": "1578"
   },
@@ -742,7 +742,7 @@
     "name": "Grimer",
     "rarity": "Very Rare",
     "types": [
-      "Poison"
+      "Veneno"
     ],
     "spawn_rate": "879"
   },
@@ -750,7 +750,7 @@
     "name": "Muk",
     "rarity": "Ultra Rare",
     "types": [
-      "Poison"
+      "Veneno"
     ],
     "spawn_rate": "7691"
   },
@@ -758,7 +758,7 @@
     "name": "Shellder",
     "rarity": "Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "177"
   },
@@ -766,8 +766,8 @@
     "name": "Cloyster",
     "rarity": "Ultra Rare",
     "types": [
-      "Water",
-      "Ice"
+      "Agua",
+      "Hielo"
     ],
     "spawn_rate": "1578"
   },
@@ -775,8 +775,8 @@
     "name": "Gastly",
     "rarity": "Uncommon",
     "types": [
-      "Ghost",
-      "Poison"
+      "Fantasma",
+      "Veneno"
     ],
     "spawn_rate": "77"
   },
@@ -784,8 +784,8 @@
     "name": "Haunter",
     "rarity": "Rare",
     "types": [
-      "Ghost",
-      "Poison"
+      "Fantasma",
+      "Veneno"
     ],
     "spawn_rate": "419"
   },
@@ -793,8 +793,8 @@
     "name": "Gengar",
     "rarity": "Ultra Rare",
     "types": [
-      "Ghost",
-      "Poison"
+      "Fantasma",
+      "Veneno"
     ],
     "spawn_rate": "1758"
   },
@@ -802,8 +802,8 @@
     "name": "Onix",
     "rarity": "Rare",
     "types": [
-      "Rock",
-      "Ground"
+      "Roca",
+      "Tierra"
     ],
     "spawn_rate": "269"
   },
@@ -811,7 +811,7 @@
     "name": "Drowzee",
     "rarity": "Uncommon",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "39"
   },
@@ -819,7 +819,7 @@
     "name": "Hypno",
     "rarity": "Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "322"
   },
@@ -827,7 +827,7 @@
     "name": "Krabby",
     "rarity": "Uncommon",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "73"
   },
@@ -835,7 +835,7 @@
     "name": "Kingler",
     "rarity": "Very Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "530"
   },
@@ -843,7 +843,7 @@
     "name": "Voltorb",
     "rarity": "Rare",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": "276"
   },
@@ -851,7 +851,7 @@
     "name": "Electrode",
     "rarity": "Ultra Rare",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": "1985"
   },
@@ -859,8 +859,8 @@
     "name": "Exeggcute",
     "rarity": "Rare",
     "types": [
-      "Grass",
-      "Psychic"
+      "Planta",
+      "Psiquico"
     ],
     "spawn_rate": "123"
   },
@@ -868,8 +868,8 @@
     "name": "Exeggutor",
     "rarity": "Very Rare",
     "types": [
-      "Grass",
-      "Psychic"
+      "Planta",
+      "Psiquico"
     ],
     "spawn_rate": "1231"
   },
@@ -877,7 +877,7 @@
     "name": "Cubone",
     "rarity": "Rare",
     "types": [
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": "163"
   },
@@ -885,7 +885,7 @@
     "name": "Marowak",
     "rarity": "Very Rare",
     "types": [
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": "1431"
   },
@@ -893,7 +893,7 @@
     "name": "Hitmonlee",
     "rarity": "Very Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "504"
   },
@@ -901,7 +901,7 @@
     "name": "Hitmonchan",
     "rarity": "Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": "446"
   },
@@ -917,7 +917,7 @@
     "name": "Koffing",
     "rarity": "Rare",
     "types": [
-      "Poison"
+      "Veneno"
     ],
     "spawn_rate": "213"
   },
@@ -925,7 +925,7 @@
     "name": "Weezing",
     "rarity": "Very Rare",
     "types": [
-      "Poison"
+      "Veneno"
     ],
     "spawn_rate": "1398"
   },
@@ -933,8 +933,8 @@
     "name": "Rhyhorn",
     "rarity": "Rare",
     "types": [
-      "Ground",
-      "Rock"
+      "Tierra",
+      "Roca"
     ],
     "spawn_rate": "110"
   },
@@ -942,8 +942,8 @@
     "name": "Rhydon",
     "rarity": "Very Rare",
     "types": [
-      "Ground",
-      "Rock"
+      "Tierra",
+      "Roca"
     ],
     "spawn_rate": "867"
   },
@@ -959,7 +959,7 @@
     "name": "Tangela",
     "rarity": "Rare",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": "346"
   },
@@ -975,7 +975,7 @@
     "name": "Horsea",
     "rarity": "Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "104"
   },
@@ -983,7 +983,7 @@
     "name": "Seadra",
     "rarity": "Very Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "760"
   },
@@ -991,7 +991,7 @@
     "name": "Goldeen",
     "rarity": "Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "103"
   },
@@ -999,7 +999,7 @@
     "name": "Seaking",
     "rarity": "Very Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "684"
   },
@@ -1007,7 +1007,7 @@
     "name": "Staryu",
     "rarity": "Uncommon",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "97"
   },
@@ -1015,8 +1015,8 @@
     "name": "Starmie",
     "rarity": "Very Rare",
     "types": [
-      "Water",
-      "Psychic"
+      "Agua",
+      "Psiquico"
     ],
     "spawn_rate": "1206"
   },
@@ -1024,8 +1024,8 @@
     "name": "Mr-Mime",
     "rarity": "Very Rare",
     "types": [
-      "Psychic",
-      "Fairy"
+      "Psiquico",
+      "Hada"
     ],
     "spawn_rate": "1431"
   },
@@ -1033,8 +1033,8 @@
     "name": "Scyther",
     "rarity": "Rare",
     "types": [
-      "Bug",
-      "Flying"
+      "Bicho",
+      "Volador"
     ],
     "spawn_rate": "155"
   },
@@ -1042,8 +1042,8 @@
     "name": "Jynx",
     "rarity": "Rare",
     "types": [
-      "Ice",
-      "Psychic"
+      "Hielo",
+      "Psiquico"
     ],
     "spawn_rate": "152"
   },
@@ -1051,7 +1051,7 @@
     "name": "Electabuzz",
     "rarity": "Rare",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": "261"
   },
@@ -1059,7 +1059,7 @@
     "name": "Magmar",
     "rarity": "Rare",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": "213"
   },
@@ -1067,7 +1067,7 @@
     "name": "Pinsir",
     "rarity": "Uncommon",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": "99"
   },
@@ -1083,7 +1083,7 @@
     "name": "Magikarp",
     "rarity": "Uncommon",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "79"
   },
@@ -1091,8 +1091,8 @@
     "name": "Gyarados",
     "rarity": "Ultra Rare",
     "types": [
-      "Water",
-      "Flying"
+      "Agua",
+      "Volador"
     ],
     "spawn_rate": "2279"
   },
@@ -1100,8 +1100,8 @@
     "name": "Lapras",
     "rarity": "Very Rare",
     "types": [
-      "Water",
-      "Ice"
+      "Agua",
+      "Hielo"
     ],
     "spawn_rate": "1183"
   },
@@ -1125,7 +1125,7 @@
     "name": "Vaporeon",
     "rarity": "Very Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": "1465"
   },
@@ -1133,7 +1133,7 @@
     "name": "Jolteon",
     "rarity": "Very Rare",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": "1309"
   },
@@ -1141,7 +1141,7 @@
     "name": "Flareon",
     "rarity": "Ultra Rare",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": "1568"
   },
@@ -1157,8 +1157,8 @@
     "name": "Omanyte",
     "rarity": "Rare",
     "types": [
-      "Rock",
-      "Water"
+      "Roca",
+      "Agua"
     ],
     "spawn_rate": "346"
   },
@@ -1166,8 +1166,8 @@
     "name": "Omastar",
     "rarity": "Ultra Rare",
     "types": [
-      "Rock",
-      "Water"
+      "Roca",
+      "Agua"
     ],
     "spawn_rate": "6153"
   },
@@ -1175,8 +1175,8 @@
     "name": "Kabuto",
     "rarity": "Rare",
     "types": [
-      "Rock",
-      "Water"
+      "Roca",
+      "Agua"
     ],
     "spawn_rate": "356"
   },
@@ -1184,8 +1184,8 @@
     "name": "Kabutops",
     "rarity": "Ultra Rare",
     "types": [
-      "Rock",
-      "Water"
+      "Roca",
+      "Agua"
     ],
     "spawn_rate": "2930"
   },
@@ -1193,8 +1193,8 @@
     "name": "Aerodactyl",
     "rarity": "Very Rare",
     "types": [
-      "Rock",
-      "Flying"
+      "Roca",
+      "Volador"
     ],
     "spawn_rate": "879"
   },
@@ -1210,8 +1210,8 @@
     "name": "Articuno",
     "rarity": "Ultra Rare",
     "types": [
-      "Ice",
-      "Flying"
+      "Hielo",
+      "Volador"
     ],
     "spawn_rate": "99999"
   },
@@ -1219,8 +1219,8 @@
     "name": "Zapdos",
     "rarity": "Ultra Rare",
     "types": [
-      "Electric",
-      "Flying"
+      "Electrico",
+      "Volador"
     ],
     "spawn_rate": "99999"
   },
@@ -1228,8 +1228,8 @@
     "name": "Moltres",
     "rarity": "Ultra Rare",
     "types": [
-      "Fire",
-      "Flying"
+      "Fuego",
+      "Volador"
     ],
     "spawn_rate": "99999"
   },
@@ -1254,7 +1254,7 @@
     "rarity": "Very Rare",
     "types": [
       "Dragon",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": "580"
   },
@@ -1262,7 +1262,7 @@
     "name": "Mewtwo",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "99999"
   },
@@ -1270,7 +1270,7 @@
     "name": "Mew",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": "99999"
   },
@@ -1278,7 +1278,7 @@
     "name": "Chikorita",
     "rarity": "Uncommon",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -1286,7 +1286,7 @@
     "name": "Bayleef",
     "rarity": "Rare",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -1294,7 +1294,7 @@
     "name": "Meganium",
     "rarity": "Very Rare",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -1302,7 +1302,7 @@
     "name": "Cyndaquil",
     "rarity": "Uncommon",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -1310,7 +1310,7 @@
     "name": "Quilava",
     "rarity": "Very Rare",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -1318,7 +1318,7 @@
     "name": "Typhlosion",
     "rarity": "Ultra Rare",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -1326,7 +1326,7 @@
     "name": "Totodile",
     "rarity": "Uncommon",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -1334,7 +1334,7 @@
     "name": "Croconaw",
     "rarity": "Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -1342,7 +1342,7 @@
     "name": "Feraligatr",
     "rarity": "Very Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -1367,7 +1367,7 @@
     "rarity": "Common",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -1376,7 +1376,7 @@
     "rarity": "Rare",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -1384,8 +1384,8 @@
     "name": "Ledyba",
     "rarity": "Common",
     "types": [
-      "Bug",
-      "Flying"
+      "Bicho",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -1393,8 +1393,8 @@
     "name": "Ledian",
     "rarity": "Uncommon",
     "types": [
-      "Bug",
-      "Flying"
+      "Bicho",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -1402,8 +1402,8 @@
     "name": "Spinarak",
     "rarity": "Common",
     "types": [
-      "Bug",
-      "Poison"
+      "Bicho",
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -1411,8 +1411,8 @@
     "name": "Ariados",
     "rarity": "Uncommon",
     "types": [
-      "Bug",
-      "Poison"
+      "Bicho",
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -1420,8 +1420,8 @@
     "name": "Crobat",
     "rarity": "Rare",
     "types": [
-      "Poison",
-      "Flying"
+      "Veneno",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -1429,8 +1429,8 @@
     "name": "Chinchou",
     "rarity": "Uncommon",
     "types": [
-      "Water",
-      "Electric"
+      "Agua",
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -1438,8 +1438,8 @@
     "name": "Lanturn",
     "rarity": "Rare",
     "types": [
-      "Water",
-      "Electric"
+      "Agua",
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -1447,7 +1447,7 @@
     "name": "Pichu",
     "rarity": "Very Rare",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -1455,7 +1455,7 @@
     "name": "Cleffa",
     "rarity": "Very Rare",
     "types": [
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -1464,7 +1464,7 @@
     "rarity": "Very Rare",
     "types": [
       "Normal",
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -1472,7 +1472,7 @@
     "name": "Togepi",
     "rarity": "Very Rare",
     "types": [
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -1480,8 +1480,8 @@
     "name": "Togetic",
     "rarity": "Ultra Rare",
     "types": [
-      "Fairy",
-      "Flying"
+      "Hada",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -1489,8 +1489,8 @@
     "name": "Natu",
     "rarity": "Common",
     "types": [
-      "Psychic",
-      "Flying"
+      "Psiquico",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -1498,8 +1498,8 @@
     "name": "Xatu",
     "rarity": "Uncommon",
     "types": [
-      "Psychic",
-      "Flying"
+      "Psiquico",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -1507,7 +1507,7 @@
     "name": "Mareep",
     "rarity": "Very Rare",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -1515,7 +1515,7 @@
     "name": "Flaaffy",
     "rarity": "Ultra Rare",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -1523,7 +1523,7 @@
     "name": "Ampharos",
     "rarity": "Ultra Rare",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -1531,7 +1531,7 @@
     "name": "Bellossom",
     "rarity": "Ultra Rare",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -1539,8 +1539,8 @@
     "name": "Marill",
     "rarity": "Common",
     "types": [
-      "Water",
-      "Fairy"
+      "Agua",
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -1548,8 +1548,8 @@
     "name": "Azumarill",
     "rarity": "Rare",
     "types": [
-      "Water",
-      "Fairy"
+      "Agua",
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -1557,7 +1557,7 @@
     "name": "Sudowoodo",
     "rarity": "Uncommon",
     "types": [
-      "Rock"
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -1565,7 +1565,7 @@
     "name": "Politoed",
     "rarity": "Ultra Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -1573,8 +1573,8 @@
     "name": "Hoppip",
     "rarity": "Common",
     "types": [
-      "Grass",
-      "Flying"
+      "Planta",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -1582,8 +1582,8 @@
     "name": "Skiploom",
     "rarity": "Uncommon",
     "types": [
-      "Grass",
-      "Flying"
+      "Planta",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -1591,8 +1591,8 @@
     "name": "Jumpluff",
     "rarity": "Very Rare",
     "types": [
-      "Grass",
-      "Flying"
+      "Planta",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -1608,7 +1608,7 @@
     "name": "Sunkern",
     "rarity": "Common",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -1616,7 +1616,7 @@
     "name": "Sunflora",
     "rarity": "Ultra Rare",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -1624,8 +1624,8 @@
     "name": "Yanma",
     "rarity": "Uncommon",
     "types": [
-      "Bug",
-      "Flying"
+      "Bicho",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -1633,8 +1633,8 @@
     "name": "Wooper",
     "rarity": "Common",
     "types": [
-      "Water",
-      "Ground"
+      "Agua",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -1642,8 +1642,8 @@
     "name": "Quagsire",
     "rarity": "Rare",
     "types": [
-      "Water",
-      "Ground"
+      "Agua",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -1651,7 +1651,7 @@
     "name": "Espeon",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -1659,7 +1659,7 @@
     "name": "Umbreon",
     "rarity": "Ultra Rare",
     "types": [
-      "Dark"
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -1667,8 +1667,8 @@
     "name": "Murkrow",
     "rarity": "Common",
     "types": [
-      "Dark",
-      "Flying"
+      "Siniestro",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -1676,8 +1676,8 @@
     "name": "Slowking",
     "rarity": "Ultra Rare",
     "types": [
-      "Water",
-      "Psychic"
+      "Agua",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -1685,7 +1685,7 @@
     "name": "Misdreavus",
     "rarity": "Rare",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -1693,7 +1693,7 @@
     "name": "Unown",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -1701,7 +1701,7 @@
     "name": "Wobbuffet",
     "rarity": "Very Rare",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -1710,7 +1710,7 @@
     "rarity": "Ultra Rare",
     "types": [
       "Normal",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -1718,7 +1718,7 @@
     "name": "Pineco",
     "rarity": "Very Rare",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -1726,8 +1726,8 @@
     "name": "Forretress",
     "rarity": "Ultra Rare",
     "types": [
-      "Bug",
-      "Steel"
+      "Bicho",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -1743,17 +1743,17 @@
     "name": "Gligar",
     "rarity": "Very Rare",
     "types": [
-      "Ground",
-      "Flying"
+      "Tierra",
+      "Volador"
     ],
     "spawn_rate": ""
   },
   "208": {
-    "name": "Steelix",
+    "name": "Aceroix",
     "rarity": "Ultra Rare",
     "types": [
-      "Steel",
-      "Ground"
+      "Acero",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -1761,7 +1761,7 @@
     "name": "Snubbull",
     "rarity": "Uncommon",
     "types": [
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -1769,7 +1769,7 @@
     "name": "Granbull",
     "rarity": "Rare",
     "types": [
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -1777,8 +1777,8 @@
     "name": "Qwilfish",
     "rarity": "Very Rare",
     "types": [
-      "Water",
-      "Poison"
+      "Agua",
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -1786,8 +1786,8 @@
     "name": "Scizor",
     "rarity": "Ultra Rare",
     "types": [
-      "Bug",
-      "Steel"
+      "Bicho",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -1795,8 +1795,8 @@
     "name": "Shuckle",
     "rarity": "Ultra Rare",
     "types": [
-      "Bug",
-      "Rock"
+      "Bicho",
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -1804,8 +1804,8 @@
     "name": "Heracross",
     "rarity": "Ultra Rare",
     "types": [
-      "Bug",
-      "Fighting"
+      "Bicho",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -1813,8 +1813,8 @@
     "name": "Sneasel",
     "rarity": "Rare",
     "types": [
-      "Dark",
-      "Ice"
+      "Siniestro",
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -1838,7 +1838,7 @@
     "name": "Slugma",
     "rarity": "Uncommon",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -1846,8 +1846,8 @@
     "name": "Magcargo",
     "rarity": "Very Rare",
     "types": [
-      "Fire",
-      "Rock"
+      "Fuego",
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -1855,8 +1855,8 @@
     "name": "Swinub",
     "rarity": "Common",
     "types": [
-      "Ice",
-      "Ground"
+      "Hielo",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -1864,8 +1864,8 @@
     "name": "Piloswine",
     "rarity": "Ultra Rare",
     "types": [
-      "Ice",
-      "Ground"
+      "Hielo",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -1873,8 +1873,8 @@
     "name": "Corsola",
     "rarity": "Ultra Rare",
     "types": [
-      "Water",
-      "Rock"
+      "Agua",
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -1882,7 +1882,7 @@
     "name": "Remoraid",
     "rarity": "Uncommon",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -1890,7 +1890,7 @@
     "name": "Octillery",
     "rarity": "Uncommon",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -1898,8 +1898,8 @@
     "name": "Delibird",
     "rarity": "Ultra Rare",
     "types": [
-      "Ice",
-      "Flying"
+      "Hielo",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -1907,8 +1907,8 @@
     "name": "Mantine",
     "rarity": "Uncommon",
     "types": [
-      "Water",
-      "Flying"
+      "Agua",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -1916,8 +1916,8 @@
     "name": "Skarmory",
     "rarity": "Rare",
     "types": [
-      "Steel",
-      "Flying"
+      "Acero",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -1925,8 +1925,8 @@
     "name": "Houndour",
     "rarity": "Uncommon",
     "types": [
-      "Dark",
-      "Fire"
+      "Siniestro",
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -1934,8 +1934,8 @@
     "name": "Houndoom",
     "rarity": "Very Rare",
     "types": [
-      "Dark",
-      "Fire"
+      "Siniestro",
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -1943,7 +1943,7 @@
     "name": "Kingdra",
     "rarity": "Ultra Rare",
     "types": [
-      "Water",
+      "Agua",
       "Dragon"
     ],
     "spawn_rate": ""
@@ -1952,7 +1952,7 @@
     "name": "Phanpy",
     "rarity": "Rare",
     "types": [
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -1960,7 +1960,7 @@
     "name": "Donphan",
     "rarity": "Very Rare",
     "types": [
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -1992,7 +1992,7 @@
     "name": "Tyrogue",
     "rarity": "Ultra Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2000,7 +2000,7 @@
     "name": "Hitmontop",
     "rarity": "Ultra Rare",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2008,8 +2008,8 @@
     "name": "Smoochum",
     "rarity": "Very Rare",
     "types": [
-      "Ice",
-      "Psychic"
+      "Hielo",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2017,7 +2017,7 @@
     "name": "Elekid",
     "rarity": "Very Rare",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -2025,7 +2025,7 @@
     "name": "Magby",
     "rarity": "Very Rare",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -2049,7 +2049,7 @@
     "name": "Raikou",
     "rarity": "Ultra Rare",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -2057,7 +2057,7 @@
     "name": "Entei",
     "rarity": "Ultra Rare",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -2065,7 +2065,7 @@
     "name": "Suicune",
     "rarity": "Ultra Rare",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -2073,8 +2073,8 @@
     "name": "Larvitar",
     "rarity": "Very Rare",
     "types": [
-      "Rock",
-      "Ground"
+      "Roca",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -2082,8 +2082,8 @@
     "name": "Pupitar",
     "rarity": "Ultra Rare",
     "types": [
-      "Rock",
-      "Ground"
+      "Roca",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -2091,8 +2091,8 @@
     "name": "Tyranitar",
     "rarity": "Ultra Rare",
     "types": [
-      "Rock",
-      "Dark"
+      "Roca",
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -2100,8 +2100,8 @@
     "name": "Lugia",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic",
-      "Flying"
+      "Psiquico",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -2109,8 +2109,8 @@
     "name": "Ho-Oh",
     "rarity": "Ultra Rare",
     "types": [
-      "Fire",
-      "Flying"
+      "Fuego",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -2118,8 +2118,8 @@
     "name": "Celebi",
     "rarity": "Ultra Rare",
     "types": [
-      "Psychic",
-      "Grass"
+      "Psiquico",
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -2127,7 +2127,7 @@
     "name": "Treecko",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -2135,7 +2135,7 @@
     "name": "Grovyle",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -2143,7 +2143,7 @@
     "name": "Sceptile",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -2151,7 +2151,7 @@
     "name": "Torchic",
     "rarity": "",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -2159,8 +2159,8 @@
     "name": "Combusken",
     "rarity": "",
     "types": [
-      "Fire",
-      "Fighting"
+      "Fuego",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2168,8 +2168,8 @@
     "name": "Blaziken",
     "rarity": "",
     "types": [
-      "Fire",
-      "Fighting"
+      "Fuego",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2177,7 +2177,7 @@
     "name": "Mudkip",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -2185,8 +2185,8 @@
     "name": "Marshtomp",
     "rarity": "",
     "types": [
-      "Water",
-      "Ground"
+      "Agua",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -2194,8 +2194,8 @@
     "name": "Swampert",
     "rarity": "",
     "types": [
-      "Water",
-      "Ground"
+      "Agua",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -2203,7 +2203,7 @@
     "name": "Poochyena",
     "rarity": "",
     "types": [
-      "Dark"
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -2211,7 +2211,7 @@
     "name": "Mightyena",
     "rarity": "",
     "types": [
-      "Dark"
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -2235,7 +2235,7 @@
     "name": "Wurmple",
     "rarity": "",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -2243,7 +2243,7 @@
     "name": "Silcoon",
     "rarity": "",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -2251,8 +2251,8 @@
     "name": "Beautifly",
     "rarity": "",
     "types": [
-      "Bug",
-      "Flying"
+      "Bicho",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -2260,7 +2260,7 @@
     "name": "Cascoon",
     "rarity": "",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -2268,8 +2268,8 @@
     "name": "Dustox",
     "rarity": "",
     "types": [
-      "Bug",
-      "Poison"
+      "Bicho",
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -2277,8 +2277,8 @@
     "name": "Lotad",
     "rarity": "",
     "types": [
-      "Water",
-      "Grass"
+      "Agua",
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -2286,8 +2286,8 @@
     "name": "Lombre",
     "rarity": "",
     "types": [
-      "Water",
-      "Grass"
+      "Agua",
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -2295,8 +2295,8 @@
     "name": "Ludicolo",
     "rarity": "",
     "types": [
-      "Water",
-      "Grass"
+      "Agua",
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -2304,7 +2304,7 @@
     "name": "Seedot",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -2312,8 +2312,8 @@
     "name": "Nuzleaf",
     "rarity": "",
     "types": [
-      "Grass",
-      "Dark"
+      "Planta",
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -2321,8 +2321,8 @@
     "name": "Shiftry",
     "rarity": "",
     "types": [
-      "Grass",
-      "Dark"
+      "Planta",
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -2331,7 +2331,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -2340,7 +2340,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -2348,8 +2348,8 @@
     "name": "Wingull",
     "rarity": "",
     "types": [
-      "Water",
-      "Flying"
+      "Agua",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -2357,8 +2357,8 @@
     "name": "Pelipper",
     "rarity": "",
     "types": [
-      "Water",
-      "Flying"
+      "Agua",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -2366,8 +2366,8 @@
     "name": "Ralts",
     "rarity": "",
     "types": [
-      "Psychic",
-      "Fairy"
+      "Psiquico",
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -2375,8 +2375,8 @@
     "name": "Kirlia",
     "rarity": "",
     "types": [
-      "Psychic",
-      "Fairy"
+      "Psiquico",
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -2384,8 +2384,8 @@
     "name": "Gardevoir",
     "rarity": "",
     "types": [
-      "Psychic",
-      "Fairy"
+      "Psiquico",
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -2393,8 +2393,8 @@
     "name": "Surskit",
     "rarity": "",
     "types": [
-      "Bug",
-      "Water"
+      "Bicho",
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -2402,8 +2402,8 @@
     "name": "Masquerain",
     "rarity": "",
     "types": [
-      "Bug",
-      "Flying"
+      "Bicho",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -2411,7 +2411,7 @@
     "name": "Shroomish",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -2419,8 +2419,8 @@
     "name": "Breloom",
     "rarity": "",
     "types": [
-      "Grass",
-      "Fighting"
+      "Planta",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2452,8 +2452,8 @@
     "name": "Nincada",
     "rarity": "",
     "types": [
-      "Bug",
-      "Ground"
+      "Bicho",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -2461,8 +2461,8 @@
     "name": "Ninjask",
     "rarity": "",
     "types": [
-      "Bug",
-      "Flying"
+      "Bicho",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -2470,8 +2470,8 @@
     "name": "Shedinja",
     "rarity": "",
     "types": [
-      "Bug",
-      "Ghost"
+      "Bicho",
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -2503,7 +2503,7 @@
     "name": "Makuhita",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2511,7 +2511,7 @@
     "name": "Hariyama",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -2520,7 +2520,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -2528,7 +2528,7 @@
     "name": "Nosepass",
     "rarity": "",
     "types": [
-      "Rock"
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -2552,8 +2552,8 @@
     "name": "Sableye",
     "rarity": "Rare",
     "types": [
-      "Dark",
-      "Ghost"
+      "Siniestro",
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -2561,8 +2561,8 @@
     "name": "Mawile",
     "rarity": "",
     "types": [
-      "Steel",
-      "Fairy"
+      "Acero",
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -2570,8 +2570,8 @@
     "name": "Aron",
     "rarity": "",
     "types": [
-      "Steel",
-      "Rock"
+      "Acero",
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -2579,8 +2579,8 @@
     "name": "Lairon",
     "rarity": "",
     "types": [
-      "Steel",
-      "Rock"
+      "Acero",
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -2588,8 +2588,8 @@
     "name": "Aggron",
     "rarity": "",
     "types": [
-      "Steel",
-      "Rock"
+      "Acero",
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -2597,8 +2597,8 @@
     "name": "Meditite",
     "rarity": "",
     "types": [
-      "Fighting",
-      "Psychic"
+      "Lucha",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2606,8 +2606,8 @@
     "name": "Medicham",
     "rarity": "",
     "types": [
-      "Fighting",
-      "Psychic"
+      "Lucha",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2615,7 +2615,7 @@
     "name": "Electrike",
     "rarity": "",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -2623,7 +2623,7 @@
     "name": "Manectric",
     "rarity": "",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -2631,7 +2631,7 @@
     "name": "Plusle",
     "rarity": "",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -2639,7 +2639,7 @@
     "name": "Minun",
     "rarity": "",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -2647,7 +2647,7 @@
     "name": "Volbeat",
     "rarity": "",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -2655,7 +2655,7 @@
     "name": "Illumise",
     "rarity": "",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -2663,8 +2663,8 @@
     "name": "Roselia",
     "rarity": "",
     "types": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -2672,7 +2672,7 @@
     "name": "Gulpin",
     "rarity": "",
     "types": [
-      "Poison"
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -2680,7 +2680,7 @@
     "name": "Swalot",
     "rarity": "",
     "types": [
-      "Poison"
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -2688,8 +2688,8 @@
     "name": "Carvanha",
     "rarity": "",
     "types": [
-      "Water",
-      "Dark"
+      "Agua",
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -2697,8 +2697,8 @@
     "name": "Sharpedo",
     "rarity": "",
     "types": [
-      "Water",
-      "Dark"
+      "Agua",
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -2706,7 +2706,7 @@
     "name": "Wailmer",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -2714,7 +2714,7 @@
     "name": "Wailord",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -2722,8 +2722,8 @@
     "name": "Numel",
     "rarity": "",
     "types": [
-      "Fire",
-      "Ground"
+      "Fuego",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -2731,8 +2731,8 @@
     "name": "Camerupt",
     "rarity": "",
     "types": [
-      "Fire",
-      "Ground"
+      "Fuego",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -2740,7 +2740,7 @@
     "name": "Torkoal",
     "rarity": "",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -2748,7 +2748,7 @@
     "name": "Spoink",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2756,7 +2756,7 @@
     "name": "Grumpig",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2772,7 +2772,7 @@
     "name": "Trapinch",
     "rarity": "",
     "types": [
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -2780,7 +2780,7 @@
     "name": "Vibrava",
     "rarity": "",
     "types": [
-      "Ground",
+      "Tierra",
       "Dragon"
     ],
     "spawn_rate": ""
@@ -2789,7 +2789,7 @@
     "name": "Flygon",
     "rarity": "",
     "types": [
-      "Ground",
+      "Tierra",
       "Dragon"
     ],
     "spawn_rate": ""
@@ -2798,7 +2798,7 @@
     "name": "Cacnea",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -2806,8 +2806,8 @@
     "name": "Cacturne",
     "rarity": "",
     "types": [
-      "Grass",
-      "Dark"
+      "Planta",
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -2816,7 +2816,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -2825,7 +2825,7 @@
     "rarity": "",
     "types": [
       "Dragon",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -2841,7 +2841,7 @@
     "name": "Seviper",
     "rarity": "",
     "types": [
-      "Poison"
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -2849,17 +2849,17 @@
     "name": "Lunatone",
     "rarity": "",
     "types": [
-      "Rock",
-      "Psychic"
+      "Roca",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
   "338": {
-    "name": "Solrock",
+    "name": "SolRoca",
     "rarity": "",
     "types": [
-      "Rock",
-      "Psychic"
+      "Roca",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2867,8 +2867,8 @@
     "name": "Barboach",
     "rarity": "",
     "types": [
-      "Water",
-      "Ground"
+      "Agua",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -2876,8 +2876,8 @@
     "name": "Whiscash",
     "rarity": "",
     "types": [
-      "Water",
-      "Ground"
+      "Agua",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -2885,7 +2885,7 @@
     "name": "Corphish",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -2893,8 +2893,8 @@
     "name": "Crawdaunt",
     "rarity": "",
     "types": [
-      "Water",
-      "Dark"
+      "Agua",
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -2902,8 +2902,8 @@
     "name": "Baltoy",
     "rarity": "",
     "types": [
-      "Ground",
-      "Psychic"
+      "Tierra",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2911,8 +2911,8 @@
     "name": "Claydol",
     "rarity": "",
     "types": [
-      "Ground",
-      "Psychic"
+      "Tierra",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -2920,8 +2920,8 @@
     "name": "Lileep",
     "rarity": "",
     "types": [
-      "Rock",
-      "Grass"
+      "Roca",
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -2929,8 +2929,8 @@
     "name": "Cradily",
     "rarity": "",
     "types": [
-      "Rock",
-      "Grass"
+      "Roca",
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -2938,8 +2938,8 @@
     "name": "Anorith",
     "rarity": "",
     "types": [
-      "Rock",
-      "Bug"
+      "Roca",
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -2947,8 +2947,8 @@
     "name": "Armaldo",
     "rarity": "",
     "types": [
-      "Rock",
-      "Bug"
+      "Roca",
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -2956,7 +2956,7 @@
     "name": "Feebas",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -2964,7 +2964,7 @@
     "name": "Milotic",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -2988,7 +2988,7 @@
     "name": "Shuppet",
     "rarity": "Rare",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -2996,7 +2996,7 @@
     "name": "Banette",
     "rarity": "Rare",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -3004,7 +3004,7 @@
     "name": "Duskull",
     "rarity": "Rare",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -3012,7 +3012,7 @@
     "name": "Dusclops",
     "rarity": "Rare",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -3020,8 +3020,8 @@
     "name": "Tropius",
     "rarity": "",
     "types": [
-      "Grass",
-      "Flying"
+      "Planta",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -3029,7 +3029,7 @@
     "name": "Chimecho",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3037,7 +3037,7 @@
     "name": "Absol",
     "rarity": "",
     "types": [
-      "Dark"
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -3045,7 +3045,7 @@
     "name": "Wynaut",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3053,7 +3053,7 @@
     "name": "Snorunt",
     "rarity": "",
     "types": [
-      "Ice"
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -3061,7 +3061,7 @@
     "name": "Glalie",
     "rarity": "",
     "types": [
-      "Ice"
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -3069,8 +3069,8 @@
     "name": "Spheal",
     "rarity": "",
     "types": [
-      "Ice",
-      "Water"
+      "Hielo",
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -3078,8 +3078,8 @@
     "name": "Sealeo",
     "rarity": "",
     "types": [
-      "Ice",
-      "Water"
+      "Hielo",
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -3087,8 +3087,8 @@
     "name": "Walrein",
     "rarity": "",
     "types": [
-      "Ice",
-      "Water"
+      "Hielo",
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -3096,7 +3096,7 @@
     "name": "Clamperl",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -3104,7 +3104,7 @@
     "name": "Huntail",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -3112,7 +3112,7 @@
     "name": "Gorebyss",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -3120,8 +3120,8 @@
     "name": "Relicanth",
     "rarity": "",
     "types": [
-      "Water",
-      "Rock"
+      "Agua",
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -3129,7 +3129,7 @@
     "name": "Luvdisc",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -3154,7 +3154,7 @@
     "rarity": "",
     "types": [
       "Dragon",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -3162,8 +3162,8 @@
     "name": "Beldum",
     "rarity": "",
     "types": [
-      "Steel",
-      "Psychic"
+      "Acero",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3171,8 +3171,8 @@
     "name": "Metang",
     "rarity": "",
     "types": [
-      "Steel",
-      "Psychic"
+      "Acero",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3180,32 +3180,32 @@
     "name": "Metagross",
     "rarity": "",
     "types": [
-      "Steel",
-      "Psychic"
+      "Acero",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
   "377": {
-    "name": "Regirock",
+    "name": "RegiRoca",
     "rarity": "",
     "types": [
-      "Rock"
+      "Roca"
     ],
     "spawn_rate": ""
   },
   "378": {
-    "name": "Regice",
+    "name": "RegHielo",
     "rarity": "",
     "types": [
-      "Ice"
+      "Hielo"
     ],
     "spawn_rate": ""
   },
   "379": {
-    "name": "Registeel",
+    "name": "RegiAcero",
     "rarity": "",
     "types": [
-      "Steel"
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -3214,7 +3214,7 @@
     "rarity": "",
     "types": [
       "Dragon",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3223,7 +3223,7 @@
     "rarity": "",
     "types": [
       "Dragon",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3231,7 +3231,7 @@
     "name": "Kyogre",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -3239,7 +3239,7 @@
     "name": "Groudon",
     "rarity": "",
     "types": [
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -3248,7 +3248,7 @@
     "rarity": "",
     "types": [
       "Dragon",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -3256,8 +3256,8 @@
     "name": "Jirachi",
     "rarity": "",
     "types": [
-      "Steel",
-      "Psychic"
+      "Acero",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3265,7 +3265,7 @@
     "name": "Deoxys",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3273,7 +3273,7 @@
     "name": "Turtwig",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -3281,7 +3281,7 @@
     "name": "Grotle",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -3289,8 +3289,8 @@
     "name": "Torterra",
     "rarity": "",
     "types": [
-      "Grass",
-      "Ground"
+      "Planta",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -3298,7 +3298,7 @@
     "name": "Chimchar",
     "rarity": "",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -3306,8 +3306,8 @@
     "name": "Monferno",
     "rarity": "",
     "types": [
-      "Fire",
-      "Fighting"
+      "Fuego",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -3315,8 +3315,8 @@
     "name": "Infernape",
     "rarity": "",
     "types": [
-      "Fire",
-      "Fighting"
+      "Fuego",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -3324,7 +3324,7 @@
     "name": "Piplup",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -3332,7 +3332,7 @@
     "name": "Prinplup",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -3340,8 +3340,8 @@
     "name": "Empoleon",
     "rarity": "",
     "types": [
-      "Water",
-      "Steel"
+      "Agua",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -3350,7 +3350,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -3359,7 +3359,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -3368,7 +3368,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -3385,7 +3385,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -3393,7 +3393,7 @@
     "name": "Kricketot",
     "rarity": "",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -3401,7 +3401,7 @@
     "name": "Kricketune",
     "rarity": "",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -3409,7 +3409,7 @@
     "name": "Shinx",
     "rarity": "",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -3417,7 +3417,7 @@
     "name": "Luxio",
     "rarity": "",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -3425,7 +3425,7 @@
     "name": "Luxray",
     "rarity": "",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -3433,8 +3433,8 @@
     "name": "Budew",
     "rarity": "",
     "types": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -3442,8 +3442,8 @@
     "name": "Roserade",
     "rarity": "",
     "types": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -3451,7 +3451,7 @@
     "name": "Cranidos",
     "rarity": "",
     "types": [
-      "Rock"
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -3459,7 +3459,7 @@
     "name": "Rampardos",
     "rarity": "",
     "types": [
-      "Rock"
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -3467,8 +3467,8 @@
     "name": "Shieldon",
     "rarity": "",
     "types": [
-      "Rock",
-      "Steel"
+      "Roca",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -3476,8 +3476,8 @@
     "name": "Bastiodon",
     "rarity": "",
     "types": [
-      "Rock",
-      "Steel"
+      "Roca",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -3485,7 +3485,7 @@
     "name": "Burmy",
     "rarity": "",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -3493,8 +3493,8 @@
     "name": "Wormadam",
     "rarity": "",
     "types": [
-      "Bug",
-      "Grass"
+      "Bicho",
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -3502,8 +3502,8 @@
     "name": "Mothim",
     "rarity": "",
     "types": [
-      "Bug",
-      "Flying"
+      "Bicho",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -3511,8 +3511,8 @@
     "name": "Combee",
     "rarity": "",
     "types": [
-      "Bug",
-      "Flying"
+      "Bicho",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -3520,8 +3520,8 @@
     "name": "Vespiquen",
     "rarity": "",
     "types": [
-      "Bug",
-      "Flying"
+      "Bicho",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -3529,7 +3529,7 @@
     "name": "Pachirisu",
     "rarity": "",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -3537,7 +3537,7 @@
     "name": "Buizel",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -3545,7 +3545,7 @@
     "name": "Floatzel",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -3553,7 +3553,7 @@
     "name": "Cherubi",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -3561,7 +3561,7 @@
     "name": "Cherrim",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -3569,7 +3569,7 @@
     "name": "Shellos",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -3577,8 +3577,8 @@
     "name": "Gastrodon",
     "rarity": "",
     "types": [
-      "Water",
-      "Ground"
+      "Agua",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -3594,8 +3594,8 @@
     "name": "Drifloon",
     "rarity": "",
     "types": [
-      "Ghost",
-      "Flying"
+      "Fantasma",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -3603,8 +3603,8 @@
     "name": "Drifblim",
     "rarity": "",
     "types": [
-      "Ghost",
-      "Flying"
+      "Fantasma",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -3628,7 +3628,7 @@
     "name": "Mismagius",
     "rarity": "",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -3636,8 +3636,8 @@
     "name": "Honchkrow",
     "rarity": "",
     "types": [
-      "Dark",
-      "Flying"
+      "Siniestro",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -3661,7 +3661,7 @@
     "name": "Chingling",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3669,8 +3669,8 @@
     "name": "Stunky",
     "rarity": "",
     "types": [
-      "Poison",
-      "Dark"
+      "Veneno",
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -3678,8 +3678,8 @@
     "name": "Skuntank",
     "rarity": "",
     "types": [
-      "Poison",
-      "Dark"
+      "Veneno",
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -3687,8 +3687,8 @@
     "name": "Bronzor",
     "rarity": "",
     "types": [
-      "Steel",
-      "Psychic"
+      "Acero",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3696,8 +3696,8 @@
     "name": "Bronzong",
     "rarity": "",
     "types": [
-      "Steel",
-      "Psychic"
+      "Acero",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -3705,7 +3705,7 @@
     "name": "Bonsly",
     "rarity": "",
     "types": [
-      "Rock"
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -3713,8 +3713,8 @@
     "name": "Mime Jr.",
     "rarity": "",
     "types": [
-      "Psychic",
-      "Fairy"
+      "Psiquico",
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -3731,7 +3731,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -3739,8 +3739,8 @@
     "name": "Spiritomb",
     "rarity": "",
     "types": [
-      "Ghost",
-      "Dark"
+      "Fantasma",
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -3749,7 +3749,7 @@
     "rarity": "",
     "types": [
       "Dragon",
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -3758,7 +3758,7 @@
     "rarity": "",
     "types": [
       "Dragon",
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -3767,7 +3767,7 @@
     "rarity": "",
     "types": [
       "Dragon",
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -3783,7 +3783,7 @@
     "name": "Riolu",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -3791,8 +3791,8 @@
     "name": "Lucario",
     "rarity": "",
     "types": [
-      "Fighting",
-      "Steel"
+      "Lucha",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -3800,7 +3800,7 @@
     "name": "Hippopotas",
     "rarity": "",
     "types": [
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -3808,7 +3808,7 @@
     "name": "Hippowdon",
     "rarity": "",
     "types": [
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -3816,8 +3816,8 @@
     "name": "Skorupi",
     "rarity": "",
     "types": [
-      "Poison",
-      "Bug"
+      "Veneno",
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -3825,8 +3825,8 @@
     "name": "Drapion",
     "rarity": "",
     "types": [
-      "Poison",
-      "Dark"
+      "Veneno",
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -3834,8 +3834,8 @@
     "name": "Croagunk",
     "rarity": "",
     "types": [
-      "Poison",
-      "Fighting"
+      "Veneno",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -3843,8 +3843,8 @@
     "name": "Toxicroak",
     "rarity": "",
     "types": [
-      "Poison",
-      "Fighting"
+      "Veneno",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -3852,7 +3852,7 @@
     "name": "Carnivine",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -3860,7 +3860,7 @@
     "name": "Finneon",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -3868,7 +3868,7 @@
     "name": "Lumineon",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -3876,8 +3876,8 @@
     "name": "Mantyke",
     "rarity": "",
     "types": [
-      "Water",
-      "Flying"
+      "Agua",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -3885,8 +3885,8 @@
     "name": "Snover",
     "rarity": "",
     "types": [
-      "Grass",
-      "Ice"
+      "Planta",
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -3894,8 +3894,8 @@
     "name": "Abomasnow",
     "rarity": "",
     "types": [
-      "Grass",
-      "Ice"
+      "Planta",
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -3903,8 +3903,8 @@
     "name": "Weavile",
     "rarity": "",
     "types": [
-      "Dark",
-      "Ice"
+      "Siniestro",
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -3912,8 +3912,8 @@
     "name": "Magnezone",
     "rarity": "",
     "types": [
-      "Electric",
-      "Steel"
+      "Electrico",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -3929,8 +3929,8 @@
     "name": "Rhyperior",
     "rarity": "",
     "types": [
-      "Ground",
-      "Rock"
+      "Tierra",
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -3938,7 +3938,7 @@
     "name": "Tangrowth",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -3946,7 +3946,7 @@
     "name": "Electivire",
     "rarity": "",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -3954,7 +3954,7 @@
     "name": "Magmortar",
     "rarity": "",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -3962,8 +3962,8 @@
     "name": "Togekiss",
     "rarity": "",
     "types": [
-      "Fairy",
-      "Flying"
+      "Hada",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -3971,8 +3971,8 @@
     "name": "Yanmega",
     "rarity": "",
     "types": [
-      "Bug",
-      "Flying"
+      "Bicho",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -3980,7 +3980,7 @@
     "name": "Leafeon",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -3988,7 +3988,7 @@
     "name": "Glaceon",
     "rarity": "",
     "types": [
-      "Ice"
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -3996,8 +3996,8 @@
     "name": "Gliscor",
     "rarity": "",
     "types": [
-      "Ground",
-      "Flying"
+      "Tierra",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -4005,8 +4005,8 @@
     "name": "Mamoswine",
     "rarity": "",
     "types": [
-      "Ice",
-      "Ground"
+      "Hielo",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -4022,8 +4022,8 @@
     "name": "Gallade",
     "rarity": "",
     "types": [
-      "Psychic",
-      "Fighting"
+      "Psiquico",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4031,8 +4031,8 @@
     "name": "Probopass",
     "rarity": "",
     "types": [
-      "Rock",
-      "Steel"
+      "Roca",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -4040,7 +4040,7 @@
     "name": "Dusknoir",
     "rarity": "",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -4048,8 +4048,8 @@
     "name": "Froslass",
     "rarity": "",
     "types": [
-      "Ice",
-      "Ghost"
+      "Hielo",
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -4057,8 +4057,8 @@
     "name": "Rotom",
     "rarity": "",
     "types": [
-      "Electric",
-      "Ghost"
+      "Electrico",
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -4066,7 +4066,7 @@
     "name": "Uxie",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4074,7 +4074,7 @@
     "name": "Mesprit",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4082,7 +4082,7 @@
     "name": "Azelf",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4090,7 +4090,7 @@
     "name": "Dialga",
     "rarity": "",
     "types": [
-      "Steel",
+      "Acero",
       "Dragon"
     ],
     "spawn_rate": ""
@@ -4099,7 +4099,7 @@
     "name": "Palkia",
     "rarity": "",
     "types": [
-      "Water",
+      "Agua",
       "Dragon"
     ],
     "spawn_rate": ""
@@ -4108,8 +4108,8 @@
     "name": "Heatran",
     "rarity": "",
     "types": [
-      "Fire",
-      "Steel"
+      "Fuego",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -4125,7 +4125,7 @@
     "name": "Giratina",
     "rarity": "",
     "types": [
-      "Ghost",
+      "Fantasma",
       "Dragon"
     ],
     "spawn_rate": ""
@@ -4134,7 +4134,7 @@
     "name": "Cresselia",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4142,7 +4142,7 @@
     "name": "Phione",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -4150,15 +4150,15 @@
     "name": "Manaphy",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
   "491": {
-    "name": "Darkrai",
+    "name": "Siniestrorai",
     "rarity": "",
     "types": [
-      "Dark"
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -4166,7 +4166,7 @@
     "name": "Shaymin",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -4182,8 +4182,8 @@
     "name": "Victini",
     "rarity": "",
     "types": [
-      "Psychic",
-      "Fire"
+      "Psiquico",
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -4191,7 +4191,7 @@
     "name": "Snivy",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -4199,7 +4199,7 @@
     "name": "Servine",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -4207,7 +4207,7 @@
     "name": "Serperior",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -4215,7 +4215,7 @@
     "name": "Tepig",
     "rarity": "",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -4223,8 +4223,8 @@
     "name": "Pignite",
     "rarity": "",
     "types": [
-      "Fire",
-      "Fighting"
+      "Fuego",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4232,8 +4232,8 @@
     "name": "Emboar",
     "rarity": "",
     "types": [
-      "Fire",
-      "Fighting"
+      "Fuego",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4241,7 +4241,7 @@
     "name": "Oshawott",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -4249,7 +4249,7 @@
     "name": "Dewott",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -4257,7 +4257,7 @@
     "name": "Samurott",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -4305,7 +4305,7 @@
     "name": "Purrloin",
     "rarity": "",
     "types": [
-      "Dark"
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -4313,7 +4313,7 @@
     "name": "Liepard",
     "rarity": "",
     "types": [
-      "Dark"
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -4321,7 +4321,7 @@
     "name": "Pansage",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -4329,7 +4329,7 @@
     "name": "Simisage",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -4337,7 +4337,7 @@
     "name": "Pansear",
     "rarity": "",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -4345,7 +4345,7 @@
     "name": "Simisear",
     "rarity": "",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -4353,7 +4353,7 @@
     "name": "Panpour",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -4361,7 +4361,7 @@
     "name": "Simipour",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -4369,7 +4369,7 @@
     "name": "Munna",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4377,7 +4377,7 @@
     "name": "Musharna",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4386,7 +4386,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -4395,7 +4395,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -4404,7 +4404,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -4412,7 +4412,7 @@
     "name": "Blitzle",
     "rarity": "",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -4420,7 +4420,7 @@
     "name": "Zebstrika",
     "rarity": "",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -4428,7 +4428,7 @@
     "name": "Roggenrola",
     "rarity": "",
     "types": [
-      "Rock"
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -4436,7 +4436,7 @@
     "name": "Boldore",
     "rarity": "",
     "types": [
-      "Rock"
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -4444,7 +4444,7 @@
     "name": "Gigalith",
     "rarity": "",
     "types": [
-      "Rock"
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -4452,8 +4452,8 @@
     "name": "Woobat",
     "rarity": "",
     "types": [
-      "Psychic",
-      "Flying"
+      "Psiquico",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -4461,8 +4461,8 @@
     "name": "Swoobat",
     "rarity": "",
     "types": [
-      "Psychic",
-      "Flying"
+      "Psiquico",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -4470,7 +4470,7 @@
     "name": "Drilbur",
     "rarity": "",
     "types": [
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -4478,8 +4478,8 @@
     "name": "Excadrill",
     "rarity": "",
     "types": [
-      "Ground",
-      "Steel"
+      "Tierra",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -4495,7 +4495,7 @@
     "name": "Timburr",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4503,7 +4503,7 @@
     "name": "Gurdurr",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4511,7 +4511,7 @@
     "name": "Conkeldurr",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4519,7 +4519,7 @@
     "name": "Tympole",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -4527,8 +4527,8 @@
     "name": "Palpitoad",
     "rarity": "",
     "types": [
-      "Water",
-      "Ground"
+      "Agua",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -4536,8 +4536,8 @@
     "name": "Seismitoad",
     "rarity": "",
     "types": [
-      "Water",
-      "Ground"
+      "Agua",
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -4545,7 +4545,7 @@
     "name": "Throh",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4553,7 +4553,7 @@
     "name": "Sawk",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4561,8 +4561,8 @@
     "name": "Sewaddle",
     "rarity": "",
     "types": [
-      "Bug",
-      "Grass"
+      "Bicho",
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -4570,8 +4570,8 @@
     "name": "Swadloon",
     "rarity": "",
     "types": [
-      "Bug",
-      "Grass"
+      "Bicho",
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -4579,8 +4579,8 @@
     "name": "Leavanny",
     "rarity": "",
     "types": [
-      "Bug",
-      "Grass"
+      "Bicho",
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -4588,8 +4588,8 @@
     "name": "Venipede",
     "rarity": "",
     "types": [
-      "Bug",
-      "Poison"
+      "Bicho",
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -4597,8 +4597,8 @@
     "name": "Whirlipede",
     "rarity": "",
     "types": [
-      "Bug",
-      "Poison"
+      "Bicho",
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -4606,8 +4606,8 @@
     "name": "Scolipede",
     "rarity": "",
     "types": [
-      "Bug",
-      "Poison"
+      "Bicho",
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -4615,8 +4615,8 @@
     "name": "Cottonee",
     "rarity": "",
     "types": [
-      "Grass",
-      "Fairy"
+      "Planta",
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -4624,8 +4624,8 @@
     "name": "Whimsicott",
     "rarity": "",
     "types": [
-      "Grass",
-      "Fairy"
+      "Planta",
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -4633,7 +4633,7 @@
     "name": "Petilil",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -4641,7 +4641,7 @@
     "name": "Lilligant",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -4649,7 +4649,7 @@
     "name": "Basculin",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -4657,8 +4657,8 @@
     "name": "Sandile",
     "rarity": "",
     "types": [
-      "Ground",
-      "Dark"
+      "Tierra",
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -4666,8 +4666,8 @@
     "name": "Krokorok",
     "rarity": "",
     "types": [
-      "Ground",
-      "Dark"
+      "Tierra",
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -4675,8 +4675,8 @@
     "name": "Krookodile",
     "rarity": "",
     "types": [
-      "Ground",
-      "Dark"
+      "Tierra",
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -4684,7 +4684,7 @@
     "name": "Darumaka",
     "rarity": "",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -4692,7 +4692,7 @@
     "name": "Darmanitan",
     "rarity": "",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -4700,7 +4700,7 @@
     "name": "Maractus",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -4708,8 +4708,8 @@
     "name": "Dwebble",
     "rarity": "",
     "types": [
-      "Bug",
-      "Rock"
+      "Bicho",
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -4717,8 +4717,8 @@
     "name": "Crustle",
     "rarity": "",
     "types": [
-      "Bug",
-      "Rock"
+      "Bicho",
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -4726,8 +4726,8 @@
     "name": "Scraggy",
     "rarity": "",
     "types": [
-      "Dark",
-      "Fighting"
+      "Siniestro",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4735,8 +4735,8 @@
     "name": "Scrafty",
     "rarity": "",
     "types": [
-      "Dark",
-      "Fighting"
+      "Siniestro",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -4744,8 +4744,8 @@
     "name": "Sigilyph",
     "rarity": "",
     "types": [
-      "Psychic",
-      "Flying"
+      "Psiquico",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -4753,7 +4753,7 @@
     "name": "Yamask",
     "rarity": "",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -4761,7 +4761,7 @@
     "name": "Cofagrigus",
     "rarity": "",
     "types": [
-      "Ghost"
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -4769,8 +4769,8 @@
     "name": "Tirtouga",
     "rarity": "",
     "types": [
-      "Water",
-      "Rock"
+      "Agua",
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -4778,8 +4778,8 @@
     "name": "Carracosta",
     "rarity": "",
     "types": [
-      "Water",
-      "Rock"
+      "Agua",
+      "Roca"
     ],
     "spawn_rate": ""
   },
@@ -4787,8 +4787,8 @@
     "name": "Archen",
     "rarity": "",
     "types": [
-      "Rock",
-      "Flying"
+      "Roca",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -4796,8 +4796,8 @@
     "name": "Archeops",
     "rarity": "",
     "types": [
-      "Rock",
-      "Flying"
+      "Roca",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -4805,7 +4805,7 @@
     "name": "Trubbish",
     "rarity": "",
     "types": [
-      "Poison"
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -4813,7 +4813,7 @@
     "name": "Garbodor",
     "rarity": "",
     "types": [
-      "Poison"
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -4821,7 +4821,7 @@
     "name": "Zorua",
     "rarity": "",
     "types": [
-      "Dark"
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -4829,7 +4829,7 @@
     "name": "Zoroark",
     "rarity": "",
     "types": [
-      "Dark"
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -4853,7 +4853,7 @@
     "name": "Gothita",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4861,7 +4861,7 @@
     "name": "Gothorita",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4869,7 +4869,7 @@
     "name": "Gothitelle",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4877,7 +4877,7 @@
     "name": "Solosis",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4885,7 +4885,7 @@
     "name": "Duosion",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4893,7 +4893,7 @@
     "name": "Reuniclus",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -4901,8 +4901,8 @@
     "name": "Ducklett",
     "rarity": "",
     "types": [
-      "Water",
-      "Flying"
+      "Agua",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -4910,8 +4910,8 @@
     "name": "Swanna",
     "rarity": "",
     "types": [
-      "Water",
-      "Flying"
+      "Agua",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -4919,7 +4919,7 @@
     "name": "Vanillite",
     "rarity": "",
     "types": [
-      "Ice"
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -4927,7 +4927,7 @@
     "name": "Vanillish",
     "rarity": "",
     "types": [
-      "Ice"
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -4935,7 +4935,7 @@
     "name": "Vanilluxe",
     "rarity": "",
     "types": [
-      "Ice"
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -4944,7 +4944,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -4953,7 +4953,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -4961,8 +4961,8 @@
     "name": "Emolga",
     "rarity": "",
     "types": [
-      "Electric",
-      "Flying"
+      "Electrico",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -4970,7 +4970,7 @@
     "name": "Karrablast",
     "rarity": "",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -4978,8 +4978,8 @@
     "name": "Escavalier",
     "rarity": "",
     "types": [
-      "Bug",
-      "Steel"
+      "Bicho",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -4987,8 +4987,8 @@
     "name": "Foongus",
     "rarity": "",
     "types": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -4996,8 +4996,8 @@
     "name": "Amoonguss",
     "rarity": "",
     "types": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
     "spawn_rate": ""
   },
@@ -5005,17 +5005,17 @@
     "name": "Frillish",
     "rarity": "",
     "types": [
-      "Water",
-      "Ghost"
+      "Agua",
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
   "593": {
-    "name": "Jellicent",
+    "name": "JellHielont",
     "rarity": "",
     "types": [
-      "Water",
-      "Ghost"
+      "Agua",
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5023,7 +5023,7 @@
     "name": "Alomomola",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -5031,8 +5031,8 @@
     "name": "Joltik",
     "rarity": "",
     "types": [
-      "Bug",
-      "Electric"
+      "Bicho",
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -5040,8 +5040,8 @@
     "name": "Galvantula",
     "rarity": "",
     "types": [
-      "Bug",
-      "Electric"
+      "Bicho",
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -5049,8 +5049,8 @@
     "name": "Ferroseed",
     "rarity": "",
     "types": [
-      "Grass",
-      "Steel"
+      "Planta",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -5058,8 +5058,8 @@
     "name": "Ferrothorn",
     "rarity": "",
     "types": [
-      "Grass",
-      "Steel"
+      "Planta",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -5067,7 +5067,7 @@
     "name": "Klink",
     "rarity": "",
     "types": [
-      "Steel"
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -5075,7 +5075,7 @@
     "name": "Klang",
     "rarity": "",
     "types": [
-      "Steel"
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -5083,7 +5083,7 @@
     "name": "Klinklang",
     "rarity": "",
     "types": [
-      "Steel"
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -5091,7 +5091,7 @@
     "name": "Tynamo",
     "rarity": "",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -5099,7 +5099,7 @@
     "name": "Eelektrik",
     "rarity": "",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -5107,7 +5107,7 @@
     "name": "Eelektross",
     "rarity": "",
     "types": [
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -5115,7 +5115,7 @@
     "name": "Elgyem",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5123,7 +5123,7 @@
     "name": "Beheeyem",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5131,8 +5131,8 @@
     "name": "Litwick",
     "rarity": "",
     "types": [
-      "Ghost",
-      "Fire"
+      "Fantasma",
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -5140,8 +5140,8 @@
     "name": "Lampent",
     "rarity": "",
     "types": [
-      "Ghost",
-      "Fire"
+      "Fantasma",
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -5149,8 +5149,8 @@
     "name": "Chandelure",
     "rarity": "",
     "types": [
-      "Ghost",
-      "Fire"
+      "Fantasma",
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -5182,7 +5182,7 @@
     "name": "Cubchoo",
     "rarity": "",
     "types": [
-      "Ice"
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -5190,7 +5190,7 @@
     "name": "Beartic",
     "rarity": "",
     "types": [
-      "Ice"
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -5198,7 +5198,7 @@
     "name": "Cryogonal",
     "rarity": "",
     "types": [
-      "Ice"
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -5206,7 +5206,7 @@
     "name": "Shelmet",
     "rarity": "",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -5214,7 +5214,7 @@
     "name": "Accelgor",
     "rarity": "",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -5222,8 +5222,8 @@
     "name": "Stunfisk",
     "rarity": "",
     "types": [
-      "Ground",
-      "Electric"
+      "Tierra",
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -5231,7 +5231,7 @@
     "name": "Mienfoo",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5239,7 +5239,7 @@
     "name": "Mienshao",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5255,8 +5255,8 @@
     "name": "Golett",
     "rarity": "",
     "types": [
-      "Ground",
-      "Ghost"
+      "Tierra",
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5264,8 +5264,8 @@
     "name": "Golurk",
     "rarity": "",
     "types": [
-      "Ground",
-      "Ghost"
+      "Tierra",
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5273,8 +5273,8 @@
     "name": "Pawniard",
     "rarity": "",
     "types": [
-      "Dark",
-      "Steel"
+      "Siniestro",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -5282,8 +5282,8 @@
     "name": "Bisharp",
     "rarity": "",
     "types": [
-      "Dark",
-      "Steel"
+      "Siniestro",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -5300,7 +5300,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -5309,7 +5309,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -5317,8 +5317,8 @@
     "name": "Vullaby",
     "rarity": "",
     "types": [
-      "Dark",
-      "Flying"
+      "Siniestro",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -5326,8 +5326,8 @@
     "name": "Mandibuzz",
     "rarity": "",
     "types": [
-      "Dark",
-      "Flying"
+      "Siniestro",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -5335,7 +5335,7 @@
     "name": "Heatmor",
     "rarity": "",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -5343,8 +5343,8 @@
     "name": "Durant",
     "rarity": "",
     "types": [
-      "Bug",
-      "Steel"
+      "Bicho",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -5352,7 +5352,7 @@
     "name": "Deino",
     "rarity": "",
     "types": [
-      "Dark",
+      "Siniestro",
       "Dragon"
     ],
     "spawn_rate": ""
@@ -5361,7 +5361,7 @@
     "name": "Zweilous",
     "rarity": "",
     "types": [
-      "Dark",
+      "Siniestro",
       "Dragon"
     ],
     "spawn_rate": ""
@@ -5370,7 +5370,7 @@
     "name": "Hydreigon",
     "rarity": "",
     "types": [
-      "Dark",
+      "Siniestro",
       "Dragon"
     ],
     "spawn_rate": ""
@@ -5379,8 +5379,8 @@
     "name": "Larvesta",
     "rarity": "",
     "types": [
-      "Bug",
-      "Fire"
+      "Bicho",
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -5388,8 +5388,8 @@
     "name": "Volcarona",
     "rarity": "",
     "types": [
-      "Bug",
-      "Fire"
+      "Bicho",
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -5397,8 +5397,8 @@
     "name": "Cobalion",
     "rarity": "",
     "types": [
-      "Steel",
-      "Fighting"
+      "Acero",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5406,8 +5406,8 @@
     "name": "Terrakion",
     "rarity": "",
     "types": [
-      "Rock",
-      "Fighting"
+      "Roca",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5415,8 +5415,8 @@
     "name": "Virizion",
     "rarity": "",
     "types": [
-      "Grass",
-      "Fighting"
+      "Planta",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5424,7 +5424,7 @@
     "name": "Tornadus",
     "rarity": "",
     "types": [
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -5432,8 +5432,8 @@
     "name": "Thundurus",
     "rarity": "",
     "types": [
-      "Electric",
-      "Flying"
+      "Electrico",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -5442,7 +5442,7 @@
     "rarity": "",
     "types": [
       "Dragon",
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -5451,7 +5451,7 @@
     "rarity": "",
     "types": [
       "Dragon",
-      "Electric"
+      "Electrico"
     ],
     "spawn_rate": ""
   },
@@ -5459,8 +5459,8 @@
     "name": "Landorus",
     "rarity": "",
     "types": [
-      "Ground",
-      "Flying"
+      "Tierra",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -5469,7 +5469,7 @@
     "rarity": "",
     "types": [
       "Dragon",
-      "Ice"
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -5477,8 +5477,8 @@
     "name": "Keldeo",
     "rarity": "",
     "types": [
-      "Water",
-      "Fighting"
+      "Agua",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5487,7 +5487,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5495,8 +5495,8 @@
     "name": "Genesect",
     "rarity": "",
     "types": [
-      "Bug",
-      "Steel"
+      "Bicho",
+      "Acero"
     ],
     "spawn_rate": ""
   },
@@ -5504,7 +5504,7 @@
     "name": "Chespin",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -5512,7 +5512,7 @@
     "name": "Quilladin",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -5520,8 +5520,8 @@
     "name": "Chesnaught",
     "rarity": "",
     "types": [
-      "Grass",
-      "Fighting"
+      "Planta",
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5529,7 +5529,7 @@
     "name": "Fennekin",
     "rarity": "",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -5537,7 +5537,7 @@
     "name": "Braixen",
     "rarity": "",
     "types": [
-      "Fire"
+      "Fuego"
     ],
     "spawn_rate": ""
   },
@@ -5545,8 +5545,8 @@
     "name": "Delphox",
     "rarity": "",
     "types": [
-      "Fire",
-      "Psychic"
+      "Fuego",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5554,7 +5554,7 @@
     "name": "Froakie",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -5562,7 +5562,7 @@
     "name": "Frogadier",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -5570,8 +5570,8 @@
     "name": "Greninja",
     "rarity": "",
     "types": [
-      "Water",
-      "Dark"
+      "Agua",
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -5588,7 +5588,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -5597,7 +5597,7 @@
     "rarity": "",
     "types": [
       "Normal",
-      "Flying"
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -5605,8 +5605,8 @@
     "name": "Fletchinder",
     "rarity": "",
     "types": [
-      "Fire",
-      "Flying"
+      "Fuego",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -5614,16 +5614,16 @@
     "name": "Talonflame",
     "rarity": "",
     "types": [
-      "Fire",
-      "Flying"
+      "Fuego",
+      "Volador"
     ],
     "spawn_rate": ""
   },
   "664": {
-    "name": "Scatterbug",
+    "name": "ScatterBicho",
     "rarity": "",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -5631,7 +5631,7 @@
     "name": "Spewpa",
     "rarity": "",
     "types": [
-      "Bug"
+      "Bicho"
     ],
     "spawn_rate": ""
   },
@@ -5639,8 +5639,8 @@
     "name": "Vivillon",
     "rarity": "",
     "types": [
-      "Bug",
-      "Flying"
+      "Bicho",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -5648,7 +5648,7 @@
     "name": "Litleo",
     "rarity": "",
     "types": [
-      "Fire",
+      "Fuego",
       "Normal"
     ],
     "spawn_rate": ""
@@ -5657,7 +5657,7 @@
     "name": "Pyroar",
     "rarity": "",
     "types": [
-      "Fire",
+      "Fuego",
       "Normal"
     ],
     "spawn_rate": ""
@@ -5666,7 +5666,7 @@
     "name": "Flabébé",
     "rarity": "",
     "types": [
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -5674,7 +5674,7 @@
     "name": "Floette",
     "rarity": "",
     "types": [
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -5682,7 +5682,7 @@
     "name": "Florges",
     "rarity": "",
     "types": [
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -5690,7 +5690,7 @@
     "name": "Skiddo",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -5698,7 +5698,7 @@
     "name": "Gogoat",
     "rarity": "",
     "types": [
-      "Grass"
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -5706,7 +5706,7 @@
     "name": "Pancham",
     "rarity": "",
     "types": [
-      "Fighting"
+      "Lucha"
     ],
     "spawn_rate": ""
   },
@@ -5714,8 +5714,8 @@
     "name": "Pangoro",
     "rarity": "",
     "types": [
-      "Fighting",
-      "Dark"
+      "Lucha",
+      "Siniestro"
     ],
     "spawn_rate": ""
   },
@@ -5731,7 +5731,7 @@
     "name": "Espurr",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5739,7 +5739,7 @@
     "name": "Meowstic",
     "rarity": "",
     "types": [
-      "Psychic"
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5747,8 +5747,8 @@
     "name": "Honedge",
     "rarity": "",
     "types": [
-      "Steel",
-      "Ghost"
+      "Acero",
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5756,8 +5756,8 @@
     "name": "Doublade",
     "rarity": "",
     "types": [
-      "Steel",
-      "Ghost"
+      "Acero",
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5765,8 +5765,8 @@
     "name": "Aegislash",
     "rarity": "",
     "types": [
-      "Steel",
-      "Ghost"
+      "Acero",
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -5774,7 +5774,7 @@
     "name": "Spritzee",
     "rarity": "",
     "types": [
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -5782,7 +5782,7 @@
     "name": "Aromatisse",
     "rarity": "",
     "types": [
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -5790,7 +5790,7 @@
     "name": "Swirlix",
     "rarity": "",
     "types": [
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -5798,7 +5798,7 @@
     "name": "Slurpuff",
     "rarity": "",
     "types": [
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -5806,8 +5806,8 @@
     "name": "Inkay",
     "rarity": "",
     "types": [
-      "Dark",
-      "Psychic"
+      "Siniestro",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5815,8 +5815,8 @@
     "name": "Malamar",
     "rarity": "",
     "types": [
-      "Dark",
-      "Psychic"
+      "Siniestro",
+      "Psiquico"
     ],
     "spawn_rate": ""
   },
@@ -5824,8 +5824,8 @@
     "name": "Binacle",
     "rarity": "",
     "types": [
-      "Rock",
-      "Water"
+      "Roca",
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -5833,8 +5833,8 @@
     "name": "Barbaracle",
     "rarity": "",
     "types": [
-      "Rock",
-      "Water"
+      "Roca",
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -5842,8 +5842,8 @@
     "name": "Skrelp",
     "rarity": "",
     "types": [
-      "Poison",
-      "Water"
+      "Veneno",
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -5851,7 +5851,7 @@
     "name": "Dragalge",
     "rarity": "",
     "types": [
-      "Poison",
+      "Veneno",
       "Dragon"
     ],
     "spawn_rate": ""
@@ -5860,7 +5860,7 @@
     "name": "Clauncher",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -5868,7 +5868,7 @@
     "name": "Clawitzer",
     "rarity": "",
     "types": [
-      "Water"
+      "Agua"
     ],
     "spawn_rate": ""
   },
@@ -5876,7 +5876,7 @@
     "name": "Helioptile",
     "rarity": "",
     "types": [
-      "Electric",
+      "Electrico",
       "Normal"
     ],
     "spawn_rate": ""
@@ -5885,7 +5885,7 @@
     "name": "Heliolisk",
     "rarity": "",
     "types": [
-      "Electric",
+      "Electrico",
       "Normal"
     ],
     "spawn_rate": ""
@@ -5894,7 +5894,7 @@
     "name": "Tyrunt",
     "rarity": "",
     "types": [
-      "Rock",
+      "Roca",
       "Dragon"
     ],
     "spawn_rate": ""
@@ -5903,7 +5903,7 @@
     "name": "Tyrantrum",
     "rarity": "",
     "types": [
-      "Rock",
+      "Roca",
       "Dragon"
     ],
     "spawn_rate": ""
@@ -5912,8 +5912,8 @@
     "name": "Amaura",
     "rarity": "",
     "types": [
-      "Rock",
-      "Ice"
+      "Roca",
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -5921,8 +5921,8 @@
     "name": "Aurorus",
     "rarity": "",
     "types": [
-      "Rock",
-      "Ice"
+      "Roca",
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -5930,7 +5930,7 @@
     "name": "Sylveon",
     "rarity": "",
     "types": [
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -5938,8 +5938,8 @@
     "name": "Hawlucha",
     "rarity": "",
     "types": [
-      "Fighting",
-      "Flying"
+      "Lucha",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -5947,8 +5947,8 @@
     "name": "Dedenne",
     "rarity": "",
     "types": [
-      "Electric",
-      "Fairy"
+      "Electrico",
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -5956,8 +5956,8 @@
     "name": "Carbink",
     "rarity": "",
     "types": [
-      "Rock",
-      "Fairy"
+      "Roca",
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -5989,8 +5989,8 @@
     "name": "Klefki",
     "rarity": "",
     "types": [
-      "Steel",
-      "Fairy"
+      "Acero",
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -5998,8 +5998,8 @@
     "name": "Phantump",
     "rarity": "",
     "types": [
-      "Ghost",
-      "Grass"
+      "Fantasma",
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -6007,8 +6007,8 @@
     "name": "Trevenant",
     "rarity": "",
     "types": [
-      "Ghost",
-      "Grass"
+      "Fantasma",
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -6016,8 +6016,8 @@
     "name": "Pumpkaboo",
     "rarity": "",
     "types": [
-      "Ghost",
-      "Grass"
+      "Fantasma",
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -6025,8 +6025,8 @@
     "name": "Gourgeist",
     "rarity": "",
     "types": [
-      "Ghost",
-      "Grass"
+      "Fantasma",
+      "Planta"
     ],
     "spawn_rate": ""
   },
@@ -6034,7 +6034,7 @@
     "name": "Bergmite",
     "rarity": "",
     "types": [
-      "Ice"
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -6042,7 +6042,7 @@
     "name": "Avalugg",
     "rarity": "",
     "types": [
-      "Ice"
+      "Hielo"
     ],
     "spawn_rate": ""
   },
@@ -6050,7 +6050,7 @@
     "name": "Noibat",
     "rarity": "",
     "types": [
-      "Flying",
+      "Volador",
       "Dragon"
     ],
     "spawn_rate": ""
@@ -6059,7 +6059,7 @@
     "name": "Noivern",
     "rarity": "",
     "types": [
-      "Flying",
+      "Volador",
       "Dragon"
     ],
     "spawn_rate": ""
@@ -6068,7 +6068,7 @@
     "name": "Xerneas",
     "rarity": "",
     "types": [
-      "Fairy"
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -6076,8 +6076,8 @@
     "name": "Yveltal",
     "rarity": "",
     "types": [
-      "Dark",
-      "Flying"
+      "Siniestro",
+      "Volador"
     ],
     "spawn_rate": ""
   },
@@ -6086,7 +6086,7 @@
     "rarity": "",
     "types": [
       "Dragon",
-      "Ground"
+      "Tierra"
     ],
     "spawn_rate": ""
   },
@@ -6094,8 +6094,8 @@
     "name": "Diancie",
     "rarity": "",
     "types": [
-      "Rock",
-      "Fairy"
+      "Roca",
+      "Hada"
     ],
     "spawn_rate": ""
   },
@@ -6103,8 +6103,8 @@
     "name": "Hoopa",
     "rarity": "",
     "types": [
-      "Psychic",
-      "Ghost"
+      "Psiquico",
+      "Fantasma"
     ],
     "spawn_rate": ""
   },
@@ -6112,8 +6112,8 @@
     "name": "Volcanion",
     "rarity": "",
     "types": [
-      "Fire",
-      "Water"
+      "Fuego",
+      "Agua"
     ],
     "spawn_rate": ""
   }
