@@ -52,8 +52,8 @@ exports.run = (client, msg, args) => {
 				})
 
 				rawTypes.forEach((t) => {
-					if (t.toLowerCase() === 'mixed') {
-						types.push('Mixed')
+					if (t.toLowerCase() === 'Mixto') {
+						types.push('Mixto')
 					}
 					else {
 						for (const tt in typeData) {

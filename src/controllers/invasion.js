@@ -176,7 +176,7 @@ class Incident extends Controller {
 						else {
 							data.gender = 0
 							data.gruntName = 'Grunt'
-							data.gruntType = 'Mixed'
+							data.gruntType = 'Mixto'
 							data.gruntRewards = ''
 						}
 					}
