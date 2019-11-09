@@ -31,7 +31,7 @@
     "gender": 2,
     "second_reward": false,
     "encounters":{
-        "first": ["143"],
+        "first": ["143","131"],
         "second":["143","62","282"],
         "third":["143","149","130"]
     }
@@ -47,9 +47,9 @@
     "gender": 1,
     "second_reward": false,
     "encounters":{
-        "first": ["123"],
-        "second":["123","212"],
-        "third":["123","212"]
+        "first": ["13","48"],
+        "second":["14","49","212"],
+        "third":["15","123","212"]
     }
   },
   "8": {
@@ -60,7 +60,13 @@
   "9": {
     "type": "Fantasma",
     "grunt": "Male Grunt",
-    "gender": 1
+    "gender": 1,
+    "second_reward": false,
+    "encounters":{
+        "first": ["302","353","355"],
+        "second":["302","354","356"],
+        "third":["302","354","477"]
+    }
   },
   "10": {
     "type": "Siniestro",
@@ -79,8 +85,8 @@
     "second_reward": false,
     "encounters":{
         "first": ["147"],
-        "second":["147","148"],
-        "third":["148","149","130"]
+        "second":["147","148","330"],
+        "third":["130","148","149"]
     }
   },
   "13": {
@@ -104,7 +110,7 @@
     "gender": 2,
     "second_reward": false,
     "encounters":{
-        "first": ["107"],
+        "first": ["106","107"],
         "second":["107"],
         "third":["107"]
 	}
@@ -120,9 +126,9 @@
     "gender": 2,
     "second_reward": true,
     "encounters":{
-        "first": ["4","58","228"],
+        "first": ["58","126","228"],
         "second":["5","229"],
-        "third":["6","59","229"]
+        "third":["5","59","229"]
     }
   },
   "19": {
@@ -157,9 +163,9 @@
     "gender": 1,
     "second_reward": true,
     "encounters":{
-        "first": ["1","43","387"],
-        "second":["1","2","44"],
-        "third":["2","3","388"]
+        "first": ["1","43","69"],
+        "second":["2","44","70"],
+        "third":["45","71","275"]
     }
   },
   "24": {
@@ -173,9 +179,9 @@
     "gender": 1,
     "second_reward": false,
     "encounters":{
-        "first": ["19","104","246"],
-        "second":["20","104","105"],
-        "third":["20","105"]
+        "first": ["27","246","328"],
+        "second":["105","247","329"],
+        "third":["105","330"]
     }
   },
   "26": {
@@ -209,9 +215,9 @@
     "gender": 1,
     "second_reward": true,
     "encounters":{
-        "first": ["19","41"],
-        "second":["19","20"],
-        "third":["20","143"]
+        "first": ["137"],
+        "second":["233"],
+        "third":["474","143"]
     }
   },
   "32": {
@@ -241,7 +247,7 @@
     "gender": 1,
     "second_reward": true,
     "encounters":{
-        "first": ["63","96","280"],
+        "first": ["63","202","280"],
         "second":["96","97","280"],
         "third":["64","97","281"]
     }
@@ -268,9 +274,9 @@
     "gender": 2,
     "second_reward": false,
     "encounters":{
-        "first": ["54","60"],
+        "first": ["54","60","258"],
         "second":["55","61"],
-        "third":["56","61","186"]
+        "third":["62","186"]
     }
   },
   "39": {
@@ -281,7 +287,7 @@
     "encounters":{
         "first": ["129"],
         "second":["129"],
-        "third":["129"]
+        "third":["129","130"]
     }
   },
   "40": {
@@ -336,8 +342,8 @@
     "gender": 2,
     "second_reward": "false",
     "encounters":{
-        "first": ["125","179"],
-        "second":["125","180"],
+        "first": ["81","125","179"],
+        "second":["82","125","180"],
         "third":["125","181"]
     }
   },
