@@ -311,13 +311,13 @@
     "grunt": ""
   },
   "45": {
-    "type": "Decoy",
+    "type": "Piezas",
     "grunt": "Male Grunt",
     "gender": 1
 
   },
   "46": {
-    "type": "Decoy",
+    "type": "Piezas",
     "grunt": "Female Grunt",
     "gender": 2
   },
