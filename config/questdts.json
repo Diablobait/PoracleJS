@@ -29,7 +29,15 @@
     "27": "Completa {{amount}} Batallas",
     "28": "Take {{amount}} snapshots",
     "29": "Derrota {{amount}} Team Rocket",
-    "30": "Purifica {{amount}} Pokemon"
+    "30": "Purifica {{amount}} Pokemon",
+    "31": "Encuentra {{amount}} Team Rocket",
+    "32": "Primer Team Rocker del día",
+    "33": "Alimenta a tu compañero",
+    "34": "Consigue más afecto con tu compañero",
+    "35": "Ponte a un compañero",
+    "36": "Sube de nivel con tu compañero",
+    "37": "Anda con tu compañero",
+    "38": "Yatta"
   },
   "questRewardTypes": {
     "0": "",
@@ -68,7 +76,12 @@
     "22": "Lider",
     "23": "Otro jugador",
     "24": "Localizacion",
-    "25": "Distancia"
+    "25": "Distancia",
+    "26": "Alineacion",
+    "27": "Invasion",
+    "28": "Compañero",
+    "39": "Lugar nuevo",
+    "30": "Corazones compñaero"
   },
 
   "throwType": {
