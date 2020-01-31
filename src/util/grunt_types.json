@@ -31,7 +31,7 @@
     "gender": 2,
     "second_reward": false,
     "encounters":{
-        "first": ["143","131"],
+        "first": ["131","143"],
         "second":["143","62","282"],
         "third":["143","149","130"]
     }
@@ -164,7 +164,7 @@
     "second_reward": true,
     "encounters":{
         "first": ["1","43","69"],
-        "second":["2","44","70"],
+        "second":["1","44","70"],
         "third":["45","71","275"]
     }
   },
@@ -187,7 +187,13 @@
   "26": {
     "type": "Hielo",
     "grunt": "Female Grunt",
-    "gender": 2
+    "gender": 2,
+    "second_reward": false,
+    "encounters":{
+        "first": ["225","459"],
+        "second":["225"],
+        "third":["225","460"]
+    }
   },
   "27": {
     "type": "Hielo",
@@ -287,7 +293,7 @@
     "encounters":{
         "first": ["129"],
         "second":["129"],
-        "third":["129","130"]
+        "third":["129"]
     }
   },
   "40": {
@@ -295,35 +301,62 @@
     "grunt": "Player Team Leader"
  },
   "41": {
-    "type": "Cliff",
-    "grunt": ""
+    "type": "Boss",
+    "grunt": "Cliff",
+    "gender": 1,
+    "second_reward": false,
+    "encounters":{
+        "first": ["234"],
+        "second":["95","105","466"],
+        "third":["248","260","389"]
+    }
   },
   "42": {
-    "type": "Arlo",
-    "grunt": ""
+    "type": "Boss",
+    "grunt": "Arlo",
+    "gender": 1,
+    "second_reward": false,
+    "encounters":{
+        "first": ["371"],
+        "second":["6","9","208"],
+        "third":["149","212","373"]
+    }
   },
   "43": {
-    "type": "Sierra",
-    "grunt": ""
+    "type": "Boss",
+    "grunt": "Sierra",
+    "gender": 2,
+    "second_reward": false,
+    "encounters":{
+        "first": ["359"],
+        "second":["65","131","332"],
+        "third":["229","275","475"]
+    }
   },
   "44": {
-    "type": "Giovanni",
-    "grunt": ""
+    "type": "Boss",
+    "grunt": "Giovanni",
+    "gender": 1,
+    "second_reward": false,
+    "encounters":{
+        "first": ["145"]
+    }
   },
   "45": {
-    "type": "Piezas",
+    "type": "Decoy",
     "grunt": "Male Grunt",
     "gender": 1
 
   },
   "46": {
-    "type": "Piezas",
+    "type": "Decoy",
     "grunt": "Female Grunt",
     "gender": 2
   },
   "47": {
     "type": "Fantasma",
-    "grunt": "Female Grunt"
+    "grunt": "Female Grunt",
+    "gender": 2
   },
   "48": {
     "type": "Fantasma",
@@ -334,7 +367,7 @@
         "first": ["302","353","355"],
         "second":["302","354","356"],
         "third":["302","354","477"]
-    }
+	  }
   },
   "49": {
     "type": "Electrico",
@@ -345,7 +378,7 @@
         "first": ["81","125","179"],
         "second":["82","125","180"],
         "third":["125","181"]
-    }
+	}
   },
   "50": {
     "type": "Electrico",
