@@ -301,7 +301,7 @@
     "grunt": "Player Team Leader"
  },
   "41": {
-    "type": "Boss",
+    "type": "Cliff",
     "grunt": "Cliff",
     "gender": 1,
     "second_reward": false,
@@ -312,7 +312,7 @@
     }
   },
   "42": {
-    "type": "Boss",
+    "type": "Arlo",
     "grunt": "Arlo",
     "gender": 1,
     "second_reward": false,
@@ -323,7 +323,7 @@
     }
   },
   "43": {
-    "type": "Boss",
+    "type": "Sierra",
     "grunt": "Sierra",
     "gender": 2,
     "second_reward": false,
@@ -334,7 +334,7 @@
     }
   },
   "44": {
-    "type": "Boss",
+    "type": "Giovanni",
     "grunt": "Giovanni",
     "gender": 1,
     "second_reward": false,
