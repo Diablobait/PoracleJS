@@ -30,7 +30,7 @@ module.exports = (ctx) => {
 				controller.query.geolocate(search).then((location) => {
 					controller.query.updateLocation('humans', location[0].latitude, location[0].longitude, 'id', target.id).catch((O_o) => {})
 					const maplink = `https://www.google.com/maps/search/?api=1&query=${location[0].latitude},${location[0].longitude}`
-					ctx.reply(`✅, Localizacion fijada ${target.name}s a: \n${maplink}`)
+					ctx.reply(`La localización esta desactivada`)//✅, Localizacion fijada ${target.name}s a: \n${maplink}`)
 				}).catch((O_o) => {})
 			}
 		})

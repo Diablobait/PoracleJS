@@ -22,7 +22,7 @@
     "3": {
       "embed": {
         "color": "{{ivcolor}}",
-        "title": "[{{name}} {{formname}}]({{{mapurl}}}) {{emojiString}}\nPC:{{cp}} Nivel:{{level}} {{atk}}/{{ def }}/{{ sta }} {{gender}}",
+        "title": "[{{name}} {{formname}}]({{{mapurl}}}) {{emojiString}}\nPC:{{cp}} Nivel:{{level}} {{atk}}/{{ def }}/{{ sta }} {{gendername}}",
         "description": "IV:{{iv}}%\nHasta las: {{time}} - {{tthm}}m {{tths}}s {{#confirmedTime}}✅{{/confirmedTime}}{{^confirmedTime}}❓{{/confirmedTime}} \n{{flagemoji}} {{addr}} {{areas}}\n{{#boost}}Clima: {{{boostemoji}}}\n{{/boost}}{{^boost}}{{/boost}}",
         "thumbnail": {
           "url": "{{{imgurl}}}"
@@ -351,47 +351,43 @@
   "greeting": {
     "embed": {
       "title": "Bienvenido",
-      "description": "Gracias por registrarte.\nPor favor guarda una localización con `/localizacion dirección` o `/localizacion coordenadas`, por ejemplo /localizacion 42.2343242,-8.23423423",
+      "description": "Gracias por registrarte.",
       "fields": [
         {
           "name": "**Comandos generales**",
-          "value": "`/stop`: Para las alarmas temporalmente \n`/start`: Vuelve a activar las alarmas \n`/localizacion dirección`: Seleccionas la localización para los avisos por distancia\n`/avisos`: Muestra tus avisos y localización seleccionada"
+          "value": "`/stop`: Para las alarmas temporalmente \n`/start`: Vuelve a activar las alarmas \n`/avisos`: Muestra tus avisos y localización seleccionada"
         },
         {
           "name": "**Filtros Pokemon**",
-          "value": "`d500` Seleccionamos la distancía máxima de la localización que añadimos en metros, no exceder de 10.000 o se borraran\n`iv` Seleccionamos el iv minimo a mostrar\n`maxiv` Seleccionamos el IV máximo a mostrar\n`cp` Seleccionamos el CP minimo\n`maxcp` Seleccionamos el CP máximo\n`level` Seleccionamos el nivel mínimo\n`maxlevel`Seleccionamos el nivel máximo\n`atk def sta` Seleccionamos el atributo o atributos minimos que queremos atk15 def14 sta13 por ejemplo\n`maxatk maxdef maxsta` Seleccionamos los atributos máximos\n`male female` Seleccionamos el genero\n`formalola` Seleccionamos la forma alola"
+          "value": "`iv` Seleccionamos el iv minimo a mostrar\n`maxiv` Seleccionamos el IV máximo a mostrar\n`cp` Seleccionamos el CP minimo\n`maxcp` Seleccionamos el CP máximo\n`level` Seleccionamos el nivel mínimo\n`maxlevel`Seleccionamos el nivel máximo\n`atk def sta` Seleccionamos el atributo o atributos minimos que queremos atk15 def14 sta13 por ejemplo\n`maxatk maxdef maxsta` Seleccionamos los atributos máximos\n`male female` Seleccionamos el genero\n`formalola` Seleccionamos la forma alola"
         },
         {
           "name": "**Comandos de Pokemon**",
-          "value": "`/aviso snorlax d500 iv50 maxiv90 cp1000 level15`: Cualquier argumento es valido, este comando enviará por privado sobre un Snorlax a menos de 500 metros de tu localización seleccionada. En este filtro de ejemplo seleccionamos un IV de 50% - 90% y al menos nivel 15 con un mínimo de PC 1000 \n`/quitaraviso lapras`: Borra el aviso de Lapras"
+          "value": "`/aviso snorlax iv50 maxiv90 cp1000 level15`: Cualquier argumento es valido, este comando enviará por privado sobre un Snorlax. En este filtro de ejemplo seleccionamos un IV de 50% - 90% y al menos nivel 15 con un mínimo de PC 1000 \n`/quitaraviso lapras`: Borra el aviso de Lapras"
         },
         {
           "name": "**Filtros Incursiones**",
-          "value": "`d1000` Seleccionamos la distancía máxima de la localización que añadimos en metros\n`level` Seleccionamos el nivel deseado de la incursión\n`instinct mystic valor` Seleccionamos el equipo lider de la incursión\n`ex` Seleccionamos solo incursiones en gimnasios EX"
+          "value": "`level` Seleccionamos el nivel deseado de la incursión\n`instinct mystic valor` Seleccionamos el equipo lider de la incursión\n`ex` Seleccionamos solo incursiones en gimnasios EX"
         },
         {
           "name": "**Comandos de Incursiones**",
-          "value": "`/incursion snorlax lapras d500 instinct`: Este comando te avisará de una incursion de snorlax o lapras en un radio de menos de 500 metros de tu localización o dentro del area que elijas. A mayores también se pide que este controlado por el team Instinct\n`/incursion remove lapras vileplume`: Borra los avisos de las incursiones para lapras y vileplume"
+          "value": "`/incursion snorlax lapras instinct`: Este comando te avisará de una incursion de snorlax o lapras. A mayores también se pide que este controlado por el team Instinct\n`/incursion remove lapras vileplume`: Borra los avisos de las incursiones para lapras y vileplume"
         },
         {
           "name": "**Filtros Huevo**",
-          "value": "`d1000` Seleccionamos la distancía máxima de la localización que añadimos en metros\n`level` Seleccionamos el nivel deseado del huevo\n`instinct mystic valor` Seleccionamos el equipo lider del gimnasio al salir el huevo\n`ex` Seleccionamos solo huevos en gimnasios EX"
+          "value": "`level` Seleccionamos el nivel deseado del huevo\n`instinct mystic valor` Seleccionamos el equipo lider del gimnasio al salir el huevo\n`ex` Seleccionamos solo huevos en gimnasios EX"
         },
         {
           "name": "**Comandos de Huevo**",
-          "value": "`/huevo level3 d500 instinct`: Este comando te avisará de cualquier huevo que salga de nivel 3 en un ratio de 500 metros o el area que elijas. A mayores también se pide que este controlado por el team Instinct\n`/huevo remove level3`: Borra el aviso para los huevos de nivel 3"
-        },
-        {
-          "name": "**Filtros Misiones**",
-          "value": "`d200` Seleccionamos la distancía máxima de la localización que añadimos en metros"
+          "value": "`/huevo level3 instinct`: Este comando te avisará de cualquier huevo que salga de nivel 3. A mayores también se pide que este controlado por el team Instinct\n`/huevo remove level3`: Borra el aviso para los huevos de nivel 3"
         },
         {
           "name": "**Comandos de Misiones**",
-          "value": "`/mision porygon d500`: Este comando te avisará de las misiones en un rango de menos de 500 metros que den al completarlas porygon como recompensa. Tambien se puede usar `stardust1500`\n`/mision remove objeto o pokemon` para borrar la misión"
+          "value": "`/mision porygon`: Este comando te avisará de las misiones que den al completarlas porygon como recompensa. Tambien se puede usar `stardust1500`\n`/mision remove objeto o pokemon` para borrar la misión"
         },
         {
           "name": "**Comandos de Team Rocket**",
-          "value": "`/invasion d500 dragon`: Este comando te avisará de los team rocket de tipo dragon a un rango de 500metros, puedes poner también el nombre de un pokemon.\n `/invasion remove`: Borra los avisos avisos de todas las invasiones."
+          "value": "`/invasion dragon`: Este comando te avisará de los team rocket de los tipos que añadas, en este caso dragon (SOLO SE PUEDE POR TIPOS)\n `/invasion remove`: Borra los avisos avisos de todas las invasiones."
         }
       ]
     }

@@ -55,7 +55,10 @@ module.exports = (ctx) => {
 					const quests = data[4]
 					const invasions = data[5]
 					const maplink = `https://www.google.com/maps/search/?api=1&query=${human.latitude},${human.longitude}`
-					ctx.reply(`👋\nTu localización esta fijada en: ${maplink} \nTienes puesta la ciudad: ${human.area}`).catch((O_o) => {
+					// ctx.reply(`👋\nTu localización esta fijada en: ${maplink} \nTienes puesta la ciudad: ${human.area}`).catch((O_o) => {
+					// 	controller.log.error(O_o.message)
+					// })
+					ctx.reply(`👋\nTienes puesta la ciudad: ${human.area}`).catch((O_o) => {
 						controller.log.error(O_o.message)
 					})
 					let message = ''
@@ -70,7 +73,7 @@ module.exports = (ctx) => {
 						let formName = formData[monster.pokemon_id] ? formData[monster.pokemon_id][monster.form] : 'none'
 						if (formName === undefined) formName = 'none'
 						if (miniv === -1) miniv = 0
-						message = message.concat(`\n*${monsterName}* forma: ${formName} distancia: ${monster.distance}m IV: ${miniv}%-${monster.max_iv}% PC: ${monster.min_cp}-${monster.max_cp} Nivel: ${monster.min_level}-${monster.max_level} Estadisticas: ${monster.atk}/${monster.def}/${monster.sta} - ${monster.maxAtk}/${monster.maxDef}/${monster.maxSta}, Genero:${genderData[monster.gender]}`)
+						message = message.concat(`\n*${monsterName}* forma: ${formName} IV: ${miniv}%-${monster.max_iv}% PC: ${monster.min_cp}-${monster.max_cp} Nivel: ${monster.min_level}-${monster.max_level} Estadisticas: ${monster.atk}/${monster.def}/${monster.sta} - ${monster.maxAtk}/${monster.maxDef}/${monster.maxSta}, Genero:${genderData[monster.gender]}`)
 					})
 					if (raids.length || eggs.length) {
 						message = message.concat('\nTienes los siguientes filtros de incursiones:\n')
@@ -83,15 +86,15 @@ module.exports = (ctx) => {
 						if (formName === undefined) formName = 'none'
 
 						if (parseInt(raid.pokemon_id, 10) === 721) {
-							message = message.concat(`\n*Nivel:${raid.level} * Distancia: ${raid.distance}m controlado por ${raidTeam} , EX: ${raid.park}`)
+							message = message.concat(`\n*Nivel:${raid.level} * controlado por ${raidTeam} , EX: ${raid.park}`)
 						}
 						else {
-							message = message.concat(`\n*${monsterName}* Forma: ${formName}, Distancia: ${raid.distance}m controlado por ${raidTeam}, EX: ${raid.park}`)
+							message = message.concat(`\n*${monsterName}* Forma: ${formName}, controlado por ${raidTeam}, EX: ${raid.park}`)
 						}
 					})
 					eggs.forEach((egg) => {
 						const raidTeam = teamData[egg.team].name
-						message = message.concat(`\n*Nivel ${egg.raid_level} * Distancia: ${egg.distance}m controlado por ${raidTeam} , EX: ${egg.park}`)
+						message = message.concat(`\n*Nivel ${egg.raid_level} * controlado por ${raidTeam} , EX: ${egg.park}`)
 					})
 
 					if (quests.length) {
@@ -104,7 +107,7 @@ module.exports = (ctx) => {
 						if (quest.reward_type === 7) rewardThing = monsterData[quest.reward].name
 						if (quest.reward_type === 3) rewardThing = `${quest.reward} or more stardust`
 						if (quest.reward_type === 2) rewardThing = questDts.rewardItems[quest.reward]
-						message = message.concat(`\nRecompensa: ${rewardThing} Distancia: ${quest.distance}m `)
+						message = message.concat(`\nRecompensa: ${rewardThing}`)
 					})
 
 					if (invasions.length) {
