@@ -94,8 +94,8 @@ module.exports = (ctx) => {
 					}
 					else if (element.match(/everything/gi)) monsters = [...Array(config.general.max_pokemon).keys()].map((x) => x += 1) // eslint-disable-line no-return-assign
 					else if (element.match(/d\d/gi)) {
-						distance = element.replace(/d/gi, '')
-						if (distance.length >= 10) distance = distance.substr(0, 9)
+						distance = 0// element.replace(/d/gi, '')
+						if (distance.length >= 10) distance = 0 // distance.substr(0, 9)
 					}
 					else if (element.match(/gen[1-7]/gi)) {
 						gen = element.match(/gen\d/gi)[0].replace(/gen/gi, '')

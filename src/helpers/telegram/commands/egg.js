@@ -46,8 +46,8 @@ module.exports = (ctx) => {
 					else if (element.match(/remove/gi)) remove = true
 					else if (element.match(/everything/gi)) levels = [1, 2, 3, 4, 5]
 					else if (element.match(/d\d/gi)) {
-						distance = element.replace(/d/gi, '')
-						if (distance.length >= 10) distance = distance.substr(0, 9)
+						distance = 0 // element.replace(/d/gi, '')
+						if (distance.length >= 10) distance = 0 // distance.substr(0, 9)
 					}
 
 				})

@@ -38,8 +38,8 @@ module.exports = (ctx) => {
 					if (element.match(/template[1-5]/gi)) template = element.replace(/template/gi, '')
 					else if (element.match(/remove/gi)) remove = true
 					else if (element.match(/d\d/gi)) {
-						distance = element.replace(/d/gi, '')
-						if (distance.length >= 10) distance = distance.substr(0, 9)
+						distance = 0 // element.replace(/d/gi, '')
+						if (distance.length >= 10) distance = 0 // distance.substr(0, 9)
 					}
 					else if (element.match(/female/gi)) gender = 2
 					else if (element.match(/male/gi)) gender = 1

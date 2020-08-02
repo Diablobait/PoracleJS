@@ -66,8 +66,8 @@ module.exports = (ctx) => {
 						monsters = [...Array(config.general.max_pokemon).keys()].map((x) => x += 1).filter((k) => k >= genData[gen].min && k <= genData[gen].max) // eslint-disable-line no-return-assign
 					}
 					else if (element.match(/d\d/gi)) {
-						distance = element.replace(/d/gi, '')
-						if (distance.length >= 10) distance = distance.substr(0, 9)
+						distance = 0 // element.replace(/d/gi, '')
+						if (distance.length >= 10) distance = 0 // distance.substr(0, 9)
 					}
 					else if (element.match(/stardust\d/gi)) minDust = element.replace(/stardust/gi, '')
 					else if (element === 'stardust') {
