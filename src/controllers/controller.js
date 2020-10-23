@@ -65,7 +65,7 @@ class Controller {
 			default:
 			{
 				return NodeGeocoder({
-					provider: 'openstreetmap',
+					provider: 'teleport',
 					formatterPattern: config.locale.addressformat,
 				})
 			}
