@@ -2201,15 +2201,15 @@
         "1735": "Purificado"
     },
     "422": {
-        "96": "Mar Del Oeste",
-        "97": "Mar Del Este",
+        "96": "maroeste",
+        "97": "mareste",
         "1736": "Normal",
         "1737": "Oscuro",
         "1738": "Purificado"
     },
     "423": {
-        "98": "Mar Del Oeste",
-        "99": "Mar Del Este",
+        "98": "maroeste",
+        "99": "mareste",
         "1739": "Normal",
         "1740": "Oscuro",
         "1741": "Purificado"
@@ -2862,8 +2862,8 @@
         "2053": "Purificado"
     },
     "550": {
-        "136": "Red Striped",
-        "137": "Blue Striped"
+        "136": "rayaroja",
+        "137": "rayaazul"
     },
     "551": {
         "2054": "Normal",
