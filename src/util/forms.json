@@ -1839,7 +1839,7 @@
         "29": "Normal",
         "30": "Soleado",
         "31": "Lluvias",
-        "32": "Cubierto de nieve"
+        "32": "Nieve"
     },
     "352": {
         "1586": "Normal",
@@ -2144,16 +2144,16 @@
     },
     "412": {
         "118": "Planta",
-        "119": "Sandy",
-        "120": "La basura",
+        "119": "Arena",
+        "120": "Basura",
         "1706": "Normal",
         "1707": "Oscuro",
         "1708": "Purificado"
     },
     "413": {
         "87": "Planta",
-        "88": "Sandy",
-        "89": "La basura",
+        "88": "Arena",
+        "89": "Basura",
         "1709": "Normal",
         "1710": "Oscuro",
         "1711": "Purificado"
