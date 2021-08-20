@@ -152,13 +152,13 @@ class Monster extends Controller {
 			data.imgurl = `${config.general.imgurl}pokemon_icon_${data.pokemon_id.toString().padStart(3, '0')}_${data.form ? data.form.toString() : '00'}.png`
 			data.sticker = `${config.telegram.stickerurl}pokemon_icon_${data.pokemon_id.toString().padStart(3, '0')}_${data.form ? data.form.toString() : '00'}.webp`
 			const e = []
-			if (monsterData[data.pokemon_id]) {
-				monsterData[data.pokemon_id].types.forEach((type) => {
-					e.push(emojiData.type[type])
-				})
-			} else {
-				log.warning(`Was unable to pull monster, the data I have is:`, data)
-			}
+			// if (monsterData[data.pokemon_id]) {
+			// 	monsterData[data.pokemon_id].types.forEach((type) => {
+			// 		e.push(emojiData.type[type])
+			// 	})
+			// } else {
+			// 	log.warning(`Was unable to pull monster, the data I have is:`, data)
+			// }
 			data.emoji = e
 			data.emojiString = e.join('')
 
