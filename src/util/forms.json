@@ -426,7 +426,8 @@
   "79": {
     "1017": "Normal",
     "1018": "Oscuro",
-    "1019": "Purificado"
+    "1019": "Purificado",
+    "2582": "Galar"
   },
   "80": {
     "1020": "Normal",
@@ -2146,7 +2147,7 @@
   "412": {
     "118": "Planta",
     "119": "Sandy",
-    "120": "La basura",
+    "120": "Basura",
     "1706": "Normal",
     "1707": "Oscuro",
     "1708": "Purificado"
